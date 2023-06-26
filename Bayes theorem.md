@@ -6,7 +6,3 @@ $P(B|A) = \frac{(P B \ \land \ A)}{P(A)}$
 
 $P(A \  and \ B) = P (B \ and \ A)$
 b
-
-
-
-I am adding some bullshittery

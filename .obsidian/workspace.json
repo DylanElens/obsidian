@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayes theorem.md",
+                "file": "research methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39b5bc22010b16b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9d7c12433e1d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exam-answers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -93,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayes theorem.md",
+                "file": "exam-answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayes theorem.md",
+                "file": "exam-answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayes theorem.md"
+                "file": "exam-answers.md"
               }
             }
           }
@@ -154,12 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b32e1e0ebbee7fc4",
+  "active": "6d9d7c12433e1d56",
   "lastOpenFiles": [
+    "exam.md",
+    "exam-answers.md",
+    "research methods.md",
+    "Bayes theorem.md",
     "yooo.md",
     "s&r learning task 1.md",
     "idea for semantic rules.md",
-    "Bayes theorem.md",
     "S&R natural semantics of abrubt completion.md",
     "Untitled.canvas",
     "Software verification notes.md",
