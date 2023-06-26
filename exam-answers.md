@@ -1,50 +1,53 @@
-1. (A) Freedoms people get when they are no longer under oppressive power relations
-2. (B) Reflexivity
-3. (D) All of the above
-4. (A) Structured interviews
-5. (B) False
-6. (D) Complete participant
-7. (C) Found documents
-8. (D) Content analysis
-9. (A) True
-10. (D) Ratio data
-11. (C) Predefined codebook should be mutually exclusive, exhaustive, and consistently applied.
-12. (B) Pie charts
-13. (B) Median
-14. (A) True
-15. (B) Negative correlation
-16. (B) False
-17. (A) True
-18. (A) True
-19. (B) False
-20. (B) False
-21. (B) False
-22. (B) False
-23. (B) False
-24. (A) True
-25. (A) True
-26. (A) True
-27. (B) False
-28. (A) True
-29. (B) False
-30. (A) True
-31. (A) True
-32. (A) True
-33. (B) False
-34. (A) True
-35. (B) False
-36. (B) False
-37. (B) False
-38. (A) True
-39. (B) False
-40. (B) False
-41. (A) True
-42. (A) True
-43. (B) False
-44. (A) True
-45. (A) True
-46. (A) True
-47. (A) True
-48. (A) True
-49. (A) True
-50. (A) True
+1. B
+2. A
+3. D
+4. A
+5. D
+6. A
+7. C
+8. B
+9. B
+10. A
+11. A
+12. D
+13. D
+14. A
+15. C
+16. B
+17. C
+18. A
+19. B
+20. A
+21. D
+22. B
+23. A
+24. D
+25. A
+
+
+part 2
+1. False
+2. True
+3. True
+4. False
+5. True
+6. True
+7. False
+8. True
+9. True
+10. False
+11. True
+12. False
+13. True
+14. False
+15. True
+16. True
+17. False
+18. True
+19. False
+20. True
+21. True
+22. False
+23. False
+24. False
+25. True
