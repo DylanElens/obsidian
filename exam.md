@@ -1,234 +1,252 @@
 
 # Final Examination: Research Methods and Data Analysis
 
+1. 1. What is the primary goal of research?
+   - [ ] A. To prove your point of view
+   - [ ] B. To create new knowledge
+   - [ ] C. To validate old knowledge
+   - [ ] D. To win an argument
 
-### Part I - Multiple Choice Questions (25 Points)
+2. What does a thesis refer to in the context of research?
+   - [ ] A. A claim or proposition
+   - [ ] B. A book written on a specific topic
+   - [ ] C. A person specializing in a field
+   - [ ] D. A place where research takes place
+   
+3. Which of the following best describes 'empirical'?
+   - [ ] A. Originating in or based on observation or experience
+   - [ ] B. Based on pure logic and reasoning
+   - [ ] C. Derived from philosophical arguments
+   - [ ] D. Originating from religious texts
 
-Please select the best answer by marking the appropriate checkbox.
+4. What is the Hawthorne effect?
+   - [ ] A. A statistical anomaly in research data
+   - [ ] B. The modification of behavior by people because they are aware they are being observed
+   - [ ] C. The effect of the environment on research outcomes
+   - [ ] D. The effect of strong lighting on productivity
 
--  1. The emancipation characteristic of critical research refers to:
-    
-    - [ ]  (a) Freedoms from societal norms
-    - [ ]  (b) Freedom from power relations
-    - [ ]  (c) Freedom from political influence
-    - [ ]  (d) Freedom from resource constraints
--  2. The critique of technical determinism challenges:
-    
-    - [ ]  (a) The necessity of technology in society
-    - [ ]  (b) The use of technology in research
-    - [ ]  (c) The inevitability of technological advancement
-    - [ ]  (d) The ethical implications of technology
--  3. Semi-structured interviews are characterized by:
-    
-    - [ ]  (a) Fixed question order
-    - [ ]  (b) Varied themes and questions
-    - [ ]  (c) Fixed themes, but variable question order
-    - [ ]  (d) Variable topic and themes
--  4. A questionnaire is NOT suitable for:
-    
-    - [ ]  (a) Large-scale data collection
-    - [ ]  (b) Collection of brief, uncontroversial information
-    - [ ]  (c) Collection of deeply personal, controversial information
-    - [ ]  (d) Standardized information collection
--  5. Which of these rules is NOT applicable to questionnaire design?
-    
-    - [ ]  (a) Avoid loaded questions
-    - [ ]  (b) Avoid double-barreled questions
-    - [ ]  (c) Always use absolute terms
-    - [ ]  (d) Avoid leading questions
--  6. In a structured interview, questions are in:
-    
-    - [ ]  (a) A flexible order
-    - [ ]  (b) A fixed order
-    - [ ]  (c) A random order
-    - [ ]  (d) No specific order
--  7. The term "non-performative intent" means research should not be aimed at:
-    
-    - [ ]  (a) Improving understanding of a topic
-    - [ ]  (b) Improving control of management or making companies more efficient
-    - [ ]  (c) Developing new technology
-    - [ ]  (d) Critiquing societal norms
--  8. What does "construct validity" ensure?
-    
-    - [ ]  (a) The researcher understands the scope of the questions
-    - [ ]  (b) The questionnaire covers all aspects of the topic
-    - [ ]  (c) The researcher and respondents understand the ideas and scope behind the questions in the same way
-    - [ ]  (d) The questions in a questionnaire are unambiguous
--  9. Primary sources are:
-    
-    - [ ]  (a) Secondhand accounts of events
-    - [ ]  (b) The original source of information
-    - [ ]  (c) Summaries of other documents
-    - [ ]  (d) Interpretations of other documents
--  10. Ratio data is defined as:
-    
-    - [ ]  (a) Data that describes categories
-    - [ ]  (b) Data with a quantitative scale
-    - [ ]  (c) Data with consistent differences between points
-    - [ ]  (d) Data with a true zero on the measurement scale
+5. What are confounding factors in experiments?
+   - [ ] A. Factors that cause inconvenience to the participants
+   - [ ] B. Factors that could account for the experimental results and provide alternate explanations
+   - [ ] C. Factors that increase the cost of the experiment
+   - [ ] D. Factors that delay the conclusion of the experiment
 
-### Part II - True/False Questions (25 Points)
+6. Which among these is not a research strategy?
+   - [ ] A. Design and creation
+   - [ ] B. Survey
+   - [ ] C. Case study
+   - [ ] D. Brainstorming
 
-Please indicate whether each statement is True (T) or False (F) by marking the appropriate checkbox.
+7. What is the right to anonymity in the context of participant rights?
+   - [ ] A. The right to participate without revealing personal identity [ ]
+   - [ ] B. The right to participate without giving consent
+   - [ ] C. The right to participate without being physically present
+   - [ ] D. The right to participate without reading the research findings
 
--  11. The primary goal of content analysis is to create a set of concepts that provide an abstract, general representation of the information in your documents or observations.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  12. Reflexivity in research refers to the notion that research does not occur in a vacuum.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  13. Multiplication and division are possible on ratio data.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  14. A document that exists prior to research is considered a secondary source.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  15. In a complete participant type of participant observation, the researcher follows people present in the situation.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
-	
--  16. The chi-square test is used to test whether two quantitative data sets are significantly different based on the mean.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  17. Reliability ensures that respondents will give the same answers every time.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  18. Structured text data can be news articles and books.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  19. If a p-value is greater than 0.05, we reject the null hypothesis.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  20. Nominal data can be expressed in numbers, and mathematical operations can be performed on them.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  21. With ordinal data, differences between points are consistently the same.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  22. In interval data, there is a true zero on the measurement scale.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  23. In qualitative data analysis, there is one right answer.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  24. A p-value of less than 0.01 is considered significant and even more convincing.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  25. Statistical significance doesn't tell us whether we would notice the effect in practice.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  26. Researcher generated documents would not have existed without the research.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  27. Semi-structured interviews are aimed at checking and validating a hypothesis.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  28. The standard deviation is used to quantify the amount of variation in a data set.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  29. In participant observation, the researcher is not a participant in the situation under study.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  30. Self-administered and researcher-administered are types of questionnaires.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  31. The content validity of a questionnaire ensures that the questionnaire is well balanced and covers all aspects of the topic.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  32. The term "non-performative intent" means research should not be aimed at improving control of management or making companies more efficient.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  33. If a p-value is less than 0.05, it is considered significant and the null hypothesis is accepted.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  34. In semi-structured interviews, only the topic is fixed, and themes and questions can vary.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  35. Bar charts, pie charts, and line graphs are not appropriate forms of data visualization for quantitative data.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  36. Statistical significance tells us the size of the effect.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  37. The critique of tradition is about challenging the view that the march of technology is inevitable.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  38. The card sort is a game that allows a group of researchers to create a stable set of concepts based on texts.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  39. When a p-value is greater than 0.05, it is considered significant and the null hypothesis is rejected.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  40. The T-test is used to test whether the relationship between two variables is significant.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  41. Observation research can either be covert or overt.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  42. In systematic observations, specific events are decided upon in advance for observation.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  43. Reflexivity in research is about freeing people from power relations.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  44. A double-barreled question asks about two things at once.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  45. Construct validity ensures that respondents understand the ideas and scope behind the questions in the same way, leading to unambiguous answers.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  46. The critique of technical determinism challenges the view that the progress of technology is inevitable.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  47. Inter-observer reliability refers to the agreement between different observers.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  48. In semi-structured interviews, the themes are fixed while the questions and question order can vary.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  49. Interval data is the same as ratio data, except that there is a true zero point in ratio data.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
--  50. A document that exists prior to research is considered a primary source.
-    
-    - [ ]  (T) True
-    - [ ]  (F) False
+8. What is the main objective of a literature review?
+   - [ ] A. To rewrite the existing work in your own words
+   - [ ] B. To critique the authors of the existing works
+   - [ ] C. To place your work in the context of what has already been published and identify gaps
+   - [ ] D. To memorize all the works published on a topic
+
+9. What is probabilistic sampling?
+   - [ ] A. Sampling where each sample has an equal chance of being chosen
+   - [ ] B. Sampling based on the convenience of the researcher
+   - [ ] C. Sampling based on the size of the sample
+   - [ ] D. Sampling where the researcher chooses their favorite samples
+
+10. What does 'interval estimate' refer to in the context of statistical inference?
+   - [ ] A. The time taken to perform the sampling
+   - [ ] B. The range within which the true population parameter is expected to lie
+   - [ ] C. The rate at which the samples were collected
+   - [ ] D. The distance between two samples
+
+11. What is a disadvantage of survey-based research?
+   - [ ] A. Does not provide a wide coverage of samples
+   - [ ] B. Does not produce a lot of data
+   - [ ] C. Provides a time-dependent snapshot of the subject
+   - [ ] D. Shows cause and effect clearly
+
+12. In the context of design and creation research, what does 'suggestion' refer to?
+   - [ ] A. Proposing a new problem
+   - [ ] B. Making a creative leap to a possible idea/solution
+   - [ ] C. Developing an idea into an artefact
+   - [ ] D. Assessing the value of an artefact
+
+13. What are non-functional requirements
+   - [ ] A. Requirements that judge the operation of a system
+   - [ ] B. Requirements on certain behaviors
+   - [ ] C. Requirements that guide the design of the system
+   - [ ] D. Requirements that determine the cost of the system
+
+14. What does a 'proof of concept' mean in design and creation proofs?
+   - [ ] A. A prototype evaluated in a real-life context
+   - [ ] B. A prototype showing that the design has certain properties, evaluated in a restricted context
+   - [ ] C. A prototype that has been tested by a wide range of users
+   - [ ] D. A prototype that has been widely marketed
+
+15. What is a well-formulated scientific hypothesis?
+   - [ ] A. A statement that is universally accepted
+   - [ ] B. A statement that is falsifiable
+   - [ ] C. A statement that is always true
+   - [ ] D. A statement that is always false
+
+16. What distinguishes an experiment as a research strategy?
+   - [ ] A. It investigates cause and effect relationships
+   - [ ] B. It depends on the researcher's personal experience
+   - [ ] C. It relies heavily on theoretical frameworks
+   - [ ] D. It cannot be replicated
+
+17. What is the 'Hawthorne effect' in research?
+   - [ ] A. It's the impact of lighting conditions on productivity
+   - [ ] B. It's the change in behavior of subjects when they are aware they are being observed
+   - [ ] C. It's the impact of working hours on productivity
+   - [ ] D. It's the change in behavior of subjects when they are given a reward
+
+18. In the context of research strategies, what is a survey?
+   - [ ] A. A detailed study of a single case or subject
+   - [ ] B. A strategy to obtain the same kind of data from a large group in a systematic way
+   - [ ] C. A detailed study of the entire population
+   - [ ] D. A strategy that investigates cause and effect relationships
+
+19. What is meant by 'falsifiability' in a scientific hypothesis?
+   - [ ] A. The hypothesis is false
+   - [ ] B. The hypothesis can be proven false
+   - [ ] C. The hypothesis can be modified
+   - [ ] D. The hypothesis is true
+
+20. In the context of participant rights in research, what does the 'right to withdraw' mean?
+   - [ ] A. The right to participate without giving consent
+   - [ ] B. The right to discontinue participation at any point
+   - [ ] C. The right to participate without revealing personal identity
+   - [ ] D. The right to participate without being physically present
+
+21. What is meant by 'non-probabilistic sampling' in research?
+   - [ ] A. It is a sampling method where each sample has an equal chance of being chosen
+   - [ ] B. It is a sampling method that is less costly and may have a weak basis for generalization
+   - [ ] C. It is a sampling method that ensures a strong basis for generalization
+   - [ ] D. It is a sampling method that is always preferred over probabilistic sampling
+
+22. What does 'confounding factors' refer to in the context of experiments?
+   - [ ] A. They are factors that lead to the success of an experiment
+   - [ ] B. They are factors that could account for the experimental results and provide alternate explanations
+   - [ ] C. They are factors that ensure the reliability and validity of an experiment
+   - [ ] D. They are factors that play no significant role in an experiment
+
+23. What does 'interval estimate' refer to in statistical inference?
+   - [ ] A. It refers to the range within which the true population parameter is expected to lie
+   - [ ] B. It refers to the time interval between two samples
+   - [ ] C. It refers to the interval at which the data is collected
+   - [ ] D. It refers to the interval between the minimum and maximum values of the sample
+
+24. What is a 'conceptual framework' in research?
+   - [ ] A. It is a graphical representation of the research methodology
+   - [ ] B. It is a set of concepts and their definitions used in the study
+   - [ ] C. It is a structured description of the researcher's reasoning process
+   - [ ] D. It is a combination of the researcher's strategies, methods, and ways of thinking about the topic
+
+25. What does 'snowball sampling' refer to in non-probabilistic sampling techniques?
+   - [ ] A. It is a technique where one sample is used to gain access to other samples
+   - [ ] B. It is a technique where samples are chosen randomly
+   - [ ] C. It is a technique where all individuals in the population have an equal chance of being sampled
+   - [ ] D. It is a technique where samples are chosen based on the researcher's judgment
+
+1. True or False: Research is solely the creation of new knowledge.
+   - [ ] True
+   - [ ] False
+
+2. True or False: User satisfaction in research is only determined by the validity of the new knowledge.
+   - [ ] True
+   - [ ] False
+
+3. True or False: Empirical evidence originates in or is based on theoretical assumptions.
+   - [ ] True
+   - [ ] False
+
+4. True or False: Fraud and invalid assumptions are examples of research going wrong.
+   - [ ] True
+   - [ ] False
+
+5. True or False: The Hawthorne effect refers to people modifying their behavior because they are aware they are being observed.
+   - [ ] True
+   - [ ] False
+
+6. True or False: Confounding factors in experiments are alternative explanations that account for the experimental results.
+   - [ ] True
+   - [ ] False
+
+7. True or False: Falsifiability of a scientific hypothesis requires consideration of alternative explanations ahead of time.
+   - [ ] True
+   - [ ] False
+
+8. True or False: Experiments are the only research strategy used for research.
+   - [ ] True
+   - [ ] False
+
+9. True or False: In research, participants only refer to people directly involved in the research process.
+   - [ ] True
+   - [ ] False
+
+10. True or False: The right to anonymity is not considered a right of research participants.
+   - [ ] True
+   - [ ] False
+
+11. True or False: A literature review is important to point to gaps that have not yet been identified or addressed by researchers.
+   - [ ] True
+   - [ ] False
+
+12. True or False: In a survey research strategy, the same kind of data is obtained from a large group of people in a standardized and systematic way.
+   - [ ] True
+   - [ ] False
+
+13. True or False: In probabilistic sampling techniques, all samples have an equal chance of being chosen.
+   - [ ] True
+   - [ ] False
+
+14. True or False: Statistical inference involves making estimates concerning a population from information gathered from samples.
+   - [ ] True
+   - [ ] False
+
+15. True or False: The margin of error tells us how close the value measured on the sample is to the value of the true, underlying population.
+   - [ ] True
+   - [ ] False
+
+16. True or False: A product (artefact) of design and creation research cannot be a working system.
+   - [ ] True
+   - [ ] False
+
+17. True or False: A proof of concept is a prototype that shows that the design has certain properties or behaves in a particular way.
+   - [ ] True
+   - [ ] False
+
+18. True or False: A well-formulated scientific hypothesis cannot be falsified.
+   - [ ] True
+   - [ ] False
+
+19. True or False: An experiment investigates cause and effect relationships.
+   - [ ] True
+   - [ ] False
+
+20. True or False: It is not necessary to consider alternative explanations when formulating experiments.
+   - [ ] True
+   - [ ] False
+
+21. True or False: A research question, conceptual framework, and theoretical framework work together in a research project.
+   - [ ] True
+   - [ ] False
+
+22. True or False: The purpose of a literature review is to ignore existing work in the chosen topic area.
+   - [ ] True
+   - [ ] False
+
+23. True or False: In non-probabilistic sampling techniques, all samples have an equal chance of being chosen.
+   - [ ] True
+   - [ ] False
+
+24. True or False: The purpose of a design and creation research is solely to demonstrate technical skills.
+   - [ ] True
+   - [ ] False
+
+25. True or False: The rights of research participants include the right to participate, the right to withdraw, the right to give informed consent, the right to anonymity, and the right to confidentiality.
+   - [ ] True
+   - [ ] False

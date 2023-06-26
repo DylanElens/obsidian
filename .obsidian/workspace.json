@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam-answers.md",
+                "file": "exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam-answers.md",
+                "file": "exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam-answers.md"
+                "file": "exam.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d9d7c12433e1d56",
+  "active": "39b5bc22010b16b6",
   "lastOpenFiles": [
-    "exam.md",
     "exam-answers.md",
+    "exam.md",
     "research methods.md",
     "Bayes theorem.md",
     "yooo.md",
