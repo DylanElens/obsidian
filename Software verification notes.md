@@ -95,6 +95,38 @@ $UD(y,4) = \{3\}$
 
 
 
+entry(1) = exit(1) / {x}
+entry(2) = exit(2) / {x}
+entry(3) = exit(3) / {x}
+entry(4) = exit(4) $\cup$ {x,y}
+entry(5) = (exit(5) / {y) $\cup$ {y}
+entry(6) = exit(6) 
+
+
+exit(1) = entry(2)
+exit(2) = entry(3)
+exit(3) = entry(4)
+exit(4) = entry(5) $\cup$ entry(6)
+exit(5) = entry(4)
+exit(6) = {}
+
+
+entry(1) = {y}
+entry(2) = {x,y}
+entry(3) = {y}
+entry(4) = null, {x,y}
+entry(5) = null, {x,y}
+entry(6) = null, {} 
+
+exit(1) = null, {x,y}
+exit(2) = null, {y}
+exit(3) = {x,y}
+exit(4) = null ,{x,y}
+exit(5) = null, x,y}
+exit(6) = {} 
+
+
+
 
 
 

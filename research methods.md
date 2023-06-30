@@ -7,11 +7,11 @@ Users must acept the product (reseach findings) and they must also find the proc
 
 Build an argument: 
 - Logic: build a detailed and structured description of your reasoning process
-- Draw on existing ork. Survery realted work, build on existing theory and results
-- Carry out fieldwork: Collect, analzing, and interpret data and draw conclusions
+- Draw on existing work. Survery realted work, build on existing theory and results
+- Carry out fieldwork: Collect, analyzing, and interpret data and draw conclusions
 
 Evidence-based computing:
-- When people suggest how to decelop better systems, or how to do new things with computers they must provide evidence to support their proposals
+- When people suggest how to develop better systems, or how to do new things with computers they must provide evidence to support their proposals
 - this evidence takes the form of empirical assessment and evaluation.
 
 Empirical = originating in or based on observation or experience
@@ -85,7 +85,7 @@ and finally you
 - If applicable: your approach to design and creation(systems development methodolgy)
 - How you evaluate your reasearch
 
-### Thoeretica framework
+### Thoeretical framework
 consists of concepts and, together with their definitions and reference to relevant scholarly literature. existing theory that is used for your particular study.
 Must demonstrate and understanding of theories and concepts that are relevant to the topic of your research paper and that relate to the brader areas of knelwedge being considered
 

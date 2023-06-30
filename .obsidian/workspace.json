@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research methods.md",
+                "file": "Software verification notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam-answers.md",
+                "file": "Software verification notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam-answers.md",
+                "file": "Software verification notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam-answers.md"
+                "file": "Software verification notes.md"
               }
             }
           }
@@ -180,11 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d9d7c12433e1d56",
+  "active": "b32e1e0ebbee7fc4",
   "lastOpenFiles": [
+    "2023-02-17.md",
+    "research methods.md",
     "exam.md",
     "exam-answers.md",
-    "research methods.md",
     "Bayes theorem.md",
     "yooo.md",
     "s&r learning task 1.md",
@@ -193,7 +192,6 @@
     "Untitled.canvas",
     "Software verification notes.md",
     "Semantics and correctness study prep.md",
-    "2023-02-17.md",
     "Reduction.md"
   ]
 }

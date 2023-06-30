@@ -3,31 +3,31 @@
 
 1. 1. What is the primary goal of research?
    - [ ] A. To prove your point of view
-   - [ ] B. To create new knowledge
+   - [x] B. To create new knowledge
    - [ ] C. To validate old knowledge
    - [ ] D. To win an argument
 
 2. What does a thesis refer to in the context of research?
-   - [ ] A. A claim or proposition
+   - [x] A. A claim or proposition
    - [ ] B. A book written on a specific topic
    - [ ] C. A person specializing in a field
    - [ ] D. A place where research takes place
    
 3. Which of the following best describes 'empirical'?
-   - [ ] A. Originating in or based on observation or experience
+   - [x] A. Originating in or based on observation or experience
    - [ ] B. Based on pure logic and reasoning
    - [ ] C. Derived from philosophical arguments
    - [ ] D. Originating from religious texts
 
 4. What is the Hawthorne effect?
    - [ ] A. A statistical anomaly in research data
-   - [ ] B. The modification of behavior by people because they are aware they are being observed
+   - [x] B. The modification of behavior by people because they are aware they are being observed
    - [ ] C. The effect of the environment on research outcomes
    - [ ] D. The effect of strong lighting on productivity
 
 5. What are confounding factors in experiments?
    - [ ] A. Factors that cause inconvenience to the participants
-   - [ ] B. Factors that could account for the experimental results and provide alternate explanations
+   - [x] B. Factors that could account for the experimental results and provide alternate explanations
    - [ ] C. Factors that increase the cost of the experiment
    - [ ] D. Factors that delay the conclusion of the experiment
 
@@ -35,10 +35,10 @@
    - [ ] A. Design and creation
    - [ ] B. Survey
    - [ ] C. Case study
-   - [ ] D. Brainstorming
+   - [x] D. Brainstorming
 
 7. What is the right to anonymity in the context of participant rights?
-   - [ ] A. The right to participate without revealing personal identity [ ]
+   - [ ] A. The right to participate without revealing personal identity
    - [ ] B. The right to participate without giving consent
    - [ ] C. The right to participate without being physically present
    - [ ] D. The right to participate without reading the research findings
@@ -46,30 +46,30 @@
 8. What is the main objective of a literature review?
    - [ ] A. To rewrite the existing work in your own words
    - [ ] B. To critique the authors of the existing works
-   - [ ] C. To place your work in the context of what has already been published and identify gaps
+   - [x] C. To place your work in the context of what has already been published and identify gaps
    - [ ] D. To memorize all the works published on a topic
 
 9. What is probabilistic sampling?
-   - [ ] A. Sampling where each sample has an equal chance of being chosen
+   - [x] A. Sampling where each sample has an equal chance of being chosen
    - [ ] B. Sampling based on the convenience of the researcher
    - [ ] C. Sampling based on the size of the sample
    - [ ] D. Sampling where the researcher chooses their favorite samples
 
 10. What does 'interval estimate' refer to in the context of statistical inference?
    - [ ] A. The time taken to perform the sampling
-   - [ ] B. The range within which the true population parameter is expected to lie
+   - [x] B. The range within which the true population parameter is expected to lie
    - [ ] C. The rate at which the samples were collected
    - [ ] D. The distance between two samples
 
 11. What is a disadvantage of survey-based research?
    - [ ] A. Does not provide a wide coverage of samples
    - [ ] B. Does not produce a lot of data
-   - [ ] C. Provides a time-dependent snapshot of the subject
+   - [x] C. Provides a time-dependent snapshot of the subject
    - [ ] D. Shows cause and effect clearly
 
 12. In the context of design and creation research, what does 'suggestion' refer to?
    - [ ] A. Proposing a new problem
-   - [ ] B. Making a creative leap to a possible idea/solution
+   - [x] B. Making a creative leap to a possible idea/solution
    - [ ] C. Developing an idea into an artefact
    - [ ] D. Assessing the value of an artefact
 
