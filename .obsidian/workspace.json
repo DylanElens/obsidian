@@ -16,8 +16,19 @@
                 "file": "Functional Programming/week 1/exercises1.pdf"
               }
             }
+          },
+          {
+            "id": "be2aaca6400a828a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Intervention Methodology/2023 Introduction day_KC.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/week 1/exercises1.pdf",
+                "file": "Intervention Methodology/2023 Introduction day_KC.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/week 1/exercises1.pdf",
+                "file": "Intervention Methodology/2023 Introduction day_KC.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/week 1/exercises1.pdf"
+                "file": "Intervention Methodology/2023 Introduction day_KC.pdf"
               }
             }
           }
@@ -154,19 +165,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "93b64fe6cf69e316",
+  "active": "cb05538c644c29e3",
   "lastOpenFiles": [
+    "Intervention Methodology/Engaged decision making complete.pdf",
     "Intervention Methodology/HANDBOOK 2023-2024.pdf",
-    "Functional Programming/week 1/exercises1.pdf",
+    "Intervention Methodology/2023 Introduction day_KC.pdf",
+    "AI principiles and techniques/Course_manual_2023-24.pdf",
+    "Intervention Methodology/Unconfirmed 100884.crdownload",
+    "Intervention Methodology/Unconfirmed 916753.crdownload",
+    "AI principiles and techniques/week 1",
+    "Functional Programming/week 1/Exercise1_7.hs",
+    "Functional Programming/week 1/Exercise1_4.hs",
+    "Functional Programming/week 1/Exercise1_3.hs",
+    "Functional Programming/week 1/Exercise1_2.hs",
     "System Theory/week 1/lecture notes.md",
-    "Functional Programming/week 1/SayTest.lhs",
-    "Functional Programming/week 1/Say.hs",
-    "Functional Programming/week 1/Hello.hs",
-    "Functional Programming/week 1/Database.hs",
-    "Functional Programming/week 1/exercises1-templates.zip",
-    "Functional Programming/week 1/Unconfirmed 811248.crdownload",
-    "Functional Programming/week 1/Unconfirmed 301156.crdownload",
-    "Functional Programming/week 1",
     "System Theory/Course information.md",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
     "Untitled.md",
