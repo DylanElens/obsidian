@@ -11,11 +11,9 @@
             "id": "93b64fe6cf69e316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "System Theory/Course information.md",
-                "mode": "source",
-                "source": false
+                "file": "Functional Programming/week 1/exercises1.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Theory/Course information.md",
+                "file": "Functional Programming/week 1/exercises1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Theory/Course information.md",
+                "file": "Functional Programming/week 1/exercises1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Theory/Course information.md"
+                "file": "Functional Programming/week 1/exercises1.pdf"
               }
             }
           }
@@ -158,20 +156,20 @@
   },
   "active": "93b64fe6cf69e316",
   "lastOpenFiles": [
+    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
+    "Functional Programming/week 1/exercises1.pdf",
     "System Theory/week 1/lecture notes.md",
+    "Functional Programming/week 1/SayTest.lhs",
+    "Functional Programming/week 1/Say.hs",
+    "Functional Programming/week 1/Hello.hs",
+    "Functional Programming/week 1/Database.hs",
+    "Functional Programming/week 1/exercises1-templates.zip",
+    "Functional Programming/week 1/Unconfirmed 811248.crdownload",
+    "Functional Programming/week 1/Unconfirmed 301156.crdownload",
+    "Functional Programming/week 1",
     "System Theory/Course information.md",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
-    "Excalidraw",
     "Untitled.md",
-    "System Theory/week 1",
-    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
-    "Intervention Methodology/Unconfirmed 964715.crdownload",
-    "Functional Programming",
-    "datamining",
-    "Algorithms and Datastructures",
-    "AI principiles and techniques",
-    "Intervention Methodology",
-    "System Theory",
     "legacy/S&R natural semantics of abrubt completion.md",
     "Untitled.canvas",
     "legacy/s&r learning task 1.md",
