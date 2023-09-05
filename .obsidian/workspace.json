@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "419d81d0e6a3317f",
+        "id": "0f9e9cc1adc64ac5",
         "type": "tabs",
         "children": [
           {
-            "id": "93b64fe6cf69e316",
+            "id": "8780d45237ccff81",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Functional Programming/week 1/exercises1.pdf"
-              }
-            }
-          },
-          {
-            "id": "be2aaca6400a828a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf"
+                "file": "AI principiles and techniques/Untitled Kanban.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf",
+                "file": "AI principiles and techniques/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf",
+                "file": "AI principiles and techniques/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,11 +132,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf"
+                "file": "AI principiles and techniques/Untitled Kanban.md"
               }
             }
+          },
+          {
+            "id": "e2fbfc7cb99ce16b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,21 +164,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cb05538c644c29e3",
+  "active": "8780d45237ccff81",
   "lastOpenFiles": [
-    "Intervention Methodology/Engaged decision making complete.pdf",
+    "Excalidraw/Drawing 2023-09-05 12.43.10.excalidraw.md",
+    "AI principiles and techniques/Untitled Kanban.md",
+    "Excalidraw",
     "Intervention Methodology/HANDBOOK 2023-2024.pdf",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
+    "System Theory/Course information.md",
+    "System Theory/week 1/lecture notes.md",
+    "Functional Programming/week 1/exercises1.pdf",
     "AI principiles and techniques/Course_manual_2023-24.pdf",
+    "AI principiles and techniques/week 1/lecturenotes.pdf",
+    "AI principiles and techniques/week 1/Unconfirmed 689342.crdownload",
+    "Intervention Methodology/2023 Introduction day_KC.pdf",
+    "Intervention Methodology/Engaged decision making complete.pdf",
     "Intervention Methodology/Unconfirmed 100884.crdownload",
     "Intervention Methodology/Unconfirmed 916753.crdownload",
-    "AI principiles and techniques/week 1",
-    "Functional Programming/week 1/Exercise1_7.hs",
-    "Functional Programming/week 1/Exercise1_4.hs",
-    "Functional Programming/week 1/Exercise1_3.hs",
-    "Functional Programming/week 1/Exercise1_2.hs",
-    "System Theory/week 1/lecture notes.md",
-    "System Theory/Course information.md",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
     "Untitled.md",
     "legacy/S&R natural semantics of abrubt completion.md",
