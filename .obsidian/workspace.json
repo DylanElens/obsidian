@@ -11,9 +11,9 @@
             "id": "8780d45237ccff81",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "AI principiles and techniques/Untitled Kanban.md"
+                "file": "datamining/week 1/DM2324_lecture_1.pdf"
               }
             }
           }
@@ -71,12 +71,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI principiles and techniques/Untitled Kanban.md",
+                "file": "datamining/week 1/DM2324_lecture_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI principiles and techniques/Untitled Kanban.md",
+                "file": "datamining/week 1/DM2324_lecture_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI principiles and techniques/Untitled Kanban.md"
+                "file": "datamining/week 1/DM2324_lecture_1.pdf"
               }
             }
           },
@@ -164,22 +164,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8780d45237ccff81",
+  "active": "cb05538c644c29e3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-05 12.43.10.excalidraw.md",
     "AI principiles and techniques/Untitled Kanban.md",
-    "Excalidraw",
-    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
+    "datamining/week 1/DM2324_lecture_1.pdf",
+    "datamining/week 1/Unconfirmed 153799.crdownload",
+    "datamining/project stuff/metadata_checker.py",
+    "datamining/project stuff/Unconfirmed 954475.crdownload",
+    "datamining/project stuff/Guide_for_installing_and_using_Jupyter.pdf",
+    "datamining/project stuff/Unconfirmed 406663.crdownload",
+    "datamining/project stuff/rubric.pdf",
+    "datamining/project stuff/Unconfirmed 153280.crdownload",
+    "datamining/project stuff",
+    "datamining/General Assignment guidelines.pdf",
+    "Excalidraw/Drawing 2023-09-05 12.43.10.excalidraw.md",
     "System Theory/Course information.md",
     "System Theory/week 1/lecture notes.md",
-    "Functional Programming/week 1/exercises1.pdf",
-    "AI principiles and techniques/Course_manual_2023-24.pdf",
-    "AI principiles and techniques/week 1/lecturenotes.pdf",
-    "AI principiles and techniques/week 1/Unconfirmed 689342.crdownload",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
-    "Intervention Methodology/Engaged decision making complete.pdf",
-    "Intervention Methodology/Unconfirmed 100884.crdownload",
-    "Intervention Methodology/Unconfirmed 916753.crdownload",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
     "Untitled.md",
     "legacy/S&R natural semantics of abrubt completion.md",
