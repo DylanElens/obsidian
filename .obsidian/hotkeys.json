@@ -6,5 +6,21 @@
       ],
       "key": " "
     }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "H"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "V"
+    }
   ]
 }

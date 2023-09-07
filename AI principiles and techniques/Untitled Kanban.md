@@ -7,6 +7,10 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] Make A&D week 1
+
+
+## doing
+
 - [ ] Figure out if AI has an assignment and if so make it
 
 
@@ -14,6 +18,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] Make FP week 1
+- [x] Find partner for Data mining
 
 
 ***
