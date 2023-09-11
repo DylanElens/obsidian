@@ -11,12 +11,9 @@
             "id": "e4bb32eb4960d45f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "System Theory/week 2/Lecture notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Functional Programming/week 2/exercises2.pdf"
               }
             }
           }
@@ -78,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Theory/week 2/Lecture notes.md",
+                "file": "Functional Programming/week 2/exercises2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Theory/week 2/Lecture notes.md",
+                "file": "Functional Programming/week 2/exercises2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Theory/week 2/Lecture notes.md"
+                "file": "Functional Programming/week 2/exercises2.pdf"
               }
             }
           },
@@ -151,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +164,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4bb32eb4960d45f",
+  "active": "e2fbfc7cb99ce16b",
   "lastOpenFiles": [
+    "System Theory/week 2/Lecture notes.md",
     "Functional Programming/week 2/WhatType.hs",
     "Functional Programming/week 2/Swap.hs",
     "Functional Programming/week 2/Pow2.hs",
@@ -177,8 +177,6 @@
     "Functional Programming/week 2/Unconfirmed 615138.crdownload",
     "Functional Programming/week 2/exercises2.pdf",
     "Functional Programming/week 2/Unconfirmed 444525.crdownload",
-    "Functional Programming/week 2",
-    "System Theory/week 2/Lecture notes.md",
     "System Theory/week 1/lecture notes.md",
     "System Theory/Untitled.md",
     "Algorithms and Data Structures/week 1/A&D assignment 1.md",

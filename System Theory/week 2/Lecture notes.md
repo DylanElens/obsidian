@@ -79,6 +79,7 @@ things we need for a proper infrastructure
 	- there are error controlled and cuase controlled regulations
 	- the biggest difference is the RA's are executed **after** the Disturbance happens as called error controlled. It is the other way around for cause controlled. Cause controlled is preventative measure.
  
+
  
  
 
