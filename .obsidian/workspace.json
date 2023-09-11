@@ -13,7 +13,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Functional Programming/week 2/exercises2.pdf"
+                "file": "Algorithms and Data Structures/week 1/ProblemSession1.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d42b6f6771f2fa1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b455a0d87615df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/week 1/A&D assignment 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -92,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/week 2/exercises2.pdf",
+                "file": "Algorithms and Data Structures/week 1/A&D assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/week 2/exercises2.pdf",
+                "file": "Algorithms and Data Structures/week 1/A&D assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/week 2/exercises2.pdf"
+                "file": "Algorithms and Data Structures/week 1/A&D assignment 1.md"
               }
             }
           },
@@ -164,25 +183,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4bb32eb4960d45f",
+  "active": "71b455a0d87615df",
   "lastOpenFiles": [
+    "Algorithms and Data Structures/week 1/ProblemSession1.pdf",
+    "Algorithms and Data Structures/week 1/A&D assignment 1.md",
+    "Algorithms and Data Structures/week 1/script.py",
+    "AI principiles and techniques/Untitled Kanban.md",
+    "AI principiles and techniques/Schedule_2023-24.pdf",
+    "AI principiles and techniques/Course_manual_2023-24.pdf",
+    "AI principiles and techniques/programming assignment 1/AIPT programming assignment 1.pdf",
+    "AI principiles and techniques/programming assignment 1/Drawing 2023-09-11 14.56.55.excalidraw.md",
+    "AI principiles and techniques/programming assignment 1/Drawing 2023-09-11 14.56.55.excalidraw 1.md",
+    "Functional Programming/week 2/exercises2.pdf",
+    "Excalidraw",
     "Functional Programming/week 2/assignment2.zip",
     "System Theory/week 2/Lecture notes.md",
     "Functional Programming/week 2/WhatType.hs",
     "Functional Programming/week 2/Swap.hs",
-    "Functional Programming/week 2/Pow2.hs",
-    "Functional Programming/week 2/PolyType.hs",
-    "Functional Programming/week 2/CharTest.lhs",
-    "Functional Programming/week 2/Char.hs",
-    "Functional Programming/week 2/exercises2-templates.zip",
-    "Functional Programming/week 2/Unconfirmed 615138.crdownload",
-    "Functional Programming/week 2/exercises2.pdf",
-    "Functional Programming/week 2/Unconfirmed 444525.crdownload",
     "System Theory/week 1/lecture notes.md",
     "System Theory/Untitled.md",
-    "Algorithms and Data Structures/week 1/A&D assignment 1.md",
     "AI principiles and techniques/week 1/Complexity assignment 1.md",
-    "AI principiles and techniques/Untitled Kanban.md",
     "Intervention Methodology/lecture 1/lecture 1 notes.md",
     "System Theory/Course information.md",
     "datamining/week.md",
@@ -200,8 +220,6 @@
     "legacy/exam-answers.md",
     "legacy/exam.md",
     "2023-02-17.md",
-    "legacy/idea for semantic rules.md",
-    "gas.md",
-    "heelp.md"
+    "legacy/idea for semantic rules.md"
   ]
 }
