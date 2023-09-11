@@ -103,7 +103,7 @@ General System theory -> Organisations
 	infrastructure = {Human Resources, Technology, Structure}
 	 
 
-Social system conducting experiments
+an organisation is a Social system conducting experiments
 - experimenting -> there is some non-trivial problem that needs to be solved. You come up with a solution that hopes to solve the problem. The solution is a hypothesis.
 - Problem -> Solution -> implement -> monitor -> Problem
 - survival -> you set goals in the hopes to survive
