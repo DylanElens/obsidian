@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
+                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
+                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf"
+                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md"
               }
             }
           },
@@ -192,10 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aab3098cb0aeeaf7",
+  "active": "0bd6bfe744096e7a",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/week 2/ProblemSession 2.md",
+    "Pasted image 20230918140608.png",
     "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
+    "Algorithms and Data Structures/week 2/ProblemSession 2.md",
+    "Algorithms and Data Structures/week 2/queue.py",
     "Algorithms and Data Structures/week 2/lecture2.pdf",
     "Algorithms and Data Structures/week 2/Unconfirmed 485258.crdownload",
     "datamining/week 1/DM2324_lecture_1.pdf",
@@ -209,7 +212,6 @@
     "Intervention Methodology/2023 Introduction day_KC.pdf",
     "Functional Programming/week 3/exercises3.pdf",
     "Functional Programming/week 3/exercises3-templates/mm1.dna",
-    "Functional Programming/week 3/exercises3-templates/Uniq.hs",
     "System Theory/week 2/Lecture notes.md",
     "System Theory/week 1/lecture notes.md",
     "Intervention Methodology/lecture 1/lecture 1 notes.md",
