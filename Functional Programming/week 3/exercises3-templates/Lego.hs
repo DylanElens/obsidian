@@ -14,7 +14,8 @@ sortWithPos xs = [(x,i) | (i,x) <- sortBy (\(_,a) (_,b) -> compare a b) (zip [0.
 
 --given two lists of tuples
 --we will place
-matchItems :: (Ord a) => [(a,Int)] -> [(a,Int)] -> [(a,Int)]
+-- matchItems :: (Ord a) => [(a,Int)] -> [(a,Int)] -> [(a,Int)]
+-- match xs ys = [(x,i| ]
 
 sortedPos :: (Ord a) => [a] -> [(a,Int)]
 sortedPos xs = [(x,i) | (i,x) <- matchItems (zip [0..] xs) (zip [0..] (sort xs))]

@@ -8,40 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "006e7cac68b3f55f",
+            "id": "aab3098cb0aeeaf7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c734a0082c009835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd6bfe744096e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Theory/week 3/lecture notes.md",
+                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "0bd6bfe744096e7a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Theory/week 3/lecture drawing.md"
-              }
-            }
-          },
-          {
-            "id": "f96cc2d133d59399",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf",
+                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf",
+                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intervention Methodology/2023 Introduction day_KC.pdf"
+                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf"
               }
             }
           },
@@ -197,35 +192,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f96cc2d133d59399",
+  "active": "aab3098cb0aeeaf7",
   "lastOpenFiles": [
+    "Algorithms and Data Structures/week 2/ProblemSession 2.md",
+    "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
+    "Algorithms and Data Structures/week 2/lecture2.pdf",
+    "Algorithms and Data Structures/week 2/Unconfirmed 485258.crdownload",
+    "datamining/week 1/DM2324_lecture_1.pdf",
+    "Algorithms and Data Structures/week 2/Unconfirmed 390560.crdownload",
+    "Algorithms and Data Structures/week 2",
+    "datamining/week 1/notes.md",
+    "System Theory/week 3/lecture drawing.md",
+    "legacy/Semantics and rewriting exercises.md",
+    "AI principiles and techniques/Untitled Kanban.md",
+    "System Theory/week 3/lecture notes.md",
+    "Intervention Methodology/2023 Introduction day_KC.pdf",
     "Functional Programming/week 3/exercises3.pdf",
     "Functional Programming/week 3/exercises3-templates/mm1.dna",
     "Functional Programming/week 3/exercises3-templates/Uniq.hs",
-    "Functional Programming/week 3/exercises3-templates/Reverse.hs",
-    "Functional Programming/week 3/exercises3-templates/Partitions.hs",
-    "Functional Programming/week 3/exercises3-templates/Obfuscate.hs",
-    "Functional Programming/week 3/exercises3-templates/Mingle.hs",
-    "Functional Programming/week 3/exercises3-templates/ListFunctions.hs",
-    "Functional Programming/week 3/exercises3-templates/ListComprehensions.hs",
-    "Functional Programming/week 3/exercises3-templates/Lego.hs",
-    "Functional Programming/week 3/exercises3-templates/DNA.hs",
     "System Theory/week 2/Lecture notes.md",
     "System Theory/week 1/lecture notes.md",
-    "System Theory/week 3/lecture drawing.md",
-    "System Theory/week 3/lecture notes.md",
     "Intervention Methodology/lecture 1/lecture 1 notes.md",
     "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
     "Intervention Methodology/lecture 2/notes.md",
     "Algorithms and Data Structures/week 1/A&D assignment 1.md",
-    "AI principiles and techniques/Untitled Kanban.md",
     "AI principiles and techniques/programming assignment 1/Drawing 2023-09-11 14.56.55.excalidraw.md",
     "AI principiles and techniques/programming assignment 1/Drawing 2023-09-11 14.56.55.excalidraw 1.md",
     "System Theory/Untitled.md",
     "AI principiles and techniques/week 1/Complexity assignment 1.md",
     "System Theory/Course information.md",
     "datamining/week.md",
-    "datamining/week 1/notes.md",
     "2023-09-05.md",
     "Excalidraw/Drawing 2023-09-05 12.43.10.excalidraw.md",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
@@ -233,8 +229,6 @@
     "Untitled.canvas",
     "legacy/s&r learning task 1.md",
     "legacy/research methods.md",
-    "legacy/Reduction.md",
-    "legacy/Semantics and correctness study prep.md",
-    "legacy/Bayes theorem.md"
+    "legacy/Reduction.md"
   ]
 }
