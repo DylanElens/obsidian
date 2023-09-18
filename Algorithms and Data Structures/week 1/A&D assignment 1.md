@@ -47,6 +47,21 @@ b. In the best case scenerio this would have a complexity of $\mathcal{O}(1)$. t
 ## 4.
 a. line 4 is always executed if $i < j$. So this could be seen as one operation
 
+b. if we had an input array `v` where all the elements are odd we would get the worst case runtime complexity. THe algorithm would keep incrementing `i` until it becomes greater than or equal to `j`. The worst case runtime complexity would be $\mathcal{O}(n^2)$.
+
+c. if all elements are even then line 4 would be executed $n$ times.
+
+d. Worst case $\mathcal{O}(n^2)$. $\Omega (n^2)$, $\Theta (n)$.
+
+e. yes it still works but the best case would be worse.
+## 5.
+Using python and list comprehension we can do the following
+
+```python
+def nth_harmonic(n):
+    return sum([1/i for i in range(1, n+1)])
+```
+The worst case complexity of this function would be in $\mathcal{O}(n)$
 
 
 
