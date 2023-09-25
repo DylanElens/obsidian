@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e97cb31a76bbea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aab3098cb0aeeaf7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession2.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c734a0082c009835",
         "type": "tabs",
         "children": [
@@ -29,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md",
-                "mode": "source",
+                "file": "Algorithms and Data Structures/week 3/Assignment 3.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md",
+                "file": "Algorithms and Data Structures/week 3/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md",
+                "file": "Algorithms and Data Structures/week 3/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/week 2/ProblemSession 2.md"
+                "file": "Algorithms and Data Structures/week 3/Assignment 3.md"
               }
             }
           },
@@ -195,24 +179,25 @@
   },
   "active": "0bd6bfe744096e7a",
   "lastOpenFiles": [
-    "Pasted image 20230918140608.png",
-    "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
+    "Algorithms and Data Structures/week 3/ProblemSession3.pdf",
+    "Algorithms and Data Structures/week 3/Assignment 3.md",
     "Algorithms and Data Structures/week 2/ProblemSession 2.md",
+    "Algorithms and Data Structures/week 3/lecture3.pdf",
+    "datamining/week 3/DM2324_lecture_3a_linalg+PCA.pdf",
+    "System Theory/week 2/Lecture notes.md",
+    "System Theory/week 3/lecture drawing.md",
+    "System Theory/SystemTheoryBook.pdf",
+    "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
+    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
+    "Pasted image 20230918140608.png",
     "Algorithms and Data Structures/week 2/queue.py",
     "Algorithms and Data Structures/week 2/lecture2.pdf",
     "Algorithms and Data Structures/week 2/Unconfirmed 485258.crdownload",
     "datamining/week 1/DM2324_lecture_1.pdf",
-    "Algorithms and Data Structures/week 2/Unconfirmed 390560.crdownload",
-    "Algorithms and Data Structures/week 2",
     "datamining/week 1/notes.md",
-    "System Theory/week 3/lecture drawing.md",
     "legacy/Semantics and rewriting exercises.md",
     "AI principiles and techniques/Untitled Kanban.md",
     "System Theory/week 3/lecture notes.md",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
-    "Functional Programming/week 3/exercises3.pdf",
-    "Functional Programming/week 3/exercises3-templates/mm1.dna",
-    "System Theory/week 2/Lecture notes.md",
     "System Theory/week 1/lecture notes.md",
     "Intervention Methodology/lecture 1/lecture 1 notes.md",
     "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
@@ -230,7 +215,6 @@
     "legacy/S&R natural semantics of abrubt completion.md",
     "Untitled.canvas",
     "legacy/s&r learning task 1.md",
-    "legacy/research methods.md",
-    "legacy/Reduction.md"
+    "legacy/research methods.md"
   ]
 }
