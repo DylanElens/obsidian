@@ -4,19 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "c734a0082c009835",
+        "id": "8bcd2cfc30cbe130",
         "type": "tabs",
         "children": [
           {
-            "id": "0bd6bfe744096e7a",
+            "id": "1bab217d83152ebe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Algorithms and Data Structures/week 3/Assignment 3.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "System Theory/week 4/workgroup-notes.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6bd69756ad7d2d18",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "System Theory/SystemTheoryBook.pdf"
               }
             }
           }
@@ -78,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -95,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/week 3/Assignment 3.md",
+                "file": "System Theory/week 4/workgroup-notes.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/week 3/Assignment 3.md",
+                "file": "System Theory/week 4/workgroup-notes.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/week 3/Assignment 3.md"
+                "file": "System Theory/week 4/workgroup-notes.excalidraw.md"
               }
             }
           },
@@ -177,23 +183,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bd6bfe744096e7a",
+  "active": "1bab217d83152ebe",
   "lastOpenFiles": [
+    "System Theory/week 4/workgroup notes.md",
+    "System Theory/SystemTheoryBook.pdf",
+    "System Theory/week 4/workgroup-notes.excalidraw.md",
+    "Intervention Methodology/2023 Introduction day_KC.pdf",
+    "System Theory/week 4",
+    "Intervention Methodology/intervention session 1/ST Case Assingment 1.pdf",
+    "Intervention Methodology/intervention session 1/Unconfirmed 905994.crdownload",
+    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
     "Functional Programming/week 4/exercises4.pdf",
+    "Algorithms and Data Structures/week 3/Assignment 3.md",
     "Functional Programming/week 4/Unconfirmed 459945.crdownload",
     "Functional Programming/week 4/exercises4-templates.zip",
     "Functional Programming/week 4/Unconfirmed 876676.crdownload",
-    "Functional Programming/week 4",
-    "Algorithms and Data Structures/week 3/ProblemSession3.pdf",
-    "Algorithms and Data Structures/week 3/Assignment 3.md",
     "Algorithms and Data Structures/week 2/ProblemSession 2.md",
-    "Algorithms and Data Structures/week 3/lecture3.pdf",
-    "datamining/week 3/DM2324_lecture_3a_linalg+PCA.pdf",
     "System Theory/week 2/Lecture notes.md",
     "System Theory/week 3/lecture drawing.md",
-    "System Theory/SystemTheoryBook.pdf",
-    "Algorithms and Data Structures/week 2/ProblemSession2.pdf",
-    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
     "Pasted image 20230918140608.png",
     "datamining/week 1/notes.md",
     "legacy/Semantics and rewriting exercises.md",
@@ -214,8 +221,6 @@
     "Excalidraw/Drawing 2023-09-05 12.43.10.excalidraw.md",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
     "legacy/S&R natural semantics of abrubt completion.md",
-    "Untitled.canvas",
-    "legacy/s&r learning task 1.md",
-    "legacy/research methods.md"
+    "Untitled.canvas"
   ]
 }
