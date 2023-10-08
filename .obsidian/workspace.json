@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bab217d83152ebe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Theory/week 4/workgroup-notes.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6bd69756ad7d2d18",
+            "id": "5a6d5058940819ca",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Theory/SystemTheoryBook.pdf"
+                "file": "Functional Programming/week 5/week 5/exercises5.pdf"
               }
             }
           }
@@ -85,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -101,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Theory/week 4/workgroup-notes.excalidraw.md",
+                "file": "Functional Programming/week 5/week 5/exercises5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Theory/week 4/workgroup-notes.excalidraw.md",
+                "file": "Functional Programming/week 5/week 5/exercises5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Theory/week 4/workgroup-notes.excalidraw.md"
+                "file": "Functional Programming/week 5/week 5/exercises5.pdf"
               }
             }
           },
@@ -183,21 +174,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bab217d83152ebe",
+  "active": "5a6d5058940819ca",
   "lastOpenFiles": [
-    "System Theory/week 4/workgroup notes.md",
-    "System Theory/SystemTheoryBook.pdf",
-    "System Theory/week 4/workgroup-notes.excalidraw.md",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
-    "System Theory/week 4",
-    "Intervention Methodology/intervention session 1/ST Case Assingment 1.pdf",
-    "Intervention Methodology/intervention session 1/Unconfirmed 905994.crdownload",
+    "Functional Programming/week 5/week 5/Ass5/WordStats",
+    "Functional Programming/week 5/week 5/Ass5/WordStats.o",
+    "Functional Programming/week 5/week 5/Ass5/WordStats.hi",
+    "Intervention Methodology/Engaged decision making complete.pdf",
     "Intervention Methodology/HANDBOOK 2023-2024.pdf",
-    "Functional Programming/week 4/exercises4.pdf",
+    "Intervention Methodology/2023 Introduction day_KC.pdf",
+    "Excalidraw/Drawing 2023-09-27 18.56.56.excalidraw.md",
+    "Intervention Methodology/intervention sessoin 2/Intervention Methodology Workbook Group 18.1.docx",
+    "Intervention Methodology/intervention sessoin 2/Unconfirmed 819771.crdownload",
+    "Intervention Methodology/intervention sessoin 2/Feedback Workgroup 18.1.docx",
+    "Intervention Methodology/intervention sessoin 2/Unconfirmed 540124.crdownload",
+    "Intervention Methodology/intervention sessoin 2/Invitation Stakeholders GMB.docx",
+    "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
+    "System Theory/Course information.md",
+    "System Theory/week 4/workgroup-notes.excalidraw.md",
+    "System Theory/week 4/workgroup notes.md",
     "Algorithms and Data Structures/week 3/Assignment 3.md",
-    "Functional Programming/week 4/Unconfirmed 459945.crdownload",
-    "Functional Programming/week 4/exercises4-templates.zip",
-    "Functional Programming/week 4/Unconfirmed 876676.crdownload",
     "Algorithms and Data Structures/week 2/ProblemSession 2.md",
     "System Theory/week 2/Lecture notes.md",
     "System Theory/week 3/lecture drawing.md",
@@ -208,19 +203,16 @@
     "System Theory/week 3/lecture notes.md",
     "System Theory/week 1/lecture notes.md",
     "Intervention Methodology/lecture 1/lecture 1 notes.md",
-    "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
     "Intervention Methodology/lecture 2/notes.md",
     "Algorithms and Data Structures/week 1/A&D assignment 1.md",
     "AI principiles and techniques/programming assignment 1/Drawing 2023-09-11 14.56.55.excalidraw.md",
     "AI principiles and techniques/programming assignment 1/Drawing 2023-09-11 14.56.55.excalidraw 1.md",
     "System Theory/Untitled.md",
     "AI principiles and techniques/week 1/Complexity assignment 1.md",
-    "System Theory/Course information.md",
     "datamining/week.md",
     "2023-09-05.md",
     "Excalidraw/Drawing 2023-09-05 12.43.10.excalidraw.md",
     "Excalidraw/Drawing 2023-09-04 08.50.39.excalidraw.md",
-    "legacy/S&R natural semantics of abrubt completion.md",
     "Untitled.canvas"
   ]
 }
