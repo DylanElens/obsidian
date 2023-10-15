@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0a0b1146f6f9ee51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc43a80a98ae34e2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f76022057a3aee6a",
         "type": "tabs",
         "children": [
@@ -27,13 +11,37 @@
             "id": "0e710379ccebdbff",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "datamining/Project proposal notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e887dfeb6427748",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Algorithms and Data Structures/week 5/ProblemSession5.pdf"
+                "file": "Functional Programming/week 6/exercises6.pdf"
+              }
+            }
+          },
+          {
+            "id": "ac6ebbf024a04b22",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-11 08.35.11.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Functional Programming/week 6/exercises6.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Functional Programming/week 6/exercises6.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "Functional Programming/week 6/exercises6.pdf"
               }
             }
           },
@@ -190,31 +198,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc43a80a98ae34e2",
+  "active": "7e887dfeb6427748",
   "lastOpenFiles": [
+    "Functional Programming/week 6/assingment-6.zip",
+    "Functional Programming/week 6/ziehe59F",
+    "Functional Programming/week 6/lastyear/Truthy.hs",
+    "Functional Programming/week 6/lastyear/DigitalSorting.hs",
+    "Functional Programming/week 6/lastyear/Assignment6.zip",
+    "Functional Programming/week 6/lastyear/Unconfirmed 171208.crdownload",
+    "Functional Programming/week 6/lastyear",
+    "Functional Programming/week 6/Truthy.hs",
+    "Functional Programming/week 6/TreeMap.hs",
+    "Functional Programming/week 6/Pronounce.hs",
+    "Functional Programming/week 6/Nat.hs",
+    "datamining/Project proposal notes.md",
+    "Excalidraw/Drawing 2023-10-11 08.35.11.excalidraw.md",
+    "Untitled Kanban.md",
     "Algorithms and Data Structures/week 5/assingment 5.md",
-    "Algorithms and Data Structures/week 5/ProblemSession5.pdf",
-    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
-    "Algorithms and Data Structures/week 5/Unconfirmed 436657.crdownload",
-    "Algorithms and Data Structures/week 5",
     "Intervention Methodology/Project proposal notes.md",
-    "datamining/assignment2/assignment_2/test.py",
     "legacy/Bayes theorem.md",
     "legacy/research methods.md",
     "legacy/Reduction.md",
     "legacy/idea for semantic rules.md",
-    "Untitled Kanban.md",
     "super new file.md",
     "water.md",
-    "Intervention Methodology/Engaged decision making complete.pdf",
     "System Theory/week 4/workgroup-notes.excalidraw.md",
     "System Theory/week 3/lecture notes.md",
-    "Functional Programming/week 2/exercises2.pdf",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
     "Pasted image 20230918140608.png",
     "AI principiles and techniques/Untitled Kanban.md",
-    "Functional Programming/week 5/week 5/exercises5.pdf",
-    "Functional Programming/week 5/week 5/assignment5.zip",
     "Excalidraw/Drawing 2023-09-27 18.56.56.excalidraw.md",
     "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
     "System Theory/Course information.md",
@@ -226,8 +237,6 @@
     "datamining/week 1/notes.md",
     "legacy/Semantics and rewriting exercises.md",
     "System Theory/week 1/lecture notes.md",
-    "Intervention Methodology/lecture 1/lecture 1 notes.md",
-    "Intervention Methodology/lecture 2/notes.md",
     "Untitled.canvas"
   ]
 }
