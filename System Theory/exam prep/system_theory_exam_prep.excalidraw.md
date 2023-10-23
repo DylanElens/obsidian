@@ -261,6 +261,51 @@ survival of the system in its environment.
     2. A system must be able to "persist" itself
     3. A system must be able to enlarge itself ^lbGXMoyh
 
+Social autopoeitic systems ^jIidixaV
+
+what are the elements of social systems?
+
+Luhman: Elements of a social system is communication.
+Communication is a unity of 3 aspects
+    1. Information -> What is being communicated
+    2. Utterance -> the decision that something is being
+                     communicated and HOW something is 
+                     being communicated
+    3. Understanding -> Understanding that an utterance was selected
+                         to communicate information and understanding
+                        the information itself 
+Information and Utterance is done by initiator and understanding is done
+by the respondent.
+
+Communication is produced by 2 participants who themselves are NOT elements
+of the social system. ^dB1pcPUr
+
+What is the social system itself?
+A social system is a while of meaningfully connected communications.
+In a social system a communication leads to a follow-up communication.
+The social  system refers to this sequence of communications that
+meaningfully blend together. ^P4bvjxAT
+
+What is the structure of a social system?
+Or What is it that makes this communication meaningful?
+Luhman: It is the strucure of a social system that is used to 
+determine meaningfulness. 
+He defines the structure of a social system as the set of 
+'expectations of expectations' that participants in communication
+have of eachother. ^q3GIHmU1
+
+Expectations of expectations
+If A and B are participants in communication tha
+
+A expects that B expects certain behaviour/reactions of A
+B expects that A expects certain behaviour/reactions of B
+
+This will influence the behaviour of both A and B. ^rMnpyl7h
+
+What is a social system as an autopoietic system?
+in an autopoietic system, the elements of the system ‘produce’ new elements
+In a social system communication will lead to more communication. ^4kE58sZy
+
 
 # Embedded files
 761982435a5ae16f28ed3f764192152ba87516bd: [[Pasted Image 20231023181606_547.png]]
@@ -2095,8 +2140,8 @@ survival of the system in its environment.
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 992606837,
+			"version": 84,
+			"versionNonce": 1126932035,
 			"isDeleted": false,
 			"id": "vJWi8Ryb",
 			"fillStyle": "hachure",
@@ -2105,8 +2150,8 @@ survival of the system in its environment.
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1693.9343410986,
-			"y": -643.8266579181945,
+			"x": 1687.2676744319335,
+			"y": -653.8266579181945,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 140.15985107421875,
@@ -2116,7 +2161,7 @@ survival of the system in its environment.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698077954279,
+			"updated": 1698095366489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3006,8 +3051,8 @@ survival of the system in its environment.
 		},
 		{
 			"type": "arrow",
-			"version": 182,
-			"versionNonce": 2041580949,
+			"version": 188,
+			"versionNonce": 414274659,
 			"isDeleted": false,
 			"id": "BCSR9ExueHrJi5_TOn-PQ",
 			"fillStyle": "hachure",
@@ -3029,7 +3074,7 @@ survival of the system in its environment.
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698077954280,
+			"updated": 1698095732900,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3037,7 +3082,11 @@ survival of the system in its environment.
 				"focus": -0.16912004046938622,
 				"gap": 18.33333333333121
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "bQKVukOZ",
+				"focus": 0.3129504071150744,
+				"gap": 14.0339850561395
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -3092,8 +3141,8 @@ survival of the system in its environment.
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1392242555,
+			"version": 422,
+			"versionNonce": 1419444515,
 			"isDeleted": false,
 			"id": "bQKVukOZ",
 			"fillStyle": "hachure",
@@ -3112,8 +3161,13 @@ survival of the system in its environment.
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1698077954280,
+			"boundElements": [
+				{
+					"id": "BCSR9ExueHrJi5_TOn-PQ",
+					"type": "arrow"
+				}
+			],
+			"updated": 1698095728777,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3753,8 +3807,8 @@ survival of the system in its environment.
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 634810011,
+			"version": 43,
+			"versionNonce": 269986349,
 			"isDeleted": false,
 			"id": "4dDHWIDR",
 			"fillStyle": "hachure",
@@ -3781,9 +3835,13 @@ survival of the system in its environment.
 				{
 					"id": "aoc3KwLHgWp4EkG3WAqyZ",
 					"type": "arrow"
+				},
+				{
+					"id": "UT6SYfDPfAv2MQo_ZS8EH",
+					"type": "arrow"
 				}
 			],
-			"updated": 1698079335320,
+			"updated": 1698080445248,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3990,44 +4048,33 @@ survival of the system in its environment.
 			"baseline": 418
 		},
 		{
-			"id": "OtNlCEOiAAEryDF-Qj32a",
 			"type": "arrow",
-			"x": 259.50930587140965,
-			"y": 1103.3378721680851,
-			"width": 294.5135650811583,
-			"height": 86.69550644641708,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 50,
+			"versionNonce": 1225074499,
+			"isDeleted": false,
+			"id": "OtNlCEOiAAEryDF-Qj32a",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 259.50930587140965,
+			"y": 1103.3378721680851,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 294.5135650811583,
+			"height": 86.69550644641708,
+			"seed": 132174605,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 132174605,
-			"version": 50,
-			"versionNonce": 1225074499,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698080370109,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-294.5135650811583,
-					86.69550644641708
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "sUXCwYC3",
 				"focus": 0.8678929607545004,
@@ -4038,31 +4085,42 @@ survival of the system in its environment.
 				"focus": -0.17526387270761876,
 				"gap": 11.16814380692972
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-294.5135650811583,
+					86.69550644641708
+				]
+			]
 		},
 		{
-			"id": "lbGXMoyh",
 			"type": "text",
-			"x": -411.204884649255,
-			"y": 1201.201522421432,
-			"width": 480.5794372558594,
-			"height": 100,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 243,
+			"versionNonce": 875437933,
+			"isDeleted": false,
+			"id": "lbGXMoyh",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -411.204884649255,
+			"y": 1201.201522421432,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 480.5794372558594,
+			"height": 100,
+			"seed": 1161505421,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1161505421,
-			"version": 243,
-			"versionNonce": 875437933,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "OtNlCEOiAAEryDF-Qj32a",
@@ -4072,16 +4130,686 @@ survival of the system in its environment.
 			"updated": 1698080367811,
 			"link": null,
 			"locked": false,
-			"text": "3 Criteria for autopoeitic system\n    1. A system must be able to \"shrink\" itself\n    2. A system must be able to \"persist\" itself\n    3. A system must be able to enlarge itself",
-			"rawText": "3 Criteria for autopoeitic system\n    1. A system must be able to \"shrink\" itself\n    2. A system must be able to \"persist\" itself\n    3. A system must be able to enlarge itself",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "3 Criteria for autopoeitic system\n    1. A system must be able to \"shrink\" itself\n    2. A system must be able to \"persist\" itself\n    3. A system must be able to enlarge itself",
+			"rawText": "3 Criteria for autopoeitic system\n    1. A system must be able to \"shrink\" itself\n    2. A system must be able to \"persist\" itself\n    3. A system must be able to enlarge itself",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 93,
 			"containerId": null,
 			"originalText": "3 Criteria for autopoeitic system\n    1. A system must be able to \"shrink\" itself\n    2. A system must be able to \"persist\" itself\n    3. A system must be able to enlarge itself",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 93
+		},
+		{
+			"type": "arrow",
+			"version": 611,
+			"versionNonce": 1867599149,
+			"isDeleted": false,
+			"id": "UT6SYfDPfAv2MQo_ZS8EH",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 313.48934892785473,
+			"y": 733.5386526882861,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1216.409222433954,
+			"height": 28.1757090895112,
+			"seed": 1461744259,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698080458182,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "4dDHWIDR",
+				"focus": -0.32364571903600925,
+				"gap": 9.787262180389064
+			},
+			"endBinding": {
+				"elementId": "jIidixaV",
+				"focus": -0.5724523619551789,
+				"gap": 3.512249920406248
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1216.409222433954,
+					28.1757090895112
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 241,
+			"versionNonce": 856285891,
+			"isDeleted": false,
+			"id": "jIidixaV",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1533.410821282215,
+			"y": 743.4382827951802,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 262.1796875,
+			"height": 25,
+			"seed": 1860157571,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "UT6SYfDPfAv2MQo_ZS8EH",
+					"type": "arrow"
+				},
+				{
+					"id": "Wk9YVraQrazroidNJHSgD",
+					"type": "arrow"
+				},
+				{
+					"id": "dqEFZfRHT3KpBwyG2cw09",
+					"type": "arrow"
+				},
+				{
+					"id": "fUhcOjtfILaCoPczGTgkw",
+					"type": "arrow"
+				},
+				{
+					"id": "oldFDZTsSeW6VvKM87owK",
+					"type": "arrow"
+				}
+			],
+			"updated": 1698081340322,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Social autopoeitic systems",
+			"rawText": "Social autopoeitic systems",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Social autopoeitic systems",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "arrow",
+			"version": 29,
+			"versionNonce": 70563341,
+			"isDeleted": false,
+			"id": "Wk9YVraQrazroidNJHSgD",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1762.877816082076,
+			"y": 731.7307830604935,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 339.517492305916,
+			"height": 309.0779929957304,
+			"seed": 454717709,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698080879788,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jIidixaV",
+				"focus": 0.4956852029808672,
+				"gap": 11.707499734686621
+			},
+			"endBinding": {
+				"elementId": "dB1pcPUr",
+				"focus": 0.6351952689636021,
+				"gap": 10.365999787749843
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					339.517492305916,
+					-309.0779929957304
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 833,
+			"versionNonce": 1497065635,
+			"isDeleted": false,
+			"id": "dB1pcPUr",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2112.7613081757418,
+			"y": 210.74704486693287,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 779.939208984375,
+			"height": 400,
+			"seed": 1682528419,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "Wk9YVraQrazroidNJHSgD",
+					"type": "arrow"
+				},
+				{
+					"id": "mPjAE5t6vQvznbjM8Tr7X",
+					"type": "arrow"
+				}
+			],
+			"updated": 1698080998042,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "what are the elements of social systems?\n\nLuhman: Elements of a social system is communication.\nCommunication is a unity of 3 aspects\n    1. Information -> What is being communicated\n    2. Utterance -> the decision that something is being\n                     communicated and HOW something is \n                     being communicated\n    3. Understanding -> Understanding that an utterance was selected\n                         to communicate information and understanding\n                        the information itself \nInformation and Utterance is done by initiator and understanding is done\nby the respondent.\n\nCommunication is produced by 2 participants who themselves are NOT elements\nof the social system.",
+			"rawText": "what are the elements of social systems?\n\nLuhman: Elements of a social system is communication.\nCommunication is a unity of 3 aspects\n    1. Information -> What is being communicated\n    2. Utterance -> the decision that something is being\n                     communicated and HOW something is \n                     being communicated\n    3. Understanding -> Understanding that an utterance was selected\n                         to communicate information and understanding\n                        the information itself \nInformation and Utterance is done by initiator and understanding is done\nby the respondent.\n\nCommunication is produced by 2 participants who themselves are NOT elements\nof the social system.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "what are the elements of social systems?\n\nLuhman: Elements of a social system is communication.\nCommunication is a unity of 3 aspects\n    1. Information -> What is being communicated\n    2. Utterance -> the decision that something is being\n                     communicated and HOW something is \n                     being communicated\n    3. Understanding -> Understanding that an utterance was selected\n                         to communicate information and understanding\n                        the information itself \nInformation and Utterance is done by initiator and understanding is done\nby the respondent.\n\nCommunication is produced by 2 participants who themselves are NOT elements\nof the social system.",
+			"lineHeight": 1.25,
+			"baseline": 393
+		},
+		{
+			"type": "arrow",
+			"version": 53,
+			"versionNonce": 700860195,
+			"isDeleted": false,
+			"id": "dqEFZfRHT3KpBwyG2cw09",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1807.366315073885,
+			"y": 752.8042825829298,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 290.3459934202317,
+			"height": 5.853749867343595,
+			"seed": 2062589155,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698080882270,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jIidixaV",
+				"focus": -0.016750007460001427,
+				"gap": 11.775806291670051
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					290.3459934202317,
+					-5.853749867343595
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 335,
+			"versionNonce": 1490764685,
+			"isDeleted": false,
+			"id": "P4bvjxAT",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2129.3225577777716,
+			"y": 712.9987834849948,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 706.879150390625,
+			"height": 125,
+			"seed": 148664653,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "mPjAE5t6vQvznbjM8Tr7X",
+					"type": "arrow"
+				},
+				{
+					"id": "HeQf7myOuyeTMPu_buxvM",
+					"type": "arrow"
+				}
+			],
+			"updated": 1698081337807,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "What is the social system itself?\nA social system is a while of meaningfully connected communications.\nIn a social system a communication leads to a follow-up communication.\nThe social  system refers to this sequence of communications that\nmeaningfully blend together.",
+			"rawText": "What is the social system itself?\nA social system is a while of meaningfully connected communications.\nIn a social system a communication leads to a follow-up communication.\nThe social  system refers to this sequence of communications that\nmeaningfully blend together.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "What is the social system itself?\nA social system is a while of meaningfully connected communications.\nIn a social system a communication leads to a follow-up communication.\nThe social  system refers to this sequence of communications that\nmeaningfully blend together.",
+			"lineHeight": 1.25,
+			"baseline": 118
+		},
+		{
+			"type": "arrow",
+			"version": 72,
+			"versionNonce": 524124547,
+			"isDeleted": false,
+			"id": "mPjAE5t6vQvznbjM8Tr7X",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2397.4243017020985,
+			"y": 618.1680356340319,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 4.682999893875149,
+			"height": 84.29399808974483,
+			"seed": 230439875,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698081001817,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "dB1pcPUr",
+				"focus": 0.2338263071282607,
+				"gap": 7.4209907670990845
+			},
+			"endBinding": {
+				"elementId": "P4bvjxAT",
+				"focus": -0.26359013362553424,
+				"gap": 10.536749761218061
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.682999893875149,
+					84.29399808974483
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 106,
+			"versionNonce": 1595712013,
+			"isDeleted": false,
+			"id": "fUhcOjtfILaCoPczGTgkw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1792.1465654187928,
+			"y": 775.0485320788345,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 311.41949294266806,
+			"height": 202.53974541008085,
+			"seed": 1337481507,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698081006105,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jIidixaV",
+				"focus": -0.6537345498594211,
+				"gap": 6.610249283654298
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					311.41949294266806,
+					202.53974541008085
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 378,
+			"versionNonce": 1092962797,
+			"isDeleted": false,
+			"id": "q3GIHmU1",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2122.2980579369596,
+			"y": 983.4420273562587,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 647.8192749023438,
+			"height": 175,
+			"seed": 2054898381,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "B29ivg9F1VdxAc4BCFREw",
+					"type": "arrow"
+				},
+				{
+					"id": "HeQf7myOuyeTMPu_buxvM",
+					"type": "arrow"
+				}
+			],
+			"updated": 1698081337807,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "What is the structure of a social system?\nOr What is it that makes this communication meaningful?\nLuhman: It is the strucure of a social system that is used to \ndetermine meaningfulness. \nHe defines the structure of a social system as the set of \n'expectations of expectations' that participants in communication\nhave of eachother.",
+			"rawText": "What is the structure of a social system?\nOr What is it that makes this communication meaningful?\nLuhman: It is the strucure of a social system that is used to \ndetermine meaningfulness. \nHe defines the structure of a social system as the set of \n'expectations of expectations' that participants in communication\nhave of eachother.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "What is the structure of a social system?\nOr What is it that makes this communication meaningful?\nLuhman: It is the strucure of a social system that is used to \ndetermine meaningfulness. \nHe defines the structure of a social system as the set of \n'expectations of expectations' that participants in communication\nhave of eachother.",
+			"lineHeight": 1.25,
+			"baseline": 168
+		},
+		{
+			"type": "arrow",
+			"version": 70,
+			"versionNonce": 1006602125,
+			"isDeleted": false,
+			"id": "B29ivg9F1VdxAc4BCFREw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2786.1132928936977,
+			"y": 1084.1265250745646,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 165.07574625908273,
+			"height": 72.58649835505776,
+			"seed": 653207779,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698081154877,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "q3GIHmU1",
+				"focus": 0.7073792015561816,
+				"gap": 15.995960054394345
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					165.07574625908273,
+					-72.58649835505776
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 251,
+			"versionNonce": 126686147,
+			"isDeleted": false,
+			"id": "rMnpyl7h",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2979.287038516029,
+			"y": 948.3195281521984,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 597.1994018554688,
+			"height": 175,
+			"seed": 396783363,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1698081260597,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Expectations of expectations\nIf A and B are participants in communication tha\n\nA expects that B expects certain behaviour/reactions of A\nB expects that A expects certain behaviour/reactions of B\n\nThis will influence the behaviour of both A and B.",
+			"rawText": "Expectations of expectations\nIf A and B are participants in communication tha\n\nA expects that B expects certain behaviour/reactions of A\nB expects that A expects certain behaviour/reactions of B\n\nThis will influence the behaviour of both A and B.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Expectations of expectations\nIf A and B are participants in communication tha\n\nA expects that B expects certain behaviour/reactions of A\nB expects that A expects certain behaviour/reactions of B\n\nThis will influence the behaviour of both A and B.",
+			"lineHeight": 1.25,
+			"baseline": 168
+		},
+		{
+			"type": "arrow",
+			"version": 62,
+			"versionNonce": 672548803,
+			"isDeleted": false,
+			"id": "HeQf7myOuyeTMPu_buxvM",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2345.9113028694683,
+			"y": 849.976530380829,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 15.219749655092983,
+			"height": 131.12399702849166,
+			"seed": 618373987,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698081337807,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "P4bvjxAT",
+				"focus": 0.35544277861951984,
+				"gap": 11.97774689583423
+			},
+			"endBinding": {
+				"elementId": "q3GIHmU1",
+				"focus": -0.37700399277075464,
+				"gap": 2.341499946938029
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-15.219749655092983,
+					131.12399702849166
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 110,
+			"versionNonce": 1062303885,
+			"isDeleted": false,
+			"id": "oldFDZTsSeW6VvKM87owK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1678.583817992323,
+			"y": 779.7315319727085,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 341.85899225285334,
+			"height": 487.0319889629692,
+			"seed": 1176393571,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1698081340322,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jIidixaV",
+				"focus": 0.01871732481028012,
+				"gap": 11.29324917752831
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					341.85899225285334,
+					487.0319889629692
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 105,
+			"versionNonce": 1970085037,
+			"isDeleted": false,
+			"id": "4kE58sZy",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2061.41905931658,
+			"y": 1266.7635209356774,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 765.8391723632812,
+			"height": 75,
+			"seed": 525105485,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1698081409155,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "What is a social system as an autopoietic system?\nin an autopoietic system, the elements of the system ‘produce’ new elements\nIn a social system communication will lead to more communication.",
+			"rawText": "What is a social system as an autopoietic system?\nin an autopoietic system, the elements of the system ‘produce’ new elements\nIn a social system communication will lead to more communication.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "What is a social system as an autopoietic system?\nin an autopoietic system, the elements of the system ‘produce’ new elements\nIn a social system communication will lead to more communication.",
+			"lineHeight": 1.25,
+			"baseline": 68
 		}
 	],
 	"appState": {
@@ -4099,10 +4827,10 @@ survival of the system in its environment.
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 525.9383820491852,
-		"scrollY": -566.5086930547261,
+		"scrollX": -96.08457117351949,
+		"scrollY": 2836.358685221846,
 		"zoom": {
-			"value": 0.8541533398777017
+			"value": 0.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

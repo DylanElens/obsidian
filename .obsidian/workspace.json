@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3ad2e8f375b46ee2",
+        "id": "2baafd2ec36852eb",
         "type": "tabs",
         "children": [
           {
-            "id": "a34785dbfcedae41",
+            "id": "f174b2352201c869",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
+                "file": "Algorithms and Data Structures/week 7/Assignment 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe3b5f44121d4064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e29e32389e4083",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Algorithms and Data Structures/week 7/ProblemSession7.pdf"
               }
             }
           }
@@ -75,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -92,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+                "file": "Algorithms and Data Structures/week 7/Assignment 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+                "file": "Algorithms and Data Structures/week 7/Assignment 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
+                "file": "Algorithms and Data Structures/week 7/Assignment 7.md"
               }
             }
           },
@@ -174,11 +192,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a34785dbfcedae41",
+  "active": "f174b2352201c869",
   "lastOpenFiles": [
+    "Algorithms and Data Structures/week 7/ProblemSession7.pdf",
+    "Algorithms and Data Structures/week 7/Assignment 7.md",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "algorithms and datastructres/A&D24_Project1.pdf",
+    "Algorithms and Data Structures/week 7",
+    "Algorithms and Data Structures/Unconfirmed 800071.crdownload",
     "Pasted Image 20231023181606_547.png",
     "System Theory/exam prep/System_Theory.pdf",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
     "System Theory/exam prep/Unconfirmed 641211.crdownload",
     "System Theory/exam prep",
     "datamining/exam prep/datamining_prep.excalidraw.md",
@@ -187,8 +210,6 @@
     "datamining/exam/midterm/examplemidterm_without_answers.pdf",
     "datamining/exam prep/DataMiningSummary2022.pdf",
     "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
-    "datamining/exam/endterm/example_endterm_with_answers.pdf",
-    "datamining/exam/endterm/example_endterm_without_answers.pdf",
     "Pasted Image 20231023153228_781.png",
     "Pasted Image 20231023153154_762.png",
     "Pasted Image 20231023150844_314.png",
@@ -200,10 +221,7 @@
     "Pasted Image 20231023130620_118.png",
     "Pasted Image 20231023125901_067.png",
     "Pasted Image 20231023112218_671.png",
-    "Pasted Image 20231023110213_345.png",
     "Untitled Kanban.md",
-    "datamining/exam prep/Feedback on workbook WG 18-4.docx",
-    "datamining/exam prep/Unconfirmed 727033.crdownload",
     "Intervention Methodology/intervention session notes/notes.md",
     "datamining/Untitled.md",
     "datamining/exam prep.md",
@@ -221,7 +239,6 @@
     "water.md",
     "System Theory/week 4/workgroup-notes.excalidraw.md",
     "System Theory/week 3/lecture notes.md",
-    "AI principiles and techniques/Untitled Kanban.md",
     "Untitled.canvas"
   ]
 }
