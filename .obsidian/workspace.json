@@ -4,37 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "c15d283551514568",
+        "id": "cfeee0f1d43f4ef3",
         "type": "tabs",
+        "dimension": 46.03312990409765,
         "children": [
           {
-            "id": "517bb70a682a68eb",
+            "id": "fd7101e36162e5c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Intervention Methodology/intervention session notes/notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "946253b3edddc6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes for actual sessoin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf"
               }
             }
           }
+        ]
+      },
+      {
+        "id": "9a4e89b27eb5a3da",
+        "type": "split",
+        "dimension": 53.96687009590235,
+        "children": [
+          {
+            "id": "f285db5e62da1c70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63df013dea74bcc4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "datamining/exam prep/exam midterm.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "452226934e1f04b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bdddf48865b5abf2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "datamining/exam prep/datamining_prep.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes for actual sessoin.md",
+                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes for actual sessoin.md",
+                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes for actual sessoin.md"
+                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf"
               }
             }
           },
@@ -190,25 +217,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "946253b3edddc6fc",
+  "active": "fd7101e36162e5c9",
   "lastOpenFiles": [
+    "datamining/exam prep/exam midterm.md",
+    "datamining/exam/midterm/examplemidterm_with_answers.pdf",
+    "datamining/exam/midterm/examplemidterm_without_answers.pdf",
+    "datamining/exam prep/DataMiningSummary2022.pdf",
+    "datamining/exam prep/datamining_prep.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
+    "datamining/exam/endterm/example_endterm_with_answers.pdf",
+    "datamining/exam/endterm/example_endterm_without_answers.pdf",
+    "Pasted Image 20231023153228_781.png",
+    "Pasted Image 20231023153154_762.png",
+    "Pasted Image 20231023150844_314.png",
+    "Pasted Image 20231023144641_111.png",
+    "Pasted Image 20231023144047_034.png",
+    "Pasted Image 20231023143814_001.png",
+    "datamining_annotations.md",
+    "datamining/exam prep/book notes.md",
+    "Pasted Image 20231023130620_118.png",
+    "Pasted Image 20231023125901_067.png",
+    "Pasted Image 20231023112218_671.png",
+    "Pasted Image 20231023110213_345.png",
+    "Untitled Kanban.md",
+    "datamining/exam prep/Feedback on workbook WG 18-4.docx",
+    "datamining/exam prep/Unconfirmed 727033.crdownload",
+    "datamining/datamining.book.pdf.pdf",
+    "datamining/exam prep/Unconfirmed 432608.crdownload",
+    "datamining/week 4/DM2324_lecture_4.pdf",
     "Intervention Methodology/intervention session notes/notes.md",
+    "datamining/Untitled.md",
+    "datamining/exam prep.md",
     "notes for actual sessoin.md",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
-    "Intervention Methodology/intervention session notes",
     "Excalidraw/Drawing 2023-10-17 08.39.04.excalidraw.md",
     "Excalidraw/Drawing 2023-10-11 08.35.11.excalidraw.md",
     "datamining/Project proposal notes.md",
-    "Functional Programming/week 5/week 5/exercises5.pdf",
-    "Untitled.md",
-    "Functional Programming/week 6/exercises6.pdf",
-    "Functional Programming/week 6/assingment-6.zip",
-    "Functional Programming/week 6/ziehe59F",
-    "Functional Programming/week 6/lastyear/Truthy.hs",
-    "Functional Programming/week 6/lastyear/DigitalSorting.hs",
-    "Functional Programming/week 6/lastyear/Assignment6.zip",
-    "Functional Programming/week 6/lastyear/Unconfirmed 171208.crdownload",
-    "Untitled Kanban.md",
     "Algorithms and Data Structures/week 5/assingment 5.md",
     "Intervention Methodology/Project proposal notes.md",
     "legacy/Bayes theorem.md",
@@ -219,16 +262,8 @@
     "water.md",
     "System Theory/week 4/workgroup-notes.excalidraw.md",
     "System Theory/week 3/lecture notes.md",
-    "Pasted image 20230918140608.png",
     "AI principiles and techniques/Untitled Kanban.md",
     "Excalidraw/Drawing 2023-09-27 18.56.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
-    "System Theory/Course information.md",
-    "System Theory/week 4/workgroup notes.md",
-    "Algorithms and Data Structures/week 3/Assignment 3.md",
-    "Algorithms and Data Structures/week 2/ProblemSession 2.md",
-    "System Theory/week 2/Lecture notes.md",
-    "System Theory/week 3/lecture drawing.md",
     "Untitled.canvas"
   ]
 }
