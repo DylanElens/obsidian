@@ -4,64 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cfeee0f1d43f4ef3",
+        "id": "3ad2e8f375b46ee2",
         "type": "tabs",
-        "dimension": 46.03312990409765,
         "children": [
           {
-            "id": "fd7101e36162e5c9",
+            "id": "a34785dbfcedae41",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf"
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
               }
             }
           }
         ]
-      },
-      {
-        "id": "9a4e89b27eb5a3da",
-        "type": "split",
-        "dimension": 53.96687009590235,
-        "children": [
-          {
-            "id": "f285db5e62da1c70",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "63df013dea74bcc4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "datamining/exam prep/exam midterm.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "452226934e1f04b7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bdddf48865b5abf2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "datamining/exam prep/datamining_prep.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -119,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -135,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf",
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf",
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datamining/exam/midterm/examplemidterm_with_answers.pdf"
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
               }
             }
           },
@@ -217,13 +174,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd7101e36162e5c9",
+  "active": "a34785dbfcedae41",
   "lastOpenFiles": [
+    "Pasted Image 20231023181606_547.png",
+    "System Theory/exam prep/System_Theory.pdf",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "System Theory/exam prep/Unconfirmed 641211.crdownload",
+    "System Theory/exam prep",
+    "datamining/exam prep/datamining_prep.excalidraw.md",
     "datamining/exam prep/exam midterm.md",
     "datamining/exam/midterm/examplemidterm_with_answers.pdf",
     "datamining/exam/midterm/examplemidterm_without_answers.pdf",
     "datamining/exam prep/DataMiningSummary2022.pdf",
-    "datamining/exam prep/datamining_prep.excalidraw.md",
     "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
     "datamining/exam/endterm/example_endterm_with_answers.pdf",
     "datamining/exam/endterm/example_endterm_without_answers.pdf",
@@ -242,9 +204,6 @@
     "Untitled Kanban.md",
     "datamining/exam prep/Feedback on workbook WG 18-4.docx",
     "datamining/exam prep/Unconfirmed 727033.crdownload",
-    "datamining/datamining.book.pdf.pdf",
-    "datamining/exam prep/Unconfirmed 432608.crdownload",
-    "datamining/week 4/DM2324_lecture_4.pdf",
     "Intervention Methodology/intervention session notes/notes.md",
     "datamining/Untitled.md",
     "datamining/exam prep.md",
@@ -263,7 +222,6 @@
     "System Theory/week 4/workgroup-notes.excalidraw.md",
     "System Theory/week 3/lecture notes.md",
     "AI principiles and techniques/Untitled Kanban.md",
-    "Excalidraw/Drawing 2023-09-27 18.56.56.excalidraw.md",
     "Untitled.canvas"
   ]
 }
