@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2baafd2ec36852eb",
+        "id": "d557bee1f11deece",
         "type": "tabs",
         "children": [
           {
-            "id": "f174b2352201c869",
+            "id": "512fd225785bb3da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Algorithms and Data Structures/week 7/Assignment 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe3b5f44121d4064",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86e29e32389e4083",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Algorithms and Data Structures/week 7/ProblemSession7.pdf"
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
               }
             }
           }
@@ -94,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -110,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/week 7/Assignment 7.md",
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/week 7/Assignment 7.md",
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/week 7/Assignment 7.md"
+                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
               }
             }
           },
@@ -192,23 +174,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f174b2352201c869",
+  "active": "512fd225785bb3da",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/week 7/ProblemSession7.pdf",
+    "datamining/solution-introduction-to-data-mining.pdf",
+    "datamining/datamining.book.pdf.pdf",
+    "datamining/exam prep/DataMiningSummary2022.pdf",
+    "datamining/Unconfirmed 883118.crdownload",
+    "datamining/exam prep/datamining_prep.excalidraw.md",
+    "Algorithms and Data Structures/examplemidterm_with_answers.pdf",
+    "Algorithms and Data Structures/Unconfirmed 266096.crdownload",
     "Algorithms and Data Structures/week 7/Assignment 7.md",
+    "Algorithms and Data Structures/week 7/ProblemSession7.pdf",
     "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
     "algorithms and datastructres/A&D24_Project1.pdf",
     "Algorithms and Data Structures/week 7",
     "Algorithms and Data Structures/Unconfirmed 800071.crdownload",
     "Pasted Image 20231023181606_547.png",
     "System Theory/exam prep/System_Theory.pdf",
-    "System Theory/exam prep/Unconfirmed 641211.crdownload",
-    "System Theory/exam prep",
-    "datamining/exam prep/datamining_prep.excalidraw.md",
     "datamining/exam prep/exam midterm.md",
-    "datamining/exam/midterm/examplemidterm_with_answers.pdf",
-    "datamining/exam/midterm/examplemidterm_without_answers.pdf",
-    "datamining/exam prep/DataMiningSummary2022.pdf",
     "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
     "Pasted Image 20231023153228_781.png",
     "Pasted Image 20231023153154_762.png",
