@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d557bee1f11deece",
+        "id": "f24c1b475f0b8276",
         "type": "tabs",
         "children": [
           {
-            "id": "512fd225785bb3da",
+            "id": "2ea049b71bdec911",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -174,23 +174,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "512fd225785bb3da",
+  "active": "2ea049b71bdec911",
   "lastOpenFiles": [
+    "datamining/exam prep/DataMiningSummary2022.pdf",
+    "Intervention Methodology/2023 Introduction day_KC.pdf",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "datamining/exam/midterm/examplemidterm_with_answers.pdf",
+    "datamining/exam/midterm/examplemidterm_without_answers.pdf",
+    "datamining/introduction-to-data-mining-v1.pdf",
+    "datamining/an-introduction-to-data-mining-v1.pdf",
+    "datamining/introduction-to-data-mining-1292026154-9781292026152_compress.pdf",
+    "datamining/Unconfirmed 321269.crdownload",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
     "datamining/solution-introduction-to-data-mining.pdf",
     "datamining/datamining.book.pdf.pdf",
-    "datamining/exam prep/DataMiningSummary2022.pdf",
     "datamining/Unconfirmed 883118.crdownload",
     "datamining/exam prep/datamining_prep.excalidraw.md",
-    "Algorithms and Data Structures/examplemidterm_with_answers.pdf",
-    "Algorithms and Data Structures/Unconfirmed 266096.crdownload",
     "Algorithms and Data Structures/week 7/Assignment 7.md",
-    "Algorithms and Data Structures/week 7/ProblemSession7.pdf",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
-    "algorithms and datastructres/A&D24_Project1.pdf",
-    "Algorithms and Data Structures/week 7",
-    "Algorithms and Data Structures/Unconfirmed 800071.crdownload",
     "Pasted Image 20231023181606_547.png",
-    "System Theory/exam prep/System_Theory.pdf",
     "datamining/exam prep/exam midterm.md",
     "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
     "Pasted Image 20231023153228_781.png",
@@ -203,7 +204,6 @@
     "datamining/exam prep/book notes.md",
     "Pasted Image 20231023130620_118.png",
     "Pasted Image 20231023125901_067.png",
-    "Pasted Image 20231023112218_671.png",
     "Untitled Kanban.md",
     "Intervention Methodology/intervention session notes/notes.md",
     "datamining/Untitled.md",
