@@ -11,9 +11,28 @@
             "id": "2ea049b71bdec911",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
+                "file": "Intervention Methodology/Intevention methods listed.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e45983549fff2b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03118bebab865fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Intervention Methodology/Engaged decision making complete.pdf"
               }
             }
           }
@@ -75,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -92,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+                "file": "Intervention Methodology/Intevention methods listed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+                "file": "Intervention Methodology/Intevention methods listed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
+                "file": "Intervention Methodology/Intevention methods listed.md"
               }
             }
           },
@@ -176,19 +194,35 @@
   },
   "active": "2ea049b71bdec911",
   "lastOpenFiles": [
+    "Intervention Methodology/exam prep/Anchoring bias.md",
+    "Intervention Methodology/exam prep/Sunk-Cost bais.md",
+    "Intervention Methodology/exam prep/Proself vs Prosocial.md",
+    "Intervention Methodology/exam prep/frame.md",
+    "Intervention Methodology/exam prep/exam notes.md",
+    "Intervention Methodology/exam prep/Cognitive motivation.md",
+    "Intervention Methodology/exam prep/Availibility bais.md",
+    "Intervention Methodology/exam prep/Representative bias.md",
+    "Intervention Methodology/Intevention methods listed.md",
+    "Intervention Methodology/Engaged decision making complete.pdf",
+    "Intervention Methodology/exam prep/Social Motivation.md",
+    "legacy/exam.md",
+    "Intervention Methodology/exam prep/Confirmation bais.md",
+    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
+    "Intervention Methodology/Project proposal notes.md",
+    "Intervention Methodology/lecture 2/frame.md",
+    "Intervention Methodology/lecture 1/lecture 1 notes.md",
+    "Intervention Methodology/lecture 2/notes.md",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "Intervention Methodology/exam prep",
+    "why.md",
     "datamining/exam prep/DataMiningSummary2022.pdf",
     "Intervention Methodology/2023 Introduction day_KC.pdf",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
     "datamining/exam/midterm/examplemidterm_with_answers.pdf",
     "datamining/exam/midterm/examplemidterm_without_answers.pdf",
     "datamining/introduction-to-data-mining-v1.pdf",
     "datamining/an-introduction-to-data-mining-v1.pdf",
     "datamining/introduction-to-data-mining-1292026154-9781292026152_compress.pdf",
-    "datamining/Unconfirmed 321269.crdownload",
     "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
-    "datamining/solution-introduction-to-data-mining.pdf",
-    "datamining/datamining.book.pdf.pdf",
-    "datamining/Unconfirmed 883118.crdownload",
     "datamining/exam prep/datamining_prep.excalidraw.md",
     "Algorithms and Data Structures/week 7/Assignment 7.md",
     "Pasted Image 20231023181606_547.png",
@@ -205,23 +239,6 @@
     "Pasted Image 20231023130620_118.png",
     "Pasted Image 20231023125901_067.png",
     "Untitled Kanban.md",
-    "Intervention Methodology/intervention session notes/notes.md",
-    "datamining/Untitled.md",
-    "datamining/exam prep.md",
-    "notes for actual sessoin.md",
-    "Excalidraw/Drawing 2023-10-17 08.39.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-11 08.35.11.excalidraw.md",
-    "datamining/Project proposal notes.md",
-    "Algorithms and Data Structures/week 5/assingment 5.md",
-    "Intervention Methodology/Project proposal notes.md",
-    "legacy/Bayes theorem.md",
-    "legacy/research methods.md",
-    "legacy/Reduction.md",
-    "legacy/idea for semantic rules.md",
-    "super new file.md",
-    "water.md",
-    "System Theory/week 4/workgroup-notes.excalidraw.md",
-    "System Theory/week 3/lecture notes.md",
     "Untitled.canvas"
   ]
 }

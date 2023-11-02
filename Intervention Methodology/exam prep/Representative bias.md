@@ -1,0 +1,1 @@
+This is if we ignore relevant statistical information or have misconceptions about the nature of random processes.

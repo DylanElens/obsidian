@@ -1,0 +1,1 @@
+people’s built-in tendency to favor information that supports their current beliefs or preferred choices and dismiss evidence that challenges these beliefs

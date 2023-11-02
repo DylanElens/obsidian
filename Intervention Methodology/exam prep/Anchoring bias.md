@@ -1,0 +1,1 @@
+Anchoring bias refers to the notion that people often allow an initial reference point to distort their estimates.
