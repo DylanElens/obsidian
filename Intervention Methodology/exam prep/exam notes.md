@@ -1,7 +1,7 @@
 An aspect of **messy problems** is the interconnectedness between different aspects of the sistuation, its systemicity, that makes messy problems particularly challenging to manage. There is also a high level of uncertianty
 
 Involving key stakeholder is a challenge for several reasons
-1. Different stakeholders may have different perspecitvies that lead to partial and biased interpretations of, and responses to, the situation
+1. Different stakeholders may have different perspectives that lead to partial and biased interpretations of, and responses to, the situation
 2. Stakeholders may have different goals and interests which can result in conflict.
 3. The parties involved may have different power sources to deal with the situation.
 
@@ -23,6 +23,9 @@ In order to make sense of complex situations inddiviuals use a number of mental 
 6. Use the [[Intervention Methodology/exam prep/Representative bias|Representative bias]]
 
 These are also called **heuristics**
+
+Teams make make all biases worse execpt
+Availibilty and anchoring
 
 ### Teams
 A team is three or more individuals who are brought together to make a decision or provide a recommendation about a situation that needs to be addressed.
@@ -160,7 +163,7 @@ PSD Scenario planning is a family of approaches that aims to enhance understandi
 - **Effectiveness:** Effective for generating a wide range of ideas, but it may require additional processes for idea evaluation and prioritization.
     
 
-**2. Nominal Group Technique (NGT):**
+### Nominal Group Technique (NGT):
 
 - **What it means:** NGT is a structured group problem-solving method that enhances brainstorming by reducing unnecessary discussions.
     

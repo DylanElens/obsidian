@@ -70,8 +70,6 @@ It's the perfect intervention method!
 - Supports the construction of a shared mental model of a system -> model the system
 
 
-
-
 # Multiple Scenario Development
 #### what does it mean?
 With MSD a set of scenarios is developed which each describe, what a possible future looks like and how it came to be. 
