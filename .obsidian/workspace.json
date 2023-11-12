@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f24c1b475f0b8276",
+        "id": "c15d283551514568",
         "type": "tabs",
         "children": [
           {
-            "id": "2ea049b71bdec911",
+            "id": "946253b3edddc6fc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
+                "file": "Functional Programming/week 8/exercises8.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+                "file": "Functional Programming/week 8/exercises8.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+                "file": "Functional Programming/week 8/exercises8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Theory/exam prep/system_theory_exam_prep.excalidraw.md"
+                "file": "Functional Programming/week 8/exercises8.pdf"
               }
             }
           },
@@ -174,44 +174,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ea049b71bdec911",
+  "active": "946253b3edddc6fc",
   "lastOpenFiles": [
+    "Organisatie Ontwerp/Week 1.md",
+    "Functional Programming/week 8/exercises8.pdf",
+    "Functional Programming/week 8/Unconfirmed 99843.crdownload",
+    "Organisatie Ontwerp/course info/course guide.md",
+    "Untitled.md",
+    "Organisatie Ontwerp/course info",
+    "Organisatie Ontwerp",
+    "Intervention Methodology/Engaged decision making complete.pdf",
+    "datamining_annotations.md",
+    "notes for actual sessoin.md",
     "datamining/exam prep/DataMiningSummary2022.pdf",
-    "Intervention Methodology/2023 Introduction day_KC.pdf",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
-    "datamining/exam/midterm/examplemidterm_with_answers.pdf",
-    "datamining/exam/midterm/examplemidterm_without_answers.pdf",
-    "datamining/introduction-to-data-mining-v1.pdf",
-    "datamining/an-introduction-to-data-mining-v1.pdf",
-    "datamining/introduction-to-data-mining-1292026154-9781292026152_compress.pdf",
-    "datamining/Unconfirmed 321269.crdownload",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
-    "datamining/solution-introduction-to-data-mining.pdf",
-    "datamining/datamining.book.pdf.pdf",
-    "datamining/Unconfirmed 883118.crdownload",
+    "Intervention Methodology/intervention session notes/notes.md",
     "datamining/exam prep/datamining_prep.excalidraw.md",
-    "Algorithms and Data Structures/week 7/Assignment 7.md",
-    "Pasted Image 20231023181606_547.png",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "System Theory/exam prep/System_Theory.pdf",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
+    "System Theory/week 3/lecture drawing.md",
+    "datamining/week 4/DM2324_lecture_4.pdf",
+    "datamining/week 4",
+    "datamining/week 3/DM2324_lecture_3b-similarity_measures.pdf",
     "datamining/exam prep/exam midterm.md",
-    "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
+    "datamining/exam prep/book notes.md",
+    "datamining/Untitled.md",
+    "Pasted Image 20231023181606_547.png",
     "Pasted Image 20231023153228_781.png",
     "Pasted Image 20231023153154_762.png",
     "Pasted Image 20231023150844_314.png",
     "Pasted Image 20231023144641_111.png",
     "Pasted Image 20231023144047_034.png",
     "Pasted Image 20231023143814_001.png",
-    "datamining_annotations.md",
-    "datamining/exam prep/book notes.md",
     "Pasted Image 20231023130620_118.png",
     "Pasted Image 20231023125901_067.png",
-    "Untitled Kanban.md",
-    "Intervention Methodology/intervention session notes/notes.md",
-    "datamining/Untitled.md",
-    "datamining/exam prep.md",
-    "notes for actual sessoin.md",
+    "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
+    "Algorithms and Data Structures/week 7/Assignment 7.md",
     "Excalidraw/Drawing 2023-10-17 08.39.04.excalidraw.md",
     "Excalidraw/Drawing 2023-10-11 08.35.11.excalidraw.md",
     "datamining/Project proposal notes.md",
+    "Untitled Kanban.md",
     "Algorithms and Data Structures/week 5/assingment 5.md",
     "Intervention Methodology/Project proposal notes.md",
     "legacy/Bayes theorem.md",
@@ -219,9 +221,6 @@
     "legacy/Reduction.md",
     "legacy/idea for semantic rules.md",
     "super new file.md",
-    "water.md",
-    "System Theory/week 4/workgroup-notes.excalidraw.md",
-    "System Theory/week 3/lecture notes.md",
     "Untitled.canvas"
   ]
 }
