@@ -1,0 +1,1 @@
+The tendency for people to escalate commitment to a failing course of action is known as the sunk-cost bias

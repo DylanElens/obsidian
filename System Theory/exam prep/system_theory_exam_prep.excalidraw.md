@@ -756,8 +756,8 @@ Can be seen as goals ^M2wicVdT
 	"elements": [
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 1258037162,
+			"version": 229,
+			"versionNonce": 687085647,
 			"isDeleted": false,
 			"id": "Un80X2ih",
 			"fillStyle": "hachure",
@@ -794,7 +794,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -810,8 +810,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 167,
-			"versionNonce": 169248758,
+			"version": 168,
+			"versionNonce": 573806625,
 			"isDeleted": false,
 			"id": "tgxghFmTe35iNG1lZYudB",
 			"fillStyle": "hachure",
@@ -833,7 +833,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -862,8 +862,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 483,
-			"versionNonce": 779000426,
+			"version": 484,
+			"versionNonce": 2122987119,
 			"isDeleted": false,
 			"id": "xFqwgGCO",
 			"fillStyle": "hachure",
@@ -904,7 +904,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -920,8 +920,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 154,
-			"versionNonce": 690886966,
+			"version": 155,
+			"versionNonce": 791538689,
 			"isDeleted": false,
 			"id": "sAHI1_JCJJbXHWEzK5O-j",
 			"fillStyle": "hachure",
@@ -943,7 +943,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -972,8 +972,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 1531165994,
+			"version": 425,
+			"versionNonce": 334991503,
 			"isDeleted": false,
 			"id": "hmUb0oIB",
 			"fillStyle": "hachure",
@@ -1014,7 +1014,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1030,8 +1030,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 158,
-			"versionNonce": 968983158,
+			"version": 159,
+			"versionNonce": 1970455521,
 			"isDeleted": false,
 			"id": "8W7DQyk67_jHSHqD_k7xz",
 			"fillStyle": "hachure",
@@ -1053,7 +1053,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1078,8 +1078,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 591,
-			"versionNonce": 1592166378,
+			"version": 592,
+			"versionNonce": 1660200623,
 			"isDeleted": false,
 			"id": "h0Y5DLsW",
 			"fillStyle": "hachure",
@@ -1099,7 +1099,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1115,8 +1115,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 152,
-			"versionNonce": 1318437814,
+			"version": 153,
+			"versionNonce": 1896980417,
 			"isDeleted": false,
 			"id": "fDWpBUa6axEw4wkfIW-R4",
 			"fillStyle": "hachure",
@@ -1138,7 +1138,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1163,8 +1163,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 499,
-			"versionNonce": 1633811114,
+			"version": 500,
+			"versionNonce": 438958287,
 			"isDeleted": false,
 			"id": "J9hImsAE",
 			"fillStyle": "hachure",
@@ -1193,7 +1193,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1209,8 +1209,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 280,
-			"versionNonce": 1506794742,
+			"version": 281,
+			"versionNonce": 1881800609,
 			"isDeleted": false,
 			"id": "OWnDMOHtviKTVXiOxRe08",
 			"fillStyle": "hachure",
@@ -1232,7 +1232,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484611,
+			"updated": 1698652425679,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1261,8 +1261,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 427,
-			"versionNonce": 1365316970,
+			"version": 428,
+			"versionNonce": 2133853935,
 			"isDeleted": false,
 			"id": "FEFwrryy",
 			"fillStyle": "hachure",
@@ -1287,7 +1287,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484611,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1303,8 +1303,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1738,
-			"versionNonce": 1089785398,
+			"version": 1739,
+			"versionNonce": 1357603713,
 			"isDeleted": false,
 			"id": "9aKFNbcRIFMrMpPnur-nn",
 			"fillStyle": "hachure",
@@ -1326,7 +1326,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1355,8 +1355,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 931,
-			"versionNonce": 271505450,
+			"version": 932,
+			"versionNonce": 277827855,
 			"isDeleted": false,
 			"id": "FILqZnG1",
 			"fillStyle": "hachure",
@@ -1385,7 +1385,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1401,8 +1401,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "line",
-			"version": 164,
-			"versionNonce": 1894356854,
+			"version": 165,
+			"versionNonce": 2140490593,
 			"isDeleted": false,
 			"id": "6BrJy9R1DRHJ4KkUaQYS9",
 			"fillStyle": "hachure",
@@ -1424,7 +1424,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1445,8 +1445,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "line",
-			"version": 178,
-			"versionNonce": 498483946,
+			"version": 179,
+			"versionNonce": 1740658479,
 			"isDeleted": false,
 			"id": "OzHudzDLNMCwn335EsRC_",
 			"fillStyle": "hachure",
@@ -1468,7 +1468,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1489,8 +1489,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1911765174,
+			"version": 121,
+			"versionNonce": 880228161,
 			"isDeleted": false,
 			"id": "pmZAyaR1",
 			"fillStyle": "hachure",
@@ -1510,7 +1510,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1526,8 +1526,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 132,
-			"versionNonce": 1149392298,
+			"version": 133,
+			"versionNonce": 1529583951,
 			"isDeleted": false,
 			"id": "wnVWssb3",
 			"fillStyle": "hachure",
@@ -1547,7 +1547,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1563,8 +1563,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 2075570678,
+			"version": 124,
+			"versionNonce": 1911596833,
 			"isDeleted": false,
 			"id": "01y6lS8R",
 			"fillStyle": "hachure",
@@ -1584,7 +1584,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1600,8 +1600,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 1170083946,
+			"version": 111,
+			"versionNonce": 1613338479,
 			"isDeleted": false,
 			"id": "d14xVZaW",
 			"fillStyle": "hachure",
@@ -1621,7 +1621,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1637,8 +1637,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 154731318,
+			"version": 102,
+			"versionNonce": 1114708737,
 			"isDeleted": false,
 			"id": "5byIIPSe",
 			"fillStyle": "hachure",
@@ -1658,7 +1658,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1674,8 +1674,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 87323434,
+			"version": 111,
+			"versionNonce": 755159439,
 			"isDeleted": false,
 			"id": "muJ5xdkF",
 			"fillStyle": "hachure",
@@ -1695,7 +1695,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1711,8 +1711,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 1826565238,
+			"version": 99,
+			"versionNonce": 913838817,
 			"isDeleted": false,
 			"id": "sISX57x1",
 			"fillStyle": "hachure",
@@ -1732,7 +1732,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1748,8 +1748,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 109,
-			"versionNonce": 894467562,
+			"version": 110,
+			"versionNonce": 451921839,
 			"isDeleted": false,
 			"id": "z6xtZQ27",
 			"fillStyle": "hachure",
@@ -1769,7 +1769,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1785,8 +1785,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "ellipse",
-			"version": 188,
-			"versionNonce": 1684942262,
+			"version": 189,
+			"versionNonce": 580193985,
 			"isDeleted": false,
 			"id": "MMEbFRT1Mb_6hGkdHNt8a",
 			"fillStyle": "hachure",
@@ -1813,14 +1813,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 124,
-			"versionNonce": 52244650,
+			"version": 125,
+			"versionNonce": 1209596367,
 			"isDeleted": false,
 			"id": "r8mM_Z_Pfay8SP61QM6j4",
 			"fillStyle": "hachure",
@@ -1842,7 +1842,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1867,8 +1867,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 755697398,
+			"version": 104,
+			"versionNonce": 493325985,
 			"isDeleted": false,
 			"id": "FHcMx2tg",
 			"fillStyle": "hachure",
@@ -1888,7 +1888,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1904,8 +1904,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1084,
-			"versionNonce": 1111853930,
+			"version": 1085,
+			"versionNonce": 2039932911,
 			"isDeleted": false,
 			"id": "y8Zw8_szNbmIfpngeOGfP",
 			"fillStyle": "hachure",
@@ -1927,7 +1927,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1956,8 +1956,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 559,
-			"versionNonce": 389724214,
+			"version": 560,
+			"versionNonce": 1033835137,
 			"isDeleted": false,
 			"id": "66cpCx7f",
 			"fillStyle": "hachure",
@@ -1982,7 +1982,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1998,8 +1998,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 420777514,
+			"version": 118,
+			"versionNonce": 1030885903,
 			"isDeleted": false,
 			"id": "2dT3QeEs",
 			"fillStyle": "hachure",
@@ -2032,7 +2032,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2048,8 +2048,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 451035510,
+			"version": 147,
+			"versionNonce": 402332257,
 			"isDeleted": false,
 			"id": "MRLCxJfl2RFgbfwxx9Txo",
 			"fillStyle": "hachure",
@@ -2071,7 +2071,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2100,8 +2100,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 367,
-			"versionNonce": 745879786,
+			"version": 368,
+			"versionNonce": 1285748783,
 			"isDeleted": false,
 			"id": "-WuOQ797LUDOJQ4ZmWdwE",
 			"fillStyle": "hachure",
@@ -2123,7 +2123,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2152,8 +2152,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 504,
-			"versionNonce": 1799791286,
+			"version": 505,
+			"versionNonce": 2102076993,
 			"isDeleted": false,
 			"id": "eGCfa0xS",
 			"fillStyle": "hachure",
@@ -2178,7 +2178,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2194,8 +2194,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1248,
-			"versionNonce": 1274186666,
+			"version": 1249,
+			"versionNonce": 756161103,
 			"isDeleted": false,
 			"id": "AolvOYyCM_elmffgATtBn",
 			"fillStyle": "hachure",
@@ -2217,7 +2217,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2246,8 +2246,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 679,
-			"versionNonce": 185392118,
+			"version": 680,
+			"versionNonce": 2020521505,
 			"isDeleted": false,
 			"id": "rO0ugEay",
 			"fillStyle": "hachure",
@@ -2272,7 +2272,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2288,8 +2288,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 142,
-			"versionNonce": 498566762,
+			"version": 143,
+			"versionNonce": 328726639,
 			"isDeleted": false,
 			"id": "oqVCishxYKvdYWCv5MRcm",
 			"fillStyle": "hachure",
@@ -2311,7 +2311,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2336,8 +2336,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 1614409014,
+			"version": 310,
+			"versionNonce": 206916097,
 			"isDeleted": false,
 			"id": "CAzU8k4Y",
 			"fillStyle": "hachure",
@@ -2362,7 +2362,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2378,8 +2378,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 137,
-			"versionNonce": 1250896170,
+			"version": 138,
+			"versionNonce": 100471439,
 			"isDeleted": false,
 			"id": "we9vxKwak-PSuurZITiRA",
 			"fillStyle": "hachure",
@@ -2401,7 +2401,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2426,8 +2426,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 142,
-			"versionNonce": 1211291254,
+			"version": 143,
+			"versionNonce": 838754785,
 			"isDeleted": false,
 			"id": "uZhM2J1D",
 			"fillStyle": "hachure",
@@ -2452,7 +2452,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2468,8 +2468,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "line",
-			"version": 154,
-			"versionNonce": 702837738,
+			"version": 155,
+			"versionNonce": 1023010991,
 			"isDeleted": false,
 			"id": "G8zjZ1k-h8urr4cGWeJDy",
 			"fillStyle": "hachure",
@@ -2491,7 +2491,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2512,8 +2512,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "line",
-			"version": 185,
-			"versionNonce": 733779894,
+			"version": 186,
+			"versionNonce": 377060801,
 			"isDeleted": false,
 			"id": "jIj8el6SO8cXWGpZmrLCB",
 			"fillStyle": "hachure",
@@ -2535,7 +2535,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2556,8 +2556,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 1841456810,
+			"version": 109,
+			"versionNonce": 1178008271,
 			"isDeleted": false,
 			"id": "VRL28Gyl",
 			"fillStyle": "hachure",
@@ -2577,7 +2577,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2593,8 +2593,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 318517494,
+			"version": 174,
+			"versionNonce": 417734049,
 			"isDeleted": false,
 			"id": "vJWi8Ryb",
 			"fillStyle": "hachure",
@@ -2614,7 +2614,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2630,8 +2630,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1322516842,
+			"version": 171,
+			"versionNonce": 1716308207,
 			"isDeleted": false,
 			"id": "RioZMq0S",
 			"fillStyle": "hachure",
@@ -2651,7 +2651,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2667,8 +2667,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 964076086,
+			"version": 163,
+			"versionNonce": 141803905,
 			"isDeleted": false,
 			"id": "Us7y0B34",
 			"fillStyle": "hachure",
@@ -2688,7 +2688,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2704,8 +2704,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 946095146,
+			"version": 216,
+			"versionNonce": 985912079,
 			"isDeleted": false,
 			"id": "qjk0ymxD",
 			"fillStyle": "hachure",
@@ -2725,7 +2725,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2741,8 +2741,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 571534198,
+			"version": 98,
+			"versionNonce": 576842081,
 			"isDeleted": false,
 			"id": "AbZKdrrq",
 			"fillStyle": "hachure",
@@ -2762,7 +2762,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2778,8 +2778,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 129,
-			"versionNonce": 1952329450,
+			"version": 130,
+			"versionNonce": 471111983,
 			"isDeleted": false,
 			"id": "gaTbXUrN",
 			"fillStyle": "hachure",
@@ -2799,7 +2799,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2815,8 +2815,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 722472118,
+			"version": 150,
+			"versionNonce": 1342182721,
 			"isDeleted": false,
 			"id": "uoaez2Oi",
 			"fillStyle": "hachure",
@@ -2836,7 +2836,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2852,8 +2852,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 1464648106,
+			"version": 175,
+			"versionNonce": 1067948879,
 			"isDeleted": false,
 			"id": "J5vZMEOT",
 			"fillStyle": "hachure",
@@ -2873,7 +2873,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2889,8 +2889,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 186,
-			"versionNonce": 572065270,
+			"version": 187,
+			"versionNonce": 615367969,
 			"isDeleted": false,
 			"id": "zD3Fe7KA",
 			"fillStyle": "hachure",
@@ -2910,7 +2910,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2926,8 +2926,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 1817902186,
+			"version": 116,
+			"versionNonce": 433412463,
 			"isDeleted": false,
 			"id": "Pd4Bxj2K",
 			"fillStyle": "hachure",
@@ -2947,7 +2947,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2963,8 +2963,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 219,
-			"versionNonce": 1479595830,
+			"version": 220,
+			"versionNonce": 467302657,
 			"isDeleted": false,
 			"id": "s35Z7Gk2f_z4qID3HNLrA",
 			"fillStyle": "hachure",
@@ -2986,7 +2986,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3011,8 +3011,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 559144746,
+			"version": 232,
+			"versionNonce": 2145801103,
 			"isDeleted": false,
 			"id": "05kWBlnx",
 			"fillStyle": "hachure",
@@ -3032,7 +3032,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484612,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3048,8 +3048,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 197,
-			"versionNonce": 901546102,
+			"version": 198,
+			"versionNonce": 386248929,
 			"isDeleted": false,
 			"id": "hUp2TheqUMZH5qeT5JZwY",
 			"fillStyle": "hachure",
@@ -3071,7 +3071,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3100,8 +3100,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 1923246570,
+			"version": 210,
+			"versionNonce": 169019823,
 			"isDeleted": false,
 			"id": "peNREUuo",
 			"fillStyle": "hachure",
@@ -3134,7 +3134,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3150,8 +3150,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 201,
-			"versionNonce": 1317077430,
+			"version": 202,
+			"versionNonce": 465497281,
 			"isDeleted": false,
 			"id": "3v-w5XHPZPTNeV2jtTTWE",
 			"fillStyle": "hachure",
@@ -3173,7 +3173,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3194,8 +3194,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 667,
-			"versionNonce": 391224490,
+			"version": 668,
+			"versionNonce": 897842127,
 			"isDeleted": false,
 			"id": "SjFBx5ch",
 			"fillStyle": "hachure",
@@ -3232,7 +3232,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3248,8 +3248,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 308,
-			"versionNonce": 1973639926,
+			"version": 309,
+			"versionNonce": 1369812129,
 			"isDeleted": false,
 			"id": "cpMOY3sdp28fTU2AYF5U_",
 			"fillStyle": "hachure",
@@ -3271,7 +3271,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3300,8 +3300,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 492,
-			"versionNonce": 755791722,
+			"version": 493,
+			"versionNonce": 1179757039,
 			"isDeleted": false,
 			"id": "mO2f7e8N",
 			"fillStyle": "hachure",
@@ -3326,7 +3326,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3342,8 +3342,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 119,
-			"versionNonce": 1370000438,
+			"version": 120,
+			"versionNonce": 1080651905,
 			"isDeleted": false,
 			"id": "d200j9RxUyCjBXrbXGR_P",
 			"fillStyle": "hachure",
@@ -3365,7 +3365,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3390,8 +3390,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 533,
-			"versionNonce": 1679686186,
+			"version": 534,
+			"versionNonce": 1770296335,
 			"isDeleted": false,
 			"id": "Oy0prMWE",
 			"fillStyle": "hachure",
@@ -3411,7 +3411,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3427,8 +3427,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 609,
-			"versionNonce": 1886754166,
+			"version": 610,
+			"versionNonce": 1305065569,
 			"isDeleted": false,
 			"id": "B2sRPbwYKkiqR4yQKiZo_",
 			"fillStyle": "hachure",
@@ -3450,7 +3450,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3475,8 +3475,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 563,
-			"versionNonce": 728835306,
+			"version": 564,
+			"versionNonce": 387267119,
 			"isDeleted": false,
 			"id": "IgrVGV9q",
 			"fillStyle": "hachure",
@@ -3501,7 +3501,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3517,8 +3517,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 279,
-			"versionNonce": 1531934390,
+			"version": 280,
+			"versionNonce": 2073429057,
 			"isDeleted": false,
 			"id": "BCSR9ExueHrJi5_TOn-PQ",
 			"fillStyle": "hachure",
@@ -3540,7 +3540,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3569,8 +3569,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "image",
-			"version": 582,
-			"versionNonce": 1553004458,
+			"version": 583,
+			"versionNonce": 871111759,
 			"isDeleted": false,
 			"id": "WRCosz8m4A1L6ej1tu8Cw",
 			"fillStyle": "hachure",
@@ -3595,7 +3595,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3607,8 +3607,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 511,
-			"versionNonce": 719007734,
+			"version": 512,
+			"versionNonce": 1705890849,
 			"isDeleted": false,
 			"id": "bQKVukOZ",
 			"fillStyle": "hachure",
@@ -3633,7 +3633,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3649,8 +3649,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 185,
-			"versionNonce": 1739092586,
+			"version": 186,
+			"versionNonce": 1944173167,
 			"isDeleted": false,
 			"id": "Q7yK0DCgiAykqLI7As3K3",
 			"fillStyle": "hachure",
@@ -3672,7 +3672,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3701,8 +3701,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 454934838,
+			"version": 311,
+			"versionNonce": 43009,
 			"isDeleted": false,
 			"id": "P7MLHmhJ",
 			"fillStyle": "hachure",
@@ -3735,7 +3735,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3751,8 +3751,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 203,
-			"versionNonce": 2139264298,
+			"version": 204,
+			"versionNonce": 2076087439,
 			"isDeleted": false,
 			"id": "DKqjQjbC7vOQHKDVkqMkf",
 			"fillStyle": "hachure",
@@ -3774,7 +3774,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3803,8 +3803,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 241,
-			"versionNonce": 528231030,
+			"version": 242,
+			"versionNonce": 344850401,
 			"isDeleted": false,
 			"id": "DBstWFPG",
 			"fillStyle": "hachure",
@@ -3833,7 +3833,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3849,8 +3849,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 151,
-			"versionNonce": 1166696426,
+			"version": 152,
+			"versionNonce": 1127951023,
 			"isDeleted": false,
 			"id": "mnRoAygaIi0p8MHThj0vC",
 			"fillStyle": "hachure",
@@ -3872,7 +3872,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3901,8 +3901,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 785,
-			"versionNonce": 1991994294,
+			"version": 786,
+			"versionNonce": 23419841,
 			"isDeleted": false,
 			"id": "YyykhCMa",
 			"fillStyle": "hachure",
@@ -3931,7 +3931,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3947,8 +3947,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 323,
-			"versionNonce": 1976226474,
+			"version": 324,
+			"versionNonce": 922746063,
 			"isDeleted": false,
 			"id": "h_tuYnGxLBi50uKIcj3KV",
 			"fillStyle": "hachure",
@@ -3970,7 +3970,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3999,8 +3999,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 420,
-			"versionNonce": 1056998646,
+			"version": 421,
+			"versionNonce": 916863905,
 			"isDeleted": false,
 			"id": "KeW4nkKn",
 			"fillStyle": "hachure",
@@ -4029,7 +4029,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4045,8 +4045,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 225,
-			"versionNonce": 317648234,
+			"version": 226,
+			"versionNonce": 447056623,
 			"isDeleted": false,
 			"id": "H3JD9iaS9Cb555CB-MArk",
 			"fillStyle": "hachure",
@@ -4068,7 +4068,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4097,8 +4097,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 242,
-			"versionNonce": 164656694,
+			"version": 243,
+			"versionNonce": 1954553729,
 			"isDeleted": false,
 			"id": "EDBPK7RY",
 			"fillStyle": "hachure",
@@ -4123,7 +4123,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4139,8 +4139,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 865,
-			"versionNonce": 1880113014,
+			"version": 866,
+			"versionNonce": 716461327,
 			"isDeleted": false,
 			"id": "QsuyROIv",
 			"fillStyle": "hachure",
@@ -4165,7 +4165,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4181,8 +4181,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 232,
-			"versionNonce": 128850666,
+			"version": 233,
+			"versionNonce": 1228048225,
 			"isDeleted": false,
 			"id": "SN19FcdjyKbU10hSSpOzW",
 			"fillStyle": "hachure",
@@ -4204,7 +4204,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4233,8 +4233,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 281,
-			"versionNonce": 637853878,
+			"version": 282,
+			"versionNonce": 2124733231,
 			"isDeleted": false,
 			"id": "4dDHWIDR",
 			"fillStyle": "hachure",
@@ -4279,7 +4279,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4295,8 +4295,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 799,
-			"versionNonce": 1371483562,
+			"version": 800,
+			"versionNonce": 1326248769,
 			"isDeleted": false,
 			"id": "WV6i9mMJDuWMKwpIuFtOQ",
 			"fillStyle": "hachure",
@@ -4318,7 +4318,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4347,8 +4347,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 457,
-			"versionNonce": 257120758,
+			"version": 458,
+			"versionNonce": 719297871,
 			"isDeleted": false,
 			"id": "ZBFy7ZSj",
 			"fillStyle": "hachure",
@@ -4373,7 +4373,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4389,8 +4389,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 657,
-			"versionNonce": 1168107626,
+			"version": 658,
+			"versionNonce": 711910177,
 			"isDeleted": false,
 			"id": "aoc3KwLHgWp4EkG3WAqyZ",
 			"fillStyle": "hachure",
@@ -4412,7 +4412,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4441,8 +4441,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 782,
-			"versionNonce": 1392552758,
+			"version": 783,
+			"versionNonce": 582818671,
 			"isDeleted": false,
 			"id": "sUXCwYC3",
 			"fillStyle": "hachure",
@@ -4479,7 +4479,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4495,8 +4495,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 487,
-			"versionNonce": 1528515370,
+			"version": 488,
+			"versionNonce": 1204279041,
 			"isDeleted": false,
 			"id": "OtNlCEOiAAEryDF-Qj32a",
 			"fillStyle": "hachure",
@@ -4518,7 +4518,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4547,8 +4547,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 413,
-			"versionNonce": 1869730934,
+			"version": 414,
+			"versionNonce": 1518720399,
 			"isDeleted": false,
 			"id": "lbGXMoyh",
 			"fillStyle": "hachure",
@@ -4573,7 +4573,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4589,8 +4589,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 992,
-			"versionNonce": 1486640618,
+			"version": 993,
+			"versionNonce": 1503088353,
 			"isDeleted": false,
 			"id": "UT6SYfDPfAv2MQo_ZS8EH",
 			"fillStyle": "hachure",
@@ -4612,7 +4612,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4641,8 +4641,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 331,
-			"versionNonce": 1315689910,
+			"version": 332,
+			"versionNonce": 695356335,
 			"isDeleted": false,
 			"id": "jIidixaV",
 			"fillStyle": "hachure",
@@ -4687,7 +4687,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4703,8 +4703,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 204,
-			"versionNonce": 2133723306,
+			"version": 205,
+			"versionNonce": 376228545,
 			"isDeleted": false,
 			"id": "Wk9YVraQrazroidNJHSgD",
 			"fillStyle": "hachure",
@@ -4726,7 +4726,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4755,8 +4755,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 963,
-			"versionNonce": 1494462198,
+			"version": 964,
+			"versionNonce": 1806368207,
 			"isDeleted": false,
 			"id": "dB1pcPUr",
 			"fillStyle": "hachure",
@@ -4785,7 +4785,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4801,8 +4801,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 142,
-			"versionNonce": 914056042,
+			"version": 143,
+			"versionNonce": 921160353,
 			"isDeleted": false,
 			"id": "dqEFZfRHT3KpBwyG2cw09",
 			"fillStyle": "hachure",
@@ -4824,7 +4824,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4849,8 +4849,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 200171574,
+			"version": 425,
+			"versionNonce": 1682467823,
 			"isDeleted": false,
 			"id": "P4bvjxAT",
 			"fillStyle": "hachure",
@@ -4879,7 +4879,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4895,8 +4895,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 247,
-			"versionNonce": 953116202,
+			"version": 248,
+			"versionNonce": 867683969,
 			"isDeleted": false,
 			"id": "mPjAE5t6vQvznbjM8Tr7X",
 			"fillStyle": "hachure",
@@ -4918,7 +4918,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4947,8 +4947,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 195,
-			"versionNonce": 182511990,
+			"version": 196,
+			"versionNonce": 1599280655,
 			"isDeleted": false,
 			"id": "fUhcOjtfILaCoPczGTgkw",
 			"fillStyle": "hachure",
@@ -4970,7 +4970,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4995,8 +4995,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 468,
-			"versionNonce": 1058345194,
+			"version": 469,
+			"versionNonce": 1134319201,
 			"isDeleted": false,
 			"id": "q3GIHmU1",
 			"fillStyle": "hachure",
@@ -5025,7 +5025,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5041,8 +5041,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 160,
-			"versionNonce": 892357302,
+			"version": 161,
+			"versionNonce": 331578415,
 			"isDeleted": false,
 			"id": "B29ivg9F1VdxAc4BCFREw",
 			"fillStyle": "hachure",
@@ -5064,7 +5064,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5089,8 +5089,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 342,
-			"versionNonce": 752313258,
+			"version": 343,
+			"versionNonce": 426041921,
 			"isDeleted": false,
 			"id": "rMnpyl7h",
 			"fillStyle": "hachure",
@@ -5115,7 +5115,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484613,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5131,8 +5131,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 153,
-			"versionNonce": 964789238,
+			"version": 154,
+			"versionNonce": 1166155343,
 			"isDeleted": false,
 			"id": "HeQf7myOuyeTMPu_buxvM",
 			"fillStyle": "hachure",
@@ -5154,7 +5154,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5183,8 +5183,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 199,
-			"versionNonce": 1010916970,
+			"version": 200,
+			"versionNonce": 1643180577,
 			"isDeleted": false,
 			"id": "oldFDZTsSeW6VvKM87owK",
 			"fillStyle": "hachure",
@@ -5206,7 +5206,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5231,8 +5231,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 204,
-			"versionNonce": 702125366,
+			"version": 205,
+			"versionNonce": 661093487,
 			"isDeleted": false,
 			"id": "4kE58sZy",
 			"fillStyle": "hachure",
@@ -5252,7 +5252,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5268,8 +5268,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 687,
-			"versionNonce": 706609450,
+			"version": 688,
+			"versionNonce": 36701697,
 			"isDeleted": false,
 			"id": "SShdnUQi_7TfhfpfTEasi",
 			"fillStyle": "hachure",
@@ -5291,7 +5291,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5320,8 +5320,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 264,
-			"versionNonce": 261979766,
+			"version": 265,
+			"versionNonce": 2101089935,
 			"isDeleted": false,
 			"id": "otp7xZWr",
 			"fillStyle": "hachure",
@@ -5362,7 +5362,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5378,8 +5378,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 419,
-			"versionNonce": 1641565162,
+			"version": 420,
+			"versionNonce": 354524641,
 			"isDeleted": false,
 			"id": "xnzzvUjWEJn7_RHI5g-Lp",
 			"fillStyle": "hachure",
@@ -5401,7 +5401,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5430,8 +5430,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 478,
-			"versionNonce": 2140290998,
+			"version": 479,
+			"versionNonce": 2109238447,
 			"isDeleted": false,
 			"id": "3bYwg6NG",
 			"fillStyle": "hachure",
@@ -5460,7 +5460,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5476,8 +5476,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 515,
-			"versionNonce": 695942826,
+			"version": 516,
+			"versionNonce": 701839809,
 			"isDeleted": false,
 			"id": "jArOOqOxyLhcdTEhAaZSX",
 			"fillStyle": "hachure",
@@ -5499,7 +5499,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5528,8 +5528,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 379,
-			"versionNonce": 769448182,
+			"version": 380,
+			"versionNonce": 1954873039,
 			"isDeleted": false,
 			"id": "TOqIiSNq",
 			"fillStyle": "hachure",
@@ -5558,7 +5558,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5574,8 +5574,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 407,
-			"versionNonce": 1303501162,
+			"version": 408,
+			"versionNonce": 1097488801,
 			"isDeleted": false,
 			"id": "S1BWl7dCpEErAUVIGfQQ-",
 			"fillStyle": "hachure",
@@ -5597,7 +5597,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5626,8 +5626,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 526,
-			"versionNonce": 33704502,
+			"version": 527,
+			"versionNonce": 607800559,
 			"isDeleted": false,
 			"id": "hLcXFkQYD_NG5KB_-MRf0",
 			"fillStyle": "hachure",
@@ -5649,7 +5649,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5678,8 +5678,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 554,
-			"versionNonce": 1304894506,
+			"version": 555,
+			"versionNonce": 219184513,
 			"isDeleted": false,
 			"id": "As0MjK3j",
 			"fillStyle": "hachure",
@@ -5712,7 +5712,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5728,8 +5728,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 873,
-			"versionNonce": 719819638,
+			"version": 874,
+			"versionNonce": 1751176975,
 			"isDeleted": false,
 			"id": "XlLfL3YPm0hBbpeD1o3QW",
 			"fillStyle": "hachure",
@@ -5751,7 +5751,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425681,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5780,8 +5780,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 296,
-			"versionNonce": 128321258,
+			"version": 297,
+			"versionNonce": 1812407649,
 			"isDeleted": false,
 			"id": "Wt3ZuvBb",
 			"fillStyle": "hachure",
@@ -5806,7 +5806,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5822,8 +5822,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1000,
-			"versionNonce": 852604086,
+			"version": 1001,
+			"versionNonce": 393289007,
 			"isDeleted": false,
 			"id": "od_Eu9zNWDwjeEZnih-HD",
 			"fillStyle": "hachure",
@@ -5845,7 +5845,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5874,8 +5874,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 998,
-			"versionNonce": 1675205034,
+			"version": 999,
+			"versionNonce": 698208577,
 			"isDeleted": false,
 			"id": "Rvt98fZN",
 			"fillStyle": "hachure",
@@ -5904,7 +5904,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5920,8 +5920,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1118,
-			"versionNonce": 325430774,
+			"version": 1119,
+			"versionNonce": 617848655,
 			"isDeleted": false,
 			"id": "5UwuAmupbqL-5zgYUKGqh",
 			"fillStyle": "hachure",
@@ -5943,7 +5943,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5972,8 +5972,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 279,
-			"versionNonce": 26006634,
+			"version": 280,
+			"versionNonce": 2067005729,
 			"isDeleted": false,
 			"id": "8PDsS3xdMTw5y09Q_9Sy5",
 			"fillStyle": "hachure",
@@ -5995,7 +5995,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6024,8 +6024,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 1235779382,
+			"version": 237,
+			"versionNonce": 48291183,
 			"isDeleted": false,
 			"id": "CZSefaS8",
 			"fillStyle": "hachure",
@@ -6062,7 +6062,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6078,8 +6078,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 185,
-			"versionNonce": 1653258026,
+			"version": 186,
+			"versionNonce": 1043936513,
 			"isDeleted": false,
 			"id": "Ju2FhNuA3P_Ddt5d5GRfk",
 			"fillStyle": "hachure",
@@ -6101,7 +6101,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6126,8 +6126,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 389956074,
+			"version": 201,
+			"versionNonce": 1155618703,
 			"isDeleted": false,
 			"id": "S5dflgFQ",
 			"fillStyle": "hachure",
@@ -6147,7 +6147,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6163,8 +6163,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 524,
-			"versionNonce": 875473334,
+			"version": 525,
+			"versionNonce": 1982655713,
 			"isDeleted": false,
 			"id": "Z8A9a3UIgpGhemGizb6Fo",
 			"fillStyle": "hachure",
@@ -6186,7 +6186,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6215,8 +6215,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 367,
-			"versionNonce": 1790080170,
+			"version": 368,
+			"versionNonce": 17665455,
 			"isDeleted": false,
 			"id": "Jr5i8rbK",
 			"fillStyle": "hachure",
@@ -6245,7 +6245,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6261,8 +6261,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 456,
-			"versionNonce": 660341494,
+			"version": 457,
+			"versionNonce": 178170049,
 			"isDeleted": false,
 			"id": "nXlU8cIpEGya8afMFrIYf",
 			"fillStyle": "hachure",
@@ -6284,7 +6284,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6313,8 +6313,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 756,
-			"versionNonce": 244469610,
+			"version": 757,
+			"versionNonce": 1921908687,
 			"isDeleted": false,
 			"id": "8iUEbYWd",
 			"fillStyle": "hachure",
@@ -6343,7 +6343,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6359,8 +6359,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 659,
-			"versionNonce": 369898550,
+			"version": 660,
+			"versionNonce": 1160636577,
 			"isDeleted": false,
 			"id": "VoKuzgn0DSuwdks_40ojc",
 			"fillStyle": "hachure",
@@ -6382,7 +6382,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6411,8 +6411,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 563,
-			"versionNonce": 1193857578,
+			"version": 564,
+			"versionNonce": 1534799343,
 			"isDeleted": false,
 			"id": "Wq75L71p",
 			"fillStyle": "hachure",
@@ -6445,7 +6445,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6461,8 +6461,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 289,
-			"versionNonce": 975453558,
+			"version": 290,
+			"versionNonce": 260713601,
 			"isDeleted": false,
 			"id": "_9h4orvZDbyMykKt2tEV3",
 			"fillStyle": "hachure",
@@ -6484,7 +6484,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6513,8 +6513,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 392232170,
+			"version": 144,
+			"versionNonce": 652056591,
 			"isDeleted": false,
 			"id": "M6lsP6t6",
 			"fillStyle": "hachure",
@@ -6543,7 +6543,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6559,8 +6559,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 167,
-			"versionNonce": 1223237302,
+			"version": 168,
+			"versionNonce": 1903359073,
 			"isDeleted": false,
 			"id": "RxK7DqzBlfGQs0KnC3u1n",
 			"fillStyle": "hachure",
@@ -6582,7 +6582,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6607,8 +6607,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 286,
-			"versionNonce": 1824903082,
+			"version": 287,
+			"versionNonce": 1252900399,
 			"isDeleted": false,
 			"id": "6Xg7p5F6",
 			"fillStyle": "hachure",
@@ -6633,7 +6633,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6649,8 +6649,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "ellipse",
-			"version": 165,
-			"versionNonce": 117430262,
+			"version": 166,
+			"versionNonce": 1320665153,
 			"isDeleted": false,
 			"id": "D1X891nnFUeWCyOBDTR-r",
 			"fillStyle": "hachure",
@@ -6677,14 +6677,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 181,
-			"versionNonce": 1266829930,
+			"version": 182,
+			"versionNonce": 1775509583,
 			"isDeleted": false,
 			"id": "Ljs3R8uMVc6vdekwlHurn",
 			"fillStyle": "hachure",
@@ -6711,14 +6711,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 187,
-			"versionNonce": 1550674230,
+			"version": 188,
+			"versionNonce": 1698172961,
 			"isDeleted": false,
 			"id": "Nxq4KS5_urqlaoJIfy-mW",
 			"fillStyle": "hachure",
@@ -6740,7 +6740,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6765,8 +6765,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 2053205290,
+			"version": 124,
+			"versionNonce": 908672623,
 			"isDeleted": false,
 			"id": "JKgDIqYe",
 			"fillStyle": "hachure",
@@ -6786,7 +6786,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6802,8 +6802,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 131,
-			"versionNonce": 1754714742,
+			"version": 132,
+			"versionNonce": 182674433,
 			"isDeleted": false,
 			"id": "3UBpSjZmEo9lD5JY0j5ft",
 			"fillStyle": "hachure",
@@ -6825,7 +6825,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6850,8 +6850,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 785266666,
+			"version": 137,
+			"versionNonce": 309696655,
 			"isDeleted": false,
 			"id": "mvTgdlQD",
 			"fillStyle": "hachure",
@@ -6876,7 +6876,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6892,8 +6892,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 109,
-			"versionNonce": 373363638,
+			"version": 110,
+			"versionNonce": 733559777,
 			"isDeleted": false,
 			"id": "jEUFB6PIEFAsQpdV539BC",
 			"fillStyle": "hachure",
@@ -6915,7 +6915,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6944,8 +6944,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 133,
-			"versionNonce": 953395882,
+			"version": 134,
+			"versionNonce": 1953607343,
 			"isDeleted": false,
 			"id": "XkCi9DYF",
 			"fillStyle": "hachure",
@@ -6970,7 +6970,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6986,8 +6986,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 535,
-			"versionNonce": 798043382,
+			"version": 536,
+			"versionNonce": 130619329,
 			"isDeleted": false,
 			"id": "g1kIbmGe",
 			"fillStyle": "hachure",
@@ -7007,7 +7007,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7023,8 +7023,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 323,
-			"versionNonce": 790414698,
+			"version": 324,
+			"versionNonce": 113639631,
 			"isDeleted": false,
 			"id": "2AXN_G9CLd0H2pWkcW4jv",
 			"fillStyle": "hachure",
@@ -7046,7 +7046,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7075,8 +7075,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 306,
-			"versionNonce": 1913396790,
+			"version": 307,
+			"versionNonce": 825391009,
 			"isDeleted": false,
 			"id": "30uhuMXq",
 			"fillStyle": "hachure",
@@ -7117,7 +7117,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484614,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 23.551244467611294,
@@ -7133,8 +7133,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 175,
-			"versionNonce": 452233258,
+			"version": 176,
+			"versionNonce": 185274095,
 			"isDeleted": false,
 			"id": "Gr754H69uIICv8IsrEfOI",
 			"fillStyle": "hachure",
@@ -7156,7 +7156,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7185,8 +7185,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 274,
-			"versionNonce": 580314998,
+			"version": 275,
+			"versionNonce": 1243929473,
 			"isDeleted": false,
 			"id": "DbsGhesi",
 			"fillStyle": "hachure",
@@ -7239,7 +7239,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7255,8 +7255,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 208,
-			"versionNonce": 608563946,
+			"version": 209,
+			"versionNonce": 2076793103,
 			"isDeleted": false,
 			"id": "O3xVj27AmZ5VfLm7-ae_A",
 			"fillStyle": "hachure",
@@ -7278,7 +7278,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7307,8 +7307,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 561416374,
+			"version": 266,
+			"versionNonce": 48218977,
 			"isDeleted": false,
 			"id": "fJz55g3f",
 			"fillStyle": "hachure",
@@ -7333,7 +7333,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7349,8 +7349,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 176,
-			"versionNonce": 1033635242,
+			"version": 177,
+			"versionNonce": 1853447983,
 			"isDeleted": false,
 			"id": "wB8RLAkhjYWL38dQaiiQm",
 			"fillStyle": "hachure",
@@ -7372,7 +7372,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7397,8 +7397,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 2119172598,
+			"version": 198,
+			"versionNonce": 1471328065,
 			"isDeleted": false,
 			"id": "5b8UM0w0",
 			"fillStyle": "hachure",
@@ -7423,7 +7423,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7439,8 +7439,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 163,
-			"versionNonce": 1344389226,
+			"version": 164,
+			"versionNonce": 897818959,
 			"isDeleted": false,
 			"id": "9zywD-HRl_M0m1ZwcYD09",
 			"fillStyle": "hachure",
@@ -7462,7 +7462,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7491,8 +7491,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 221,
-			"versionNonce": 203969334,
+			"version": 222,
+			"versionNonce": 251469601,
 			"isDeleted": false,
 			"id": "olA39QVJ",
 			"fillStyle": "hachure",
@@ -7517,7 +7517,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7533,8 +7533,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 178,
-			"versionNonce": 1738679082,
+			"version": 179,
+			"versionNonce": 1111531375,
 			"isDeleted": false,
 			"id": "v41Se1m4z4j5gbpPrRHIC",
 			"fillStyle": "hachure",
@@ -7556,7 +7556,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7585,8 +7585,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 462,
-			"versionNonce": 1969519734,
+			"version": 463,
+			"versionNonce": 1999540993,
 			"isDeleted": false,
 			"id": "SjijngxS",
 			"fillStyle": "hachure",
@@ -7611,7 +7611,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425682,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7627,8 +7627,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 254,
-			"versionNonce": 1585982954,
+			"version": 255,
+			"versionNonce": 1190713743,
 			"isDeleted": false,
 			"id": "KGZWrmTgZYKRcMGBdbeol",
 			"fillStyle": "hachure",
@@ -7650,7 +7650,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7675,8 +7675,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 1338604982,
+			"version": 241,
+			"versionNonce": 1690733281,
 			"isDeleted": false,
 			"id": "oL3EYloL",
 			"fillStyle": "hachure",
@@ -7696,7 +7696,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7712,8 +7712,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 125,
-			"versionNonce": 165601450,
+			"version": 126,
+			"versionNonce": 417648559,
 			"isDeleted": false,
 			"id": "vGs70ACMslgOayfFzvy2_",
 			"fillStyle": "hachure",
@@ -7735,7 +7735,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7760,8 +7760,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 813455094,
+			"version": 166,
+			"versionNonce": 1884587713,
 			"isDeleted": false,
 			"id": "VwHJGih9",
 			"fillStyle": "hachure",
@@ -7781,7 +7781,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7797,8 +7797,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 180,
-			"versionNonce": 1699822442,
+			"version": 181,
+			"versionNonce": 1378681295,
 			"isDeleted": false,
 			"id": "0TBLsKExDv5YdGAaJgSzj",
 			"fillStyle": "hachure",
@@ -7820,7 +7820,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7849,8 +7849,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 157,
-			"versionNonce": 1073874998,
+			"version": 158,
+			"versionNonce": 1954023073,
 			"isDeleted": false,
 			"id": "Wex0Y74e",
 			"fillStyle": "hachure",
@@ -7883,7 +7883,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7899,8 +7899,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 565,
-			"versionNonce": 1059733034,
+			"version": 566,
+			"versionNonce": 870969327,
 			"isDeleted": false,
 			"id": "uT3oJ11h",
 			"fillStyle": "hachure",
@@ -7925,7 +7925,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7941,8 +7941,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 119,
-			"versionNonce": 1312788854,
+			"version": 120,
+			"versionNonce": 1273006721,
 			"isDeleted": false,
 			"id": "ONwMM6_p04jZUMSpXOzjk",
 			"fillStyle": "hachure",
@@ -7964,7 +7964,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7993,8 +7993,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 228,
-			"versionNonce": 1683286250,
+			"version": 229,
+			"versionNonce": 1210325519,
 			"isDeleted": false,
 			"id": "i6QUVRKq9766qdd1OOgQq",
 			"fillStyle": "hachure",
@@ -8016,7 +8016,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8045,8 +8045,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 373,
-			"versionNonce": 1719268022,
+			"version": 374,
+			"versionNonce": 1330483809,
 			"isDeleted": false,
 			"id": "N5wBH4T9",
 			"fillStyle": "hachure",
@@ -8075,7 +8075,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8091,8 +8091,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 135,
-			"versionNonce": 1281113002,
+			"version": 136,
+			"versionNonce": 1137967151,
 			"isDeleted": false,
 			"id": "Dt3J-J8PZ15QF47Cb3zxG",
 			"fillStyle": "hachure",
@@ -8114,7 +8114,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8143,8 +8143,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 156,
-			"versionNonce": 1666591734,
+			"version": 157,
+			"versionNonce": 328113729,
 			"isDeleted": false,
 			"id": "stE9v5ol",
 			"fillStyle": "hachure",
@@ -8169,7 +8169,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8185,8 +8185,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 151,
-			"versionNonce": 1164654186,
+			"version": 152,
+			"versionNonce": 685908559,
 			"isDeleted": false,
 			"id": "OScRzI7UylOIXusno2n_W",
 			"fillStyle": "hachure",
@@ -8208,7 +8208,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8237,8 +8237,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 105,
-			"versionNonce": 47791414,
+			"version": 106,
+			"versionNonce": 1736650273,
 			"isDeleted": false,
 			"id": "I8-qsfVKwZegKo5A1FpvF",
 			"fillStyle": "hachure",
@@ -8260,7 +8260,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8289,8 +8289,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 541907242,
+			"version": 135,
+			"versionNonce": 673644655,
 			"isDeleted": false,
 			"id": "by5Yoa75",
 			"fillStyle": "hachure",
@@ -8315,7 +8315,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8331,8 +8331,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 147,
-			"versionNonce": 2053645942,
+			"version": 148,
+			"versionNonce": 303743489,
 			"isDeleted": false,
 			"id": "Iupv3d1tBD5hVN48TTtbq",
 			"fillStyle": "hachure",
@@ -8354,7 +8354,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8379,8 +8379,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "ellipse",
-			"version": 244,
-			"versionNonce": 1550590954,
+			"version": 245,
+			"versionNonce": 1131092623,
 			"isDeleted": false,
 			"id": "sdyxHFLWMhaBR_YEsH4Ol",
 			"fillStyle": "hachure",
@@ -8427,14 +8427,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 177,
-			"versionNonce": 180873142,
+			"version": 178,
+			"versionNonce": 1347738081,
 			"isDeleted": false,
 			"id": "PLspHAc9",
 			"fillStyle": "hachure",
@@ -8454,7 +8454,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8470,8 +8470,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "diamond",
-			"version": 492,
-			"versionNonce": 1406408362,
+			"version": 493,
+			"versionNonce": 795275439,
 			"isDeleted": false,
 			"id": "dF9BlHBGXdSKNV0dFnwY-",
 			"fillStyle": "hachure",
@@ -8510,14 +8510,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 337477878,
+			"version": 401,
+			"versionNonce": 323024321,
 			"isDeleted": false,
 			"id": "yjxt1wcl",
 			"fillStyle": "hachure",
@@ -8537,7 +8537,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8553,8 +8553,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "rectangle",
-			"version": 295,
-			"versionNonce": 1731178858,
+			"version": 296,
+			"versionNonce": 1975714511,
 			"isDeleted": false,
 			"id": "WL3yk6F7cLujTtN_EZWPd",
 			"fillStyle": "hachure",
@@ -8576,14 +8576,14 @@ Can be seen as goals ^M2wicVdT
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 703459894,
+			"version": 102,
+			"versionNonce": 2113836449,
 			"isDeleted": false,
 			"id": "FIvcVt_1oUwJLT7tIPBbs",
 			"fillStyle": "hachure",
@@ -8603,7 +8603,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8686,8 +8686,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 701101098,
+			"version": 102,
+			"versionNonce": 1461178607,
 			"isDeleted": false,
 			"id": "DZjU-rD7EW5Y7gI-xuIGU",
 			"fillStyle": "hachure",
@@ -8707,7 +8707,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8790,8 +8790,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 656292726,
+			"version": 100,
+			"versionNonce": 599603585,
 			"isDeleted": false,
 			"id": "gDfZLwjjRh_q40PgRSJ4z",
 			"fillStyle": "hachure",
@@ -8811,7 +8811,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8886,8 +8886,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 227401450,
+			"version": 102,
+			"versionNonce": 1827527439,
 			"isDeleted": false,
 			"id": "M8Sll-N1zJTTdXf4QLP3R",
 			"fillStyle": "hachure",
@@ -8907,7 +8907,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8990,8 +8990,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1106468022,
+			"version": 96,
+			"versionNonce": 96231777,
 			"isDeleted": false,
 			"id": "3F9tsd5qXdVeed9yBgmka",
 			"fillStyle": "hachure",
@@ -9011,7 +9011,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9070,8 +9070,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 252080554,
+			"version": 100,
+			"versionNonce": 196976943,
 			"isDeleted": false,
 			"id": "-s9S-zDMR5GbNjM9iWlgG",
 			"fillStyle": "hachure",
@@ -9091,7 +9091,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9166,8 +9166,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 538072566,
+			"version": 102,
+			"versionNonce": 1363905857,
 			"isDeleted": false,
 			"id": "NlS2JbZ_Nb_LheYmAixqk",
 			"fillStyle": "hachure",
@@ -9187,7 +9187,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9270,8 +9270,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1633594474,
+			"version": 99,
+			"versionNonce": 1693426511,
 			"isDeleted": false,
 			"id": "VTAHkpmnaQINnqJNIrzcW",
 			"fillStyle": "hachure",
@@ -9291,7 +9291,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9362,8 +9362,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1786783542,
+			"version": 98,
+			"versionNonce": 1573535009,
 			"isDeleted": false,
 			"id": "xnsaX4g9gH-0LxUi1-trG",
 			"fillStyle": "hachure",
@@ -9383,7 +9383,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9450,8 +9450,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 442601258,
+			"version": 100,
+			"versionNonce": 1759273327,
 			"isDeleted": false,
 			"id": "tN4T0JftezaAPeCPaKjhz",
 			"fillStyle": "hachure",
@@ -9471,7 +9471,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9546,8 +9546,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1637994614,
+			"version": 96,
+			"versionNonce": 1789391105,
 			"isDeleted": false,
 			"id": "VeUYBnmhl-h4KiRkWJdMY",
 			"fillStyle": "hachure",
@@ -9567,7 +9567,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9626,8 +9626,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1585060330,
+			"version": 98,
+			"versionNonce": 1758223247,
 			"isDeleted": false,
 			"id": "0rDEVwbq0oJ-pcgTIeR7S",
 			"fillStyle": "hachure",
@@ -9647,7 +9647,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9714,8 +9714,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 1899778486,
+			"version": 95,
+			"versionNonce": 493103329,
 			"isDeleted": false,
 			"id": "cefx70BP6Mh8TEni2C5Y9",
 			"fillStyle": "hachure",
@@ -9735,7 +9735,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9790,8 +9790,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 213077162,
+			"version": 100,
+			"versionNonce": 2029523375,
 			"isDeleted": false,
 			"id": "QmR6xr9b04u6rxmU6TKsy",
 			"fillStyle": "hachure",
@@ -9811,7 +9811,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484615,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9886,8 +9886,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1148496630,
+			"version": 98,
+			"versionNonce": 1066296513,
 			"isDeleted": false,
 			"id": "cT7HHHnewBoQ6RxKJS-5c",
 			"fillStyle": "hachure",
@@ -9907,7 +9907,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9974,8 +9974,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1790453610,
+			"version": 101,
+			"versionNonce": 310903759,
 			"isDeleted": false,
 			"id": "tUCkxun8S0GB7yuxGCTcM",
 			"fillStyle": "hachure",
@@ -9995,7 +9995,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10074,8 +10074,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1506794550,
+			"version": 97,
+			"versionNonce": 1019618465,
 			"isDeleted": false,
 			"id": "zAdyCPeFCBowvB3P9t7f1",
 			"fillStyle": "hachure",
@@ -10095,7 +10095,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10158,8 +10158,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1356048938,
+			"version": 98,
+			"versionNonce": 1972679151,
 			"isDeleted": false,
 			"id": "h48oRvrkT3MAABWJjG8_3",
 			"fillStyle": "hachure",
@@ -10179,7 +10179,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10246,8 +10246,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 389211510,
+			"version": 101,
+			"versionNonce": 1622861953,
 			"isDeleted": false,
 			"id": "WCrDNvT81sHhHxlGCyJ6x",
 			"fillStyle": "hachure",
@@ -10267,7 +10267,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10346,8 +10346,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1441846506,
+			"version": 98,
+			"versionNonce": 1260821519,
 			"isDeleted": false,
 			"id": "h0ndQEjJ5_VUwKcBLmw5k",
 			"fillStyle": "hachure",
@@ -10367,7 +10367,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10434,8 +10434,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1575143094,
+			"version": 96,
+			"versionNonce": 1428959329,
 			"isDeleted": false,
 			"id": "CTdNtVj7VkahX2BDUyQoW",
 			"fillStyle": "hachure",
@@ -10455,7 +10455,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10514,8 +10514,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 2073733034,
+			"version": 98,
+			"versionNonce": 120996399,
 			"isDeleted": false,
 			"id": "SAqYInxVXc2wZLKBLdr71",
 			"fillStyle": "hachure",
@@ -10535,7 +10535,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10602,8 +10602,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 511999990,
+			"version": 90,
+			"versionNonce": 1609137217,
 			"isDeleted": false,
 			"id": "ntMvtFDZP0MN1G8Ec87jS",
 			"fillStyle": "hachure",
@@ -10623,7 +10623,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10654,8 +10654,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1509696106,
+			"version": 94,
+			"versionNonce": 179053647,
 			"isDeleted": false,
 			"id": "KMtfBnqVPvjzN-wjEeCuc",
 			"fillStyle": "hachure",
@@ -10675,7 +10675,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10726,8 +10726,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1830621494,
+			"version": 101,
+			"versionNonce": 1624394785,
 			"isDeleted": false,
 			"id": "fqTio6aetzLve8li06H9P",
 			"fillStyle": "hachure",
@@ -10747,7 +10747,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10826,8 +10826,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1272988970,
+			"version": 94,
+			"versionNonce": 90227311,
 			"isDeleted": false,
 			"id": "5u05_LV3CTuFY6jz2q4DY",
 			"fillStyle": "hachure",
@@ -10847,7 +10847,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10894,8 +10894,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 353466998,
+			"version": 95,
+			"versionNonce": 265691137,
 			"isDeleted": false,
 			"id": "QQRDmVNgWOgKWtXFpPMcG",
 			"fillStyle": "hachure",
@@ -10915,7 +10915,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10970,8 +10970,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 447877098,
+			"version": 97,
+			"versionNonce": 404528271,
 			"isDeleted": false,
 			"id": "Bg4rtTyKDVupb7a1unEsv",
 			"fillStyle": "hachure",
@@ -10991,7 +10991,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11054,8 +11054,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 757513142,
+			"version": 97,
+			"versionNonce": 2062841825,
 			"isDeleted": false,
 			"id": "o2v3q8NYbQCsStVQtSJg5",
 			"fillStyle": "hachure",
@@ -11075,7 +11075,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11138,8 +11138,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 712802986,
+			"version": 88,
+			"versionNonce": 915944111,
 			"isDeleted": false,
 			"id": "1mtmWfTpNZrJ_SaglmKof",
 			"fillStyle": "hachure",
@@ -11159,7 +11159,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11182,8 +11182,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 729928950,
+			"version": 93,
+			"versionNonce": 1144837057,
 			"isDeleted": false,
 			"id": "iVuhrQ0zarmXW8RTbId2O",
 			"fillStyle": "hachure",
@@ -11203,7 +11203,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11246,8 +11246,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 636132714,
+			"version": 98,
+			"versionNonce": 1232864463,
 			"isDeleted": false,
 			"id": "V9KJ2l8IK-plr4kuv9Khn",
 			"fillStyle": "hachure",
@@ -11267,7 +11267,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11334,8 +11334,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 2041038390,
+			"version": 86,
+			"versionNonce": 533640097,
 			"isDeleted": false,
 			"id": "Mwg5S11fLBa_1HTpbpDOh",
 			"fillStyle": "hachure",
@@ -11355,7 +11355,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11374,8 +11374,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 709320746,
+			"version": 96,
+			"versionNonce": 274764527,
 			"isDeleted": false,
 			"id": "qOXwcMe3mS_doLWxkf5AQ",
 			"fillStyle": "hachure",
@@ -11395,7 +11395,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11454,8 +11454,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 142446454,
+			"version": 94,
+			"versionNonce": 299472769,
 			"isDeleted": false,
 			"id": "L5CDDQ-m7m646uC4g5_zZ",
 			"fillStyle": "hachure",
@@ -11475,7 +11475,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11526,8 +11526,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1937623786,
+			"version": 97,
+			"versionNonce": 1137597711,
 			"isDeleted": false,
 			"id": "_uktH4U-MxGnUZh34viok",
 			"fillStyle": "hachure",
@@ -11547,7 +11547,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11610,8 +11610,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1682452662,
+			"version": 86,
+			"versionNonce": 1822228321,
 			"isDeleted": false,
 			"id": "2qS0ijfl6UazpcezgugwJ",
 			"fillStyle": "hachure",
@@ -11631,7 +11631,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11650,8 +11650,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 140,
-			"versionNonce": 135847338,
+			"version": 141,
+			"versionNonce": 2000544559,
 			"isDeleted": false,
 			"id": "zuJZVXNp",
 			"fillStyle": "hachure",
@@ -11671,7 +11671,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11687,8 +11687,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 113,
-			"versionNonce": 1219275254,
+			"version": 114,
+			"versionNonce": 241724225,
 			"isDeleted": false,
 			"id": "hvyEApSbLyT3CD17TQfEf",
 			"fillStyle": "hachure",
@@ -11710,7 +11710,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11735,8 +11735,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 1698928746,
+			"version": 147,
+			"versionNonce": 991405391,
 			"isDeleted": false,
 			"id": "1Hl9YZ-Npq8bndeaLRyWD",
 			"fillStyle": "hachure",
@@ -11758,7 +11758,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11783,8 +11783,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 135,
-			"versionNonce": 883948342,
+			"version": 136,
+			"versionNonce": 1604016929,
 			"isDeleted": false,
 			"id": "UFg57WUKXY4ZETnMA0754",
 			"fillStyle": "hachure",
@@ -11806,7 +11806,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11831,8 +11831,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 717814570,
+			"version": 120,
+			"versionNonce": 2125734767,
 			"isDeleted": false,
 			"id": "e5nBHTa9",
 			"fillStyle": "hachure",
@@ -11877,7 +11877,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11893,8 +11893,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 142,
-			"versionNonce": 2125931638,
+			"version": 143,
+			"versionNonce": 279269121,
 			"isDeleted": false,
 			"id": "X3UbVHvZS62reWgua2BY3",
 			"fillStyle": "hachure",
@@ -11916,7 +11916,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11945,8 +11945,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 172,
-			"versionNonce": 1192494570,
+			"version": 173,
+			"versionNonce": 844881295,
 			"isDeleted": false,
 			"id": "6SvqlN1eUxLQGaYj18PaY",
 			"fillStyle": "hachure",
@@ -11968,7 +11968,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11997,8 +11997,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1753687478,
+			"version": 171,
+			"versionNonce": 403031777,
 			"isDeleted": false,
 			"id": "6IdvbEMQ",
 			"fillStyle": "hachure",
@@ -12031,7 +12031,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12047,8 +12047,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 590330026,
+			"version": 147,
+			"versionNonce": 692540335,
 			"isDeleted": false,
 			"id": "u91-e-4ITWNh5wNhMHpGy",
 			"fillStyle": "hachure",
@@ -12070,7 +12070,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12099,8 +12099,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 860159734,
+			"version": 146,
+			"versionNonce": 1884046017,
 			"isDeleted": false,
 			"id": "svI86MtDrRnNRSD8bbNzW",
 			"fillStyle": "hachure",
@@ -12122,7 +12122,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12151,8 +12151,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 135,
-			"versionNonce": 1321669482,
+			"version": 136,
+			"versionNonce": 1000277455,
 			"isDeleted": false,
 			"id": "jLHhCqVAf41gSCCBA3tTs",
 			"fillStyle": "hachure",
@@ -12174,7 +12174,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12199,8 +12199,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 863350838,
+			"version": 112,
+			"versionNonce": 370688673,
 			"isDeleted": false,
 			"id": "8WNv9Y5U",
 			"fillStyle": "hachure",
@@ -12220,7 +12220,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12236,8 +12236,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 123,
-			"versionNonce": 586174122,
+			"version": 126,
+			"versionNonce": 679179247,
 			"isDeleted": false,
 			"id": "jPuAHA3dEM9X_zVjPaqaP",
 			"fillStyle": "hachure",
@@ -12259,7 +12259,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698269000201,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12288,8 +12288,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 178,
-			"versionNonce": 1980033386,
+			"version": 181,
+			"versionNonce": 1176061569,
 			"isDeleted": false,
 			"id": "H9Yl9I1Ge_Tfet2CroQvu",
 			"fillStyle": "hachure",
@@ -12311,7 +12311,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698269000201,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12340,8 +12340,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 292,
-			"versionNonce": 473219306,
+			"version": 293,
+			"versionNonce": 937762319,
 			"isDeleted": false,
 			"id": "TUGWJXQKCt6leJIMJ-M64",
 			"fillStyle": "hachure",
@@ -12363,7 +12363,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12388,8 +12388,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 285,
-			"versionNonce": 423111722,
+			"version": 288,
+			"versionNonce": 2064567905,
 			"isDeleted": false,
 			"id": "ryJykP1qFLyfN9sSUBQ8T",
 			"fillStyle": "hachure",
@@ -12411,7 +12411,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698269000201,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12440,8 +12440,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 143315958,
+			"version": 109,
+			"versionNonce": 483689519,
 			"isDeleted": false,
 			"id": "GqrnOXrn",
 			"fillStyle": "hachure",
@@ -12461,7 +12461,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12477,8 +12477,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 273,
-			"versionNonce": 959778410,
+			"version": 274,
+			"versionNonce": 734550593,
 			"isDeleted": false,
 			"id": "d64E4i6feixYwFJLofAP0",
 			"fillStyle": "hachure",
@@ -12500,7 +12500,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12533,8 +12533,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 155,
-			"versionNonce": 1798890806,
+			"version": 156,
+			"versionNonce": 389162575,
 			"isDeleted": false,
 			"id": "RroOfzF8",
 			"fillStyle": "hachure",
@@ -12575,7 +12575,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12591,8 +12591,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 167,
-			"versionNonce": 756789546,
+			"version": 168,
+			"versionNonce": 1227188769,
 			"isDeleted": false,
 			"id": "Jy-OzF0lyCxWahlyjiM_Z",
 			"fillStyle": "hachure",
@@ -12614,7 +12614,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12643,8 +12643,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 256,
-			"versionNonce": 143838838,
+			"version": 257,
+			"versionNonce": 1440121967,
 			"isDeleted": false,
 			"id": "L4sxElnK",
 			"fillStyle": "hachure",
@@ -12669,7 +12669,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12685,8 +12685,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 429915114,
+			"version": 146,
+			"versionNonce": 2081783297,
 			"isDeleted": false,
 			"id": "FzlpsAWQNJDUi425bpvzJ",
 			"fillStyle": "hachure",
@@ -12708,7 +12708,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484616,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12733,8 +12733,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 1297977270,
+			"version": 119,
+			"versionNonce": 411704975,
 			"isDeleted": false,
 			"id": "DqAX6uo4",
 			"fillStyle": "hachure",
@@ -12763,7 +12763,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12779,8 +12779,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 758,
-			"versionNonce": 1825369770,
+			"version": 759,
+			"versionNonce": 597169633,
 			"isDeleted": false,
 			"id": "TAHlVpRbJVUVqrikmor7O",
 			"fillStyle": "hachure",
@@ -12802,7 +12802,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12831,8 +12831,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 582,
-			"versionNonce": 1170090230,
+			"version": 583,
+			"versionNonce": 302347439,
 			"isDeleted": false,
 			"id": "TJYbTIdJ",
 			"fillStyle": "hachure",
@@ -12857,7 +12857,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12873,8 +12873,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 111,
-			"versionNonce": 458066282,
+			"version": 112,
+			"versionNonce": 314356161,
 			"isDeleted": false,
 			"id": "QOWNE5zL9duqlyCee2Y4k",
 			"fillStyle": "hachure",
@@ -12896,7 +12896,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12921,8 +12921,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 234,
-			"versionNonce": 825858614,
+			"version": 235,
+			"versionNonce": 166790863,
 			"isDeleted": false,
 			"id": "csX1QezW",
 			"fillStyle": "hachure",
@@ -12942,7 +12942,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12958,8 +12958,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 431,
-			"versionNonce": 1282198570,
+			"version": 432,
+			"versionNonce": 245551521,
 			"isDeleted": false,
 			"id": "S-zfR_fQG_PfaVI97oEVn",
 			"fillStyle": "hachure",
@@ -12981,7 +12981,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -13010,8 +13010,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 436,
-			"versionNonce": 380953462,
+			"version": 437,
+			"versionNonce": 1055216879,
 			"isDeleted": false,
 			"id": "CO8SDRI6",
 			"fillStyle": "hachure",
@@ -13036,7 +13036,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -13052,8 +13052,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 148,
-			"versionNonce": 102086378,
+			"version": 149,
+			"versionNonce": 209319297,
 			"isDeleted": false,
 			"id": "Ix9NcRa1qvMLYfdHQPKAo",
 			"fillStyle": "hachure",
@@ -13075,7 +13075,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -13104,8 +13104,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 130,
-			"versionNonce": 1484063926,
+			"version": 131,
+			"versionNonce": 141221647,
 			"isDeleted": false,
 			"id": "10PTwfxO",
 			"fillStyle": "hachure",
@@ -13142,7 +13142,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -13158,8 +13158,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 128,
-			"versionNonce": 1490241962,
+			"version": 129,
+			"versionNonce": 797023585,
 			"isDeleted": false,
 			"id": "NwoxX_vQFQX7yQNLBXBc1",
 			"fillStyle": "hachure",
@@ -13181,7 +13181,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -13210,8 +13210,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 1209990646,
+			"version": 272,
+			"versionNonce": 955917615,
 			"isDeleted": false,
 			"id": "knxgBZbJ",
 			"fillStyle": "hachure",
@@ -13236,7 +13236,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -13252,8 +13252,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 152,
-			"versionNonce": 198214762,
+			"version": 153,
+			"versionNonce": 118049089,
 			"isDeleted": false,
 			"id": "8TBQxQRZlNDxeWeTtfzW_",
 			"fillStyle": "hachure",
@@ -13275,7 +13275,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -13300,8 +13300,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 799,
-			"versionNonce": 985124662,
+			"version": 800,
+			"versionNonce": 1073456975,
 			"isDeleted": false,
 			"id": "t3LU9Azr",
 			"fillStyle": "hachure",
@@ -13330,7 +13330,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -13346,8 +13346,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 1222141738,
+			"version": 195,
+			"versionNonce": 208697633,
 			"isDeleted": false,
 			"id": "PdcKCoPoxj98jP4M4_t-N",
 			"fillStyle": "hachure",
@@ -13367,7 +13367,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13854,8 +13854,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 480540790,
+			"version": 192,
+			"versionNonce": 197649775,
 			"isDeleted": false,
 			"id": "m_DCfALrfsJCm9XMcY1T5",
 			"fillStyle": "hachure",
@@ -13875,7 +13875,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14350,8 +14350,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1213592042,
+			"version": 154,
+			"versionNonce": 1629924609,
 			"isDeleted": false,
 			"id": "SqxNpVbT",
 			"fillStyle": "hachure",
@@ -14371,7 +14371,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -14387,8 +14387,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 95025590,
+			"version": 160,
+			"versionNonce": 732389263,
 			"isDeleted": false,
 			"id": "YC6oUHwdPitzJ6rD6Bvjp",
 			"fillStyle": "hachure",
@@ -14408,7 +14408,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14755,8 +14755,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 2102666410,
+			"version": 154,
+			"versionNonce": 1286300897,
 			"isDeleted": false,
 			"id": "a5k5AU8pTVJ0imknttcqD",
 			"fillStyle": "hachure",
@@ -14776,7 +14776,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15099,8 +15099,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 132,
-			"versionNonce": 1290621686,
+			"version": 133,
+			"versionNonce": 835884463,
 			"isDeleted": false,
 			"id": "h3X5cX7v",
 			"fillStyle": "hachure",
@@ -15125,7 +15125,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15141,8 +15141,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 330,
-			"versionNonce": 1098776426,
+			"version": 331,
+			"versionNonce": 2056134849,
 			"isDeleted": false,
 			"id": "cyG2MTSaldL60AS8D2NCE",
 			"fillStyle": "hachure",
@@ -15164,7 +15164,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -15189,8 +15189,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 356,
-			"versionNonce": 485721142,
+			"version": 357,
+			"versionNonce": 1433536463,
 			"isDeleted": false,
 			"id": "JisbgJNo",
 			"fillStyle": "hachure",
@@ -15215,7 +15215,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15231,8 +15231,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 128,
-			"versionNonce": 18776618,
+			"version": 129,
+			"versionNonce": 2020499617,
 			"isDeleted": false,
 			"id": "KV46-7MMi-OVkyxou8tFQ",
 			"fillStyle": "hachure",
@@ -15254,7 +15254,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15283,8 +15283,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 195,
-			"versionNonce": 128028022,
+			"version": 196,
+			"versionNonce": 1419654639,
 			"isDeleted": false,
 			"id": "liBqB5xb",
 			"fillStyle": "hachure",
@@ -15309,7 +15309,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15325,8 +15325,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 377,
-			"versionNonce": 1730194666,
+			"version": 378,
+			"versionNonce": 1945871489,
 			"isDeleted": false,
 			"id": "Z4QWwWvmvojvMw2ah2hyM",
 			"fillStyle": "hachure",
@@ -15348,7 +15348,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15377,8 +15377,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 388,
-			"versionNonce": 440168118,
+			"version": 389,
+			"versionNonce": 375365647,
 			"isDeleted": false,
 			"id": "Zok0v49N",
 			"fillStyle": "hachure",
@@ -15403,7 +15403,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15419,8 +15419,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 121,
-			"versionNonce": 152010666,
+			"version": 122,
+			"versionNonce": 955608161,
 			"isDeleted": false,
 			"id": "PgjcqxfkzuEoWYDPxv5ya",
 			"fillStyle": "hachure",
@@ -15442,7 +15442,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15467,8 +15467,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 449,
-			"versionNonce": 1902716918,
+			"version": 450,
+			"versionNonce": 212780591,
 			"isDeleted": false,
 			"id": "2o85mLEmg694jbPIMpMxh",
 			"fillStyle": "hachure",
@@ -15490,7 +15490,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15519,8 +15519,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 545,
-			"versionNonce": 320207466,
+			"version": 546,
+			"versionNonce": 1865103425,
 			"isDeleted": false,
 			"id": "iyjJeuOq",
 			"fillStyle": "hachure",
@@ -15545,7 +15545,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15561,8 +15561,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 198,
-			"versionNonce": 1294776630,
+			"version": 199,
+			"versionNonce": 1450453071,
 			"isDeleted": false,
 			"id": "KmcdVLizg60bW72y7vjOE",
 			"fillStyle": "hachure",
@@ -15584,7 +15584,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15613,8 +15613,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 152,
-			"versionNonce": 1946098986,
+			"version": 153,
+			"versionNonce": 410814497,
 			"isDeleted": false,
 			"id": "DbRaXyMB",
 			"fillStyle": "hachure",
@@ -15643,7 +15643,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15659,8 +15659,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 91,
-			"versionNonce": 619455094,
+			"version": 92,
+			"versionNonce": 562579055,
 			"isDeleted": false,
 			"id": "epOCSV170jHw4xl61ztgH",
 			"fillStyle": "hachure",
@@ -15682,7 +15682,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15707,8 +15707,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 154527722,
+			"version": 221,
+			"versionNonce": 1322834945,
 			"isDeleted": false,
 			"id": "AYgnmHjQ",
 			"fillStyle": "hachure",
@@ -15733,7 +15733,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15749,8 +15749,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 142,
-			"versionNonce": 996959158,
+			"version": 143,
+			"versionNonce": 1286840463,
 			"isDeleted": false,
 			"id": "3EETzcheAZT9A08VUUrtQ",
 			"fillStyle": "hachure",
@@ -15772,7 +15772,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15797,8 +15797,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 1254447786,
+			"version": 321,
+			"versionNonce": 1111471073,
 			"isDeleted": false,
 			"id": "UNWNpLNU",
 			"fillStyle": "hachure",
@@ -15823,7 +15823,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15839,8 +15839,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 92,
-			"versionNonce": 852655350,
+			"version": 93,
+			"versionNonce": 1236186799,
 			"isDeleted": false,
 			"id": "x1yT3cdvjYcFVFkpkcDAu",
 			"fillStyle": "hachure",
@@ -15862,7 +15862,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15887,8 +15887,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 2002285930,
+			"version": 87,
+			"versionNonce": 1992331201,
 			"isDeleted": false,
 			"id": "pd88HQUG",
 			"fillStyle": "hachure",
@@ -15908,7 +15908,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15924,8 +15924,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 144,
-			"versionNonce": 547581494,
+			"version": 145,
+			"versionNonce": 1059195087,
 			"isDeleted": false,
 			"id": "N7sjyFvW",
 			"fillStyle": "hachure",
@@ -15958,7 +15958,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15974,8 +15974,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 371,
-			"versionNonce": 1077557290,
+			"version": 372,
+			"versionNonce": 1115352993,
 			"isDeleted": false,
 			"id": "JrMSl9Xd6F11ctaTM2E5Z",
 			"fillStyle": "hachure",
@@ -15997,7 +15997,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16026,8 +16026,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 188,
-			"versionNonce": 566507382,
+			"version": 189,
+			"versionNonce": 1789269743,
 			"isDeleted": false,
 			"id": "54LGdKNa",
 			"fillStyle": "hachure",
@@ -16056,7 +16056,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16072,8 +16072,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 378,
-			"versionNonce": 1968546538,
+			"version": 379,
+			"versionNonce": 194925441,
 			"isDeleted": false,
 			"id": "mtcT1E8SK3HXjRbL7QtPE",
 			"fillStyle": "hachure",
@@ -16095,7 +16095,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16124,8 +16124,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1853479094,
+			"version": 183,
+			"versionNonce": 1120100623,
 			"isDeleted": false,
 			"id": "RSjcL0DI",
 			"fillStyle": "hachure",
@@ -16158,7 +16158,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16174,8 +16174,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 469,
-			"versionNonce": 825603498,
+			"version": 470,
+			"versionNonce": 1181367137,
 			"isDeleted": false,
 			"id": "1la0K813dvEc--tinpSsL",
 			"fillStyle": "hachure",
@@ -16197,7 +16197,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16226,8 +16226,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 1852396022,
+			"version": 208,
+			"versionNonce": 1492281135,
 			"isDeleted": false,
 			"id": "ToqYOtDt",
 			"fillStyle": "hachure",
@@ -16260,7 +16260,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16276,8 +16276,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 621,
-			"versionNonce": 84242538,
+			"version": 622,
+			"versionNonce": 858662721,
 			"isDeleted": false,
 			"id": "Zb5IAdsFHW8vP2cnHkBm6",
 			"fillStyle": "hachure",
@@ -16299,7 +16299,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16328,8 +16328,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 232,
-			"versionNonce": 1285006134,
+			"version": 233,
+			"versionNonce": 2073798991,
 			"isDeleted": false,
 			"id": "aoNMUR2y",
 			"fillStyle": "hachure",
@@ -16358,7 +16358,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484617,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16374,8 +16374,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 698,
-			"versionNonce": 613405482,
+			"version": 699,
+			"versionNonce": 1548326689,
 			"isDeleted": false,
 			"id": "GDxugOLJAkRGkYVyaxiAc",
 			"fillStyle": "hachure",
@@ -16397,7 +16397,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16426,8 +16426,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 191482998,
+			"version": 241,
+			"versionNonce": 404203375,
 			"isDeleted": false,
 			"id": "vF7R0HWP",
 			"fillStyle": "hachure",
@@ -16456,7 +16456,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16472,8 +16472,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 218,
-			"versionNonce": 306175466,
+			"version": 219,
+			"versionNonce": 1412172545,
 			"isDeleted": false,
 			"id": "SEFZDdzdfk344w0mrbNm-",
 			"fillStyle": "hachure",
@@ -16495,7 +16495,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16520,8 +16520,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 413453750,
+			"version": 128,
+			"versionNonce": 1554964879,
 			"isDeleted": false,
 			"id": "IQ404MyR",
 			"fillStyle": "hachure",
@@ -16541,7 +16541,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16557,8 +16557,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 392,
-			"versionNonce": 1634576118,
+			"version": 393,
+			"versionNonce": 861209313,
 			"isDeleted": false,
 			"id": "E3pRp0Sr4lH2ysMYyWSH4",
 			"fillStyle": "hachure",
@@ -16580,7 +16580,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16609,8 +16609,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 96,
-			"versionNonce": 2143284778,
+			"version": 97,
+			"versionNonce": 446289839,
 			"isDeleted": false,
 			"id": "D7_LRJJnwe-eEXrcMVG2N",
 			"fillStyle": "hachure",
@@ -16632,7 +16632,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -16653,8 +16653,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 1327292790,
+			"version": 81,
+			"versionNonce": 1448345281,
 			"isDeleted": false,
 			"id": "JW7v6oxU",
 			"fillStyle": "hachure",
@@ -16674,7 +16674,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16690,8 +16690,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 118,
-			"versionNonce": 1723111658,
+			"version": 119,
+			"versionNonce": 1744898511,
 			"isDeleted": false,
 			"id": "wuCgE99FB-97Y8WdNQcvU",
 			"fillStyle": "hachure",
@@ -16713,7 +16713,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16738,8 +16738,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 82,
-			"versionNonce": 2133672630,
+			"version": 83,
+			"versionNonce": 1539866273,
 			"isDeleted": false,
 			"id": "yZHtQZsj",
 			"fillStyle": "hachure",
@@ -16759,7 +16759,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -16775,8 +16775,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 1119801590,
+			"version": 173,
+			"versionNonce": 33355759,
 			"isDeleted": false,
 			"id": "e_vcKg37c5YSWAU9fJBnT",
 			"fillStyle": "hachure",
@@ -16796,7 +16796,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17235,8 +17235,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 1779130730,
+			"version": 191,
+			"versionNonce": 1650590337,
 			"isDeleted": false,
 			"id": "gV0PepbPXVQAKco5HA7JB",
 			"fillStyle": "hachure",
@@ -17256,7 +17256,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17767,8 +17767,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 87,
-			"versionNonce": 400900662,
+			"version": 88,
+			"versionNonce": 1855332879,
 			"isDeleted": false,
 			"id": "5I8f52RG",
 			"fillStyle": "hachure",
@@ -17788,7 +17788,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -17804,8 +17804,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 228,
-			"versionNonce": 900703274,
+			"version": 229,
+			"versionNonce": 115346017,
 			"isDeleted": false,
 			"id": "U3yrnV9Y66X-oRd2GTBru",
 			"fillStyle": "hachure",
@@ -17827,7 +17827,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17856,8 +17856,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 2041285494,
+			"version": 175,
+			"versionNonce": 1589970991,
 			"isDeleted": false,
 			"id": "S7VpDJUQ",
 			"fillStyle": "hachure",
@@ -17882,7 +17882,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -17898,8 +17898,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 85,
-			"versionNonce": 1985391798,
+			"version": 86,
+			"versionNonce": 571610689,
 			"isDeleted": false,
 			"id": "fN3Y9F0Wz04pcykjrYk-w",
 			"fillStyle": "hachure",
@@ -17921,7 +17921,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17946,8 +17946,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 1094721962,
+			"version": 92,
+			"versionNonce": 1349659215,
 			"isDeleted": false,
 			"id": "bbbOGbDA",
 			"fillStyle": "hachure",
@@ -17967,7 +17967,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -17983,8 +17983,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 703,
-			"versionNonce": 14834794,
+			"version": 704,
+			"versionNonce": 1188537889,
 			"isDeleted": false,
 			"id": "_6wySl5MlHC1q8TKTtkKo",
 			"fillStyle": "hachure",
@@ -18006,7 +18006,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18035,8 +18035,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 339,
-			"versionNonce": 978286390,
+			"version": 340,
+			"versionNonce": 1886783599,
 			"isDeleted": false,
 			"id": "lYCNgEgR",
 			"fillStyle": "hachure",
@@ -18061,7 +18061,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18077,8 +18077,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 444,
-			"versionNonce": 1844395818,
+			"version": 445,
+			"versionNonce": 2112001,
 			"isDeleted": false,
 			"id": "BxS-Rcw3nG5kumgaZyILS",
 			"fillStyle": "hachure",
@@ -18100,7 +18100,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18129,8 +18129,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 187,
-			"versionNonce": 453451894,
+			"version": 188,
+			"versionNonce": 1016668815,
 			"isDeleted": false,
 			"id": "SubPx4YP",
 			"fillStyle": "hachure",
@@ -18155,7 +18155,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18171,8 +18171,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 407,
-			"versionNonce": 1423034858,
+			"version": 408,
+			"versionNonce": 1324044769,
 			"isDeleted": false,
 			"id": "ATe3hO34knuDPSOkrWoMN",
 			"fillStyle": "hachure",
@@ -18194,7 +18194,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18223,8 +18223,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 157,
-			"versionNonce": 1903665590,
+			"version": 158,
+			"versionNonce": 1704196271,
 			"isDeleted": false,
 			"id": "cUPdxKVy",
 			"fillStyle": "hachure",
@@ -18249,7 +18249,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18265,8 +18265,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 218,
-			"versionNonce": 1016396970,
+			"version": 219,
+			"versionNonce": 1749577153,
 			"isDeleted": false,
 			"id": "5Y0QQjCj3DYAa6wF6DKnf",
 			"fillStyle": "hachure",
@@ -18288,7 +18288,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18317,8 +18317,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 133,
-			"versionNonce": 1086716662,
+			"version": 134,
+			"versionNonce": 1896811215,
 			"isDeleted": false,
 			"id": "ZvrZ0rMD",
 			"fillStyle": "hachure",
@@ -18355,7 +18355,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18371,8 +18371,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 132,
-			"versionNonce": 316921706,
+			"version": 133,
+			"versionNonce": 861343137,
 			"isDeleted": false,
 			"id": "7JC9w323KzAxRXSDD_fx1",
 			"fillStyle": "hachure",
@@ -18394,7 +18394,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18419,8 +18419,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 1601645622,
+			"version": 100,
+			"versionNonce": 463657199,
 			"isDeleted": false,
 			"id": "uZ7sR4Ok",
 			"fillStyle": "hachure",
@@ -18445,7 +18445,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18461,8 +18461,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 156,
-			"versionNonce": 1477007914,
+			"version": 157,
+			"versionNonce": 122073473,
 			"isDeleted": false,
 			"id": "lPZEg9PfHEM7bjLGpMTrJ",
 			"fillStyle": "hachure",
@@ -18484,7 +18484,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18513,8 +18513,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 121,
-			"versionNonce": 191903094,
+			"version": 122,
+			"versionNonce": 2060968719,
 			"isDeleted": false,
 			"id": "2DfxJJUD",
 			"fillStyle": "hachure",
@@ -18543,7 +18543,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484618,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18559,8 +18559,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 152,
-			"versionNonce": 2113279670,
+			"version": 153,
+			"versionNonce": 693557601,
 			"isDeleted": false,
 			"id": "cnTIQsvDEWnWqnX0ueQAZ",
 			"fillStyle": "hachure",
@@ -18582,7 +18582,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18611,8 +18611,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 203,
-			"versionNonce": 354703274,
+			"version": 204,
+			"versionNonce": 1596369199,
 			"isDeleted": false,
 			"id": "PY4D3Vsa",
 			"fillStyle": "hachure",
@@ -18637,7 +18637,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18653,8 +18653,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 143,
-			"versionNonce": 1993331306,
+			"version": 144,
+			"versionNonce": 181863745,
 			"isDeleted": false,
 			"id": "Ljc7gXxljvsQNiQbaNE1b",
 			"fillStyle": "hachure",
@@ -18676,7 +18676,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18705,8 +18705,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 2090623286,
+			"version": 116,
+			"versionNonce": 1979165519,
 			"isDeleted": false,
 			"id": "Xa0byVVm",
 			"fillStyle": "hachure",
@@ -18735,7 +18735,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18751,8 +18751,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 181,
-			"versionNonce": 1925051690,
+			"version": 182,
+			"versionNonce": 1193719073,
 			"isDeleted": false,
 			"id": "uw7gpOmvG4JMiWwIuMfte",
 			"fillStyle": "hachure",
@@ -18774,7 +18774,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18803,8 +18803,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 405195382,
+			"version": 166,
+			"versionNonce": 732129647,
 			"isDeleted": false,
 			"id": "8nQwVFYE",
 			"fillStyle": "hachure",
@@ -18829,7 +18829,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18845,8 +18845,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 108,
-			"versionNonce": 2052702186,
+			"version": 109,
+			"versionNonce": 1639278849,
 			"isDeleted": false,
 			"id": "tS3osWUgd1cDqUUYbmpDA",
 			"fillStyle": "hachure",
@@ -18868,7 +18868,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18897,8 +18897,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 142,
-			"versionNonce": 1091701686,
+			"version": 143,
+			"versionNonce": 1299342223,
 			"isDeleted": false,
 			"id": "SejQZNKV",
 			"fillStyle": "hachure",
@@ -18927,7 +18927,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -18943,8 +18943,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 114,
-			"versionNonce": 430846634,
+			"version": 115,
+			"versionNonce": 1141022945,
 			"isDeleted": false,
 			"id": "EU6iiguiL9VlMm9kKiyOM",
 			"fillStyle": "hachure",
@@ -18966,7 +18966,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18995,8 +18995,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 1166222582,
+			"version": 119,
+			"versionNonce": 1805457839,
 			"isDeleted": false,
 			"id": "CzBsc6YP",
 			"fillStyle": "hachure",
@@ -19021,7 +19021,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19037,8 +19037,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 147,
-			"versionNonce": 593907050,
+			"version": 148,
+			"versionNonce": 2073943233,
 			"isDeleted": false,
 			"id": "Dg8MVbGSDr8xm8zkXd205",
 			"fillStyle": "hachure",
@@ -19060,7 +19060,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19089,8 +19089,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 1727993398,
+			"version": 167,
+			"versionNonce": 2068581327,
 			"isDeleted": false,
 			"id": "dKChCPSa",
 			"fillStyle": "hachure",
@@ -19115,7 +19115,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19131,8 +19131,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 138,
-			"versionNonce": 1074495670,
+			"version": 139,
+			"versionNonce": 942054561,
 			"isDeleted": false,
 			"id": "pTgB-6YcgZgL8ThrFKpLO",
 			"fillStyle": "hachure",
@@ -19154,7 +19154,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -19175,8 +19175,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 90,
-			"versionNonce": 955420074,
+			"version": 91,
+			"versionNonce": 949467631,
 			"isDeleted": false,
 			"id": "vWIx91ai",
 			"fillStyle": "hachure",
@@ -19196,7 +19196,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19212,8 +19212,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 114,
-			"versionNonce": 1425451818,
+			"version": 115,
+			"versionNonce": 156000385,
 			"isDeleted": false,
 			"id": "pbIhjsekB5P3UMaqgLWkX",
 			"fillStyle": "hachure",
@@ -19235,7 +19235,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19264,8 +19264,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 189,
-			"versionNonce": 461141110,
+			"version": 190,
+			"versionNonce": 1216914447,
 			"isDeleted": false,
 			"id": "rLjATHDI",
 			"fillStyle": "hachure",
@@ -19290,7 +19290,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19306,8 +19306,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 74,
-			"versionNonce": 1074509290,
+			"version": 75,
+			"versionNonce": 1557047393,
 			"isDeleted": false,
 			"id": "KcMcjJQ9ZlBmFICOqeJ0D",
 			"fillStyle": "hachure",
@@ -19329,7 +19329,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -19350,8 +19350,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 1612871094,
+			"version": 108,
+			"versionNonce": 454511151,
 			"isDeleted": false,
 			"id": "RSxHUfnJ",
 			"fillStyle": "hachure",
@@ -19371,7 +19371,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19387,8 +19387,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 107,
-			"versionNonce": 1368572778,
+			"version": 108,
+			"versionNonce": 1014821953,
 			"isDeleted": false,
 			"id": "Rtr4G2jeV7kHATBwi1De7",
 			"fillStyle": "hachure",
@@ -19410,7 +19410,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19439,8 +19439,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1484587062,
+			"version": 183,
+			"versionNonce": 220998735,
 			"isDeleted": false,
 			"id": "ZA7UIr6i",
 			"fillStyle": "hachure",
@@ -19465,7 +19465,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19481,8 +19481,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 1158947830,
+			"version": 156,
+			"versionNonce": 1278657569,
 			"isDeleted": false,
 			"id": "DN-oI8YB22fRp3c-LIxb4",
 			"fillStyle": "hachure",
@@ -19504,7 +19504,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -19529,8 +19529,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 96,
-			"versionNonce": 1621671530,
+			"version": 97,
+			"versionNonce": 1251986031,
 			"isDeleted": false,
 			"id": "z8P6fGNz",
 			"fillStyle": "hachure",
@@ -19555,7 +19555,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19571,8 +19571,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 171,
-			"versionNonce": 252190326,
+			"version": 172,
+			"versionNonce": 132880385,
 			"isDeleted": false,
 			"id": "NiBaSnQqtfenIyz4l_Tbw",
 			"fillStyle": "hachure",
@@ -19594,7 +19594,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19623,8 +19623,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 1541909482,
+			"version": 221,
+			"versionNonce": 1882891407,
 			"isDeleted": false,
 			"id": "rpelpBbp",
 			"fillStyle": "hachure",
@@ -19649,7 +19649,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19665,8 +19665,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 91,
-			"versionNonce": 1788780202,
+			"version": 92,
+			"versionNonce": 1100672993,
 			"isDeleted": false,
 			"id": "fEs1g9TIxQRweGiZj5bv_",
 			"fillStyle": "hachure",
@@ -19688,7 +19688,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484619,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19717,8 +19717,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 186611958,
+			"version": 128,
+			"versionNonce": 1840593583,
 			"isDeleted": false,
 			"id": "eVZaLCCb",
 			"fillStyle": "hachure",
@@ -19743,7 +19743,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19759,8 +19759,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 94,
-			"versionNonce": 1399404906,
+			"version": 95,
+			"versionNonce": 1599359937,
 			"isDeleted": false,
 			"id": "WVv8a67-R7LiUQziz_45c",
 			"fillStyle": "hachure",
@@ -19782,7 +19782,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19811,8 +19811,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1576069686,
+			"version": 154,
+			"versionNonce": 666373327,
 			"isDeleted": false,
 			"id": "wEskMv4X",
 			"fillStyle": "hachure",
@@ -19837,7 +19837,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19853,8 +19853,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 1342321526,
+			"version": 85,
+			"versionNonce": 1496787873,
 			"isDeleted": false,
 			"id": "Iasoz6lH",
 			"fillStyle": "hachure",
@@ -19874,7 +19874,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19890,8 +19890,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "ellipse",
-			"version": 253,
-			"versionNonce": 462967990,
+			"version": 254,
+			"versionNonce": 1507564271,
 			"isDeleted": false,
 			"id": "fuXQQgkpIRX5X6CwDjbko",
 			"fillStyle": "hachure",
@@ -19922,14 +19922,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 204,
-			"versionNonce": 1213004202,
+			"version": 205,
+			"versionNonce": 2004029313,
 			"isDeleted": false,
 			"id": "XZCghgsL",
 			"fillStyle": "hachure",
@@ -19949,7 +19949,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -19965,8 +19965,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 61,
-			"versionNonce": 1784172022,
+			"version": 62,
+			"versionNonce": 950560015,
 			"isDeleted": false,
 			"id": "VU1XJg8tDypXvI6ojVTC1",
 			"fillStyle": "hachure",
@@ -19988,7 +19988,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -20009,8 +20009,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 1766268726,
+			"version": 112,
+			"versionNonce": 1346860897,
 			"isDeleted": false,
 			"id": "ej4HXQr8",
 			"fillStyle": "hachure",
@@ -20035,7 +20035,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20051,8 +20051,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 82,
-			"versionNonce": 1556727926,
+			"version": 83,
+			"versionNonce": 1402399535,
 			"isDeleted": false,
 			"id": "RUimih1S",
 			"fillStyle": "hachure",
@@ -20072,7 +20072,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20088,8 +20088,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 233,
-			"versionNonce": 65905130,
+			"version": 234,
+			"versionNonce": 100918081,
 			"isDeleted": false,
 			"id": "koTCW7kd",
 			"fillStyle": "hachure",
@@ -20114,7 +20114,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20130,8 +20130,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 720,
-			"versionNonce": 883247542,
+			"version": 721,
+			"versionNonce": 923774287,
 			"isDeleted": false,
 			"id": "Lhgrd3a1lW-iBxlUzHnBW",
 			"fillStyle": "hachure",
@@ -20153,7 +20153,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20182,8 +20182,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 1249236138,
+			"version": 166,
+			"versionNonce": 1158140705,
 			"isDeleted": false,
 			"id": "qj4twaqK",
 			"fillStyle": "hachure",
@@ -20208,7 +20208,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20224,8 +20224,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 705963370,
+			"version": 161,
+			"versionNonce": 1315646319,
 			"isDeleted": false,
 			"id": "zBCl58km",
 			"fillStyle": "hachure",
@@ -20258,7 +20258,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20274,8 +20274,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 433,
-			"versionNonce": 1287306806,
+			"version": 434,
+			"versionNonce": 29542145,
 			"isDeleted": false,
 			"id": "R1Q57GS4hoGkEVvXFaBg5",
 			"fillStyle": "hachure",
@@ -20297,7 +20297,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20326,8 +20326,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 2147477546,
+			"version": 200,
+			"versionNonce": 99739023,
 			"isDeleted": false,
 			"id": "7vC3lU0F",
 			"fillStyle": "hachure",
@@ -20364,7 +20364,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20380,8 +20380,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 855,
-			"versionNonce": 1852934006,
+			"version": 856,
+			"versionNonce": 1991524065,
 			"isDeleted": false,
 			"id": "d7nZR-A_3vmzXTlZUbY3i",
 			"fillStyle": "hachure",
@@ -20403,7 +20403,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20432,8 +20432,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 346,
-			"versionNonce": 1492986038,
+			"version": 347,
+			"versionNonce": 752638895,
 			"isDeleted": false,
 			"id": "w6J02WK6",
 			"fillStyle": "hachure",
@@ -20470,7 +20470,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20486,8 +20486,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1174,
-			"versionNonce": 525297066,
+			"version": 1175,
+			"versionNonce": 1651227329,
 			"isDeleted": false,
 			"id": "8NZbrkLPxlFeBMHYVUOAk",
 			"fillStyle": "hachure",
@@ -20509,7 +20509,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20538,8 +20538,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 378,
-			"versionNonce": 1275240950,
+			"version": 379,
+			"versionNonce": 391318991,
 			"isDeleted": false,
 			"id": "7FeVfpMB",
 			"fillStyle": "hachure",
@@ -20564,7 +20564,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20580,8 +20580,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1334,
-			"versionNonce": 1684611178,
+			"version": 1335,
+			"versionNonce": 92846753,
 			"isDeleted": false,
 			"id": "8amtPWF7SLw6cUs6qb4ap",
 			"fillStyle": "hachure",
@@ -20603,7 +20603,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20632,8 +20632,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 486,
-			"versionNonce": 1250358070,
+			"version": 487,
+			"versionNonce": 7240687,
 			"isDeleted": false,
 			"id": "noRuzY1c",
 			"fillStyle": "hachure",
@@ -20658,7 +20658,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484620,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20674,8 +20674,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1400,
-			"versionNonce": 1006469930,
+			"version": 1401,
+			"versionNonce": 1622851201,
 			"isDeleted": false,
 			"id": "WlLFDhNojPMnXY2FcwI8R",
 			"fillStyle": "hachure",
@@ -20697,7 +20697,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20726,8 +20726,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 480,
-			"versionNonce": 787422326,
+			"version": 481,
+			"versionNonce": 741811727,
 			"isDeleted": false,
 			"id": "LIJkblbh",
 			"fillStyle": "hachure",
@@ -20752,7 +20752,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20768,8 +20768,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 867,
-			"versionNonce": 1350012394,
+			"version": 868,
+			"versionNonce": 851527265,
 			"isDeleted": false,
 			"id": "hzO-hOq_OLChwasQiWW0s",
 			"fillStyle": "hachure",
@@ -20791,7 +20791,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20820,8 +20820,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 332,
-			"versionNonce": 1189232810,
+			"version": 333,
+			"versionNonce": 1235586095,
 			"isDeleted": false,
 			"id": "PxfupPwB",
 			"fillStyle": "hachure",
@@ -20854,7 +20854,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20870,8 +20870,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1277,
-			"versionNonce": 1071576822,
+			"version": 1278,
+			"versionNonce": 913035841,
 			"isDeleted": false,
 			"id": "HXS5JfQFZ3VpUIlx2cLYC",
 			"fillStyle": "hachure",
@@ -20893,7 +20893,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20922,8 +20922,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 455,
-			"versionNonce": 1793629034,
+			"version": 456,
+			"versionNonce": 346173007,
 			"isDeleted": false,
 			"id": "AbKRO3Vn",
 			"fillStyle": "hachure",
@@ -20948,7 +20948,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20964,8 +20964,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 1164,
-			"versionNonce": 168863798,
+			"version": 1165,
+			"versionNonce": 546955809,
 			"isDeleted": false,
 			"id": "_YNqObWQLGk_dy7D8Togd",
 			"fillStyle": "hachure",
@@ -20987,7 +20987,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21016,8 +21016,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 386,
-			"versionNonce": 1523949098,
+			"version": 387,
+			"versionNonce": 939887727,
 			"isDeleted": false,
 			"id": "EBeoMOaN",
 			"fillStyle": "hachure",
@@ -21042,7 +21042,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21058,8 +21058,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 588,
-			"versionNonce": 865356010,
+			"version": 589,
+			"versionNonce": 1580922369,
 			"isDeleted": false,
 			"id": "jqkMz4AgDAf1yqfsHD99a",
 			"fillStyle": "hachure",
@@ -21081,7 +21081,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21110,8 +21110,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 281,
-			"versionNonce": 895521462,
+			"version": 282,
+			"versionNonce": 1872242319,
 			"isDeleted": false,
 			"id": "3OjIkEVU",
 			"fillStyle": "hachure",
@@ -21144,7 +21144,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21160,8 +21160,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 614,
-			"versionNonce": 1550371830,
+			"version": 615,
+			"versionNonce": 307138017,
 			"isDeleted": false,
 			"id": "GuS5LJHay58D0RQgYf-1h",
 			"fillStyle": "hachure",
@@ -21183,7 +21183,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21212,8 +21212,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 223,
-			"versionNonce": 340956778,
+			"version": 224,
+			"versionNonce": 1779596463,
 			"isDeleted": false,
 			"id": "qJQol5fC",
 			"fillStyle": "hachure",
@@ -21238,7 +21238,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21254,8 +21254,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 607,
-			"versionNonce": 9952566,
+			"version": 608,
+			"versionNonce": 1407461825,
 			"isDeleted": false,
 			"id": "fCAHMQgjDcusfDU-bFQrb",
 			"fillStyle": "hachure",
@@ -21277,7 +21277,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21306,8 +21306,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 1531459882,
+			"version": 229,
+			"versionNonce": 1797066447,
 			"isDeleted": false,
 			"id": "xHrAXJ9c",
 			"fillStyle": "hachure",
@@ -21332,7 +21332,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21348,8 +21348,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 508,
-			"versionNonce": 1627096042,
+			"version": 509,
+			"versionNonce": 739985825,
 			"isDeleted": false,
 			"id": "-NIWs7n_4JbskeL86MAs1",
 			"fillStyle": "hachure",
@@ -21371,7 +21371,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21400,8 +21400,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 1333229226,
+			"version": 197,
+			"versionNonce": 760241391,
 			"isDeleted": false,
 			"id": "U24iz7Z2",
 			"fillStyle": "hachure",
@@ -21434,7 +21434,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21450,8 +21450,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 364,
-			"versionNonce": 518004982,
+			"version": 365,
+			"versionNonce": 1411607937,
 			"isDeleted": false,
 			"id": "dUXnm0SyOoQGT_6yelm1m",
 			"fillStyle": "hachure",
@@ -21473,7 +21473,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425686,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21502,8 +21502,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 241,
-			"versionNonce": 56398390,
+			"version": 242,
+			"versionNonce": 70575887,
 			"isDeleted": false,
 			"id": "EG9bqgAq",
 			"fillStyle": "hachure",
@@ -21532,7 +21532,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21548,8 +21548,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 682,
-			"versionNonce": 1544901674,
+			"version": 683,
+			"versionNonce": 859575649,
 			"isDeleted": false,
 			"id": "WksDxFoP-UPqYr994UEwv",
 			"fillStyle": "hachure",
@@ -21571,7 +21571,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21600,8 +21600,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 274,
-			"versionNonce": 431545206,
+			"version": 275,
+			"versionNonce": 1044589871,
 			"isDeleted": false,
 			"id": "HhvScyLY",
 			"fillStyle": "hachure",
@@ -21626,7 +21626,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21642,8 +21642,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 538,
-			"versionNonce": 527253226,
+			"version": 539,
+			"versionNonce": 481608001,
 			"isDeleted": false,
 			"id": "MzzjdANFvyWXYtdARDAWB",
 			"fillStyle": "hachure",
@@ -21665,7 +21665,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21694,8 +21694,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 229,
-			"versionNonce": 1211759798,
+			"version": 230,
+			"versionNonce": 1189326671,
 			"isDeleted": false,
 			"id": "u9jjopnJ",
 			"fillStyle": "hachure",
@@ -21724,7 +21724,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21740,8 +21740,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 561,
-			"versionNonce": 1845088682,
+			"version": 562,
+			"versionNonce": 1307373857,
 			"isDeleted": false,
 			"id": "nsey4yK1230Q4ib0QeRhv",
 			"fillStyle": "hachure",
@@ -21763,7 +21763,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21792,8 +21792,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 1686435318,
+			"version": 231,
+			"versionNonce": 141487471,
 			"isDeleted": false,
 			"id": "IlCPrcKQ",
 			"fillStyle": "hachure",
@@ -21818,7 +21818,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21834,8 +21834,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 632,
-			"versionNonce": 1256590442,
+			"version": 633,
+			"versionNonce": 743712001,
 			"isDeleted": false,
 			"id": "uSIfykQTk4OeW7MtD--MB",
 			"fillStyle": "hachure",
@@ -21857,7 +21857,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21886,8 +21886,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 254,
-			"versionNonce": 1201588022,
+			"version": 255,
+			"versionNonce": 237856655,
 			"isDeleted": false,
 			"id": "raiNd6v5",
 			"fillStyle": "hachure",
@@ -21916,7 +21916,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21932,8 +21932,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 490,
-			"versionNonce": 469561130,
+			"version": 491,
+			"versionNonce": 1131011297,
 			"isDeleted": false,
 			"id": "mesKr-ClTkERPwsAhk4sm",
 			"fillStyle": "hachure",
@@ -21955,7 +21955,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21984,8 +21984,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 1642885238,
+			"version": 174,
+			"versionNonce": 1717018031,
 			"isDeleted": false,
 			"id": "AHZhAY1F",
 			"fillStyle": "hachure",
@@ -22018,7 +22018,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22034,8 +22034,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 412,
-			"versionNonce": 1437170154,
+			"version": 413,
+			"versionNonce": 45979841,
 			"isDeleted": false,
 			"id": "AIi7MOHTxwQ8PPi0xXSrY",
 			"fillStyle": "hachure",
@@ -22057,7 +22057,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22086,8 +22086,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1328738742,
+			"version": 183,
+			"versionNonce": 1142296527,
 			"isDeleted": false,
 			"id": "T8iRPOVi",
 			"fillStyle": "hachure",
@@ -22112,7 +22112,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22128,8 +22128,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 447,
-			"versionNonce": 653700266,
+			"version": 448,
+			"versionNonce": 1005508769,
 			"isDeleted": false,
 			"id": "MgzIEgkMuKL7VTVwtxAcj",
 			"fillStyle": "hachure",
@@ -22151,7 +22151,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22180,8 +22180,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 189,
-			"versionNonce": 1788300022,
+			"version": 190,
+			"versionNonce": 1635859951,
 			"isDeleted": false,
 			"id": "nKmioQYZ",
 			"fillStyle": "hachure",
@@ -22206,7 +22206,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22222,8 +22222,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 67,
-			"versionNonce": 630163306,
+			"version": 68,
+			"versionNonce": 1621957761,
 			"isDeleted": false,
 			"id": "BPL0zFKnAuAQHq1R5QSJE",
 			"fillStyle": "hachure",
@@ -22245,7 +22245,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22270,8 +22270,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 1654553654,
+			"version": 108,
+			"versionNonce": 564242447,
 			"isDeleted": false,
 			"id": "BMUul4g1",
 			"fillStyle": "hachure",
@@ -22296,7 +22296,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22312,8 +22312,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 132,
-			"versionNonce": 2042563114,
+			"version": 133,
+			"versionNonce": 12051553,
 			"isDeleted": false,
 			"id": "oiAqrHId1MZnSSqX7nlj_",
 			"fillStyle": "hachure",
@@ -22335,7 +22335,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22364,8 +22364,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 998860470,
+			"version": 102,
+			"versionNonce": 1919929903,
 			"isDeleted": false,
 			"id": "hLbjOK8k",
 			"fillStyle": "hachure",
@@ -22390,7 +22390,7 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484621,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22406,8 +22406,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "ellipse",
-			"version": 273,
-			"versionNonce": 1234940214,
+			"version": 274,
+			"versionNonce": 132034625,
 			"isDeleted": false,
 			"id": "owDOpcg4uSXHzI8WB2ILh",
 			"fillStyle": "hachure",
@@ -22438,14 +22438,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 46,
-			"versionNonce": 1947968810,
+			"version": 47,
+			"versionNonce": 1859399759,
 			"isDeleted": false,
 			"id": "SpYnESsyXP7LOOF6v5q10",
 			"fillStyle": "hachure",
@@ -22467,7 +22467,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22492,8 +22492,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 64,
-			"versionNonce": 683416182,
+			"version": 65,
+			"versionNonce": 1006698529,
 			"isDeleted": false,
 			"id": "e8lVMtrr",
 			"fillStyle": "hachure",
@@ -22513,7 +22513,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22529,8 +22529,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "ellipse",
-			"version": 143,
-			"versionNonce": 847076278,
+			"version": 144,
+			"versionNonce": 1084706415,
 			"isDeleted": false,
 			"id": "2b-JrytqUOoGE2xXFyD0-",
 			"fillStyle": "hachure",
@@ -22561,14 +22561,14 @@ Can be seen as goals ^M2wicVdT
 					"type": "arrow"
 				}
 			],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 98,
-			"versionNonce": 218395894,
+			"version": 99,
+			"versionNonce": 2064536577,
 			"isDeleted": false,
 			"id": "9e4_bT0IL-IaXioK-cCDo",
 			"fillStyle": "hachure",
@@ -22590,7 +22590,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22615,8 +22615,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 62,
-			"versionNonce": 190971242,
+			"version": 63,
+			"versionNonce": 1118939279,
 			"isDeleted": false,
 			"id": "J4diZr1u",
 			"fillStyle": "hachure",
@@ -22636,7 +22636,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22652,8 +22652,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 46,
-			"versionNonce": 701677610,
+			"version": 47,
+			"versionNonce": 956705761,
 			"isDeleted": false,
 			"id": "memycnuZaUfxn0fg1Cme6",
 			"fillStyle": "hachure",
@@ -22675,7 +22675,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22700,8 +22700,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 567816054,
+			"version": 49,
+			"versionNonce": 1655422639,
 			"isDeleted": false,
 			"id": "LwKPmE5s",
 			"fillStyle": "hachure",
@@ -22721,7 +22721,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22737,8 +22737,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "arrow",
-			"version": 68,
-			"versionNonce": 714943210,
+			"version": 69,
+			"versionNonce": 1039665089,
 			"isDeleted": false,
 			"id": "gFjZGLcgaGxX3q8zPQ7um",
 			"fillStyle": "hachure",
@@ -22760,7 +22760,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22785,8 +22785,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "text",
-			"version": 104,
-			"versionNonce": 961466550,
+			"version": 105,
+			"versionNonce": 1128141007,
 			"isDeleted": false,
 			"id": "M2wicVdT",
 			"fillStyle": "hachure",
@@ -22806,7 +22806,7 @@ Can be seen as goals ^M2wicVdT
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22822,8 +22822,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "rectangle",
-			"version": 94,
-			"versionNonce": 28891510,
+			"version": 95,
+			"versionNonce": 604202913,
 			"isDeleted": false,
 			"id": "pcjqLVkkDHRbiZ1vayFER",
 			"fillStyle": "hachure",
@@ -22845,14 +22845,14 @@ Can be seen as goals ^M2wicVdT
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 94,
-			"versionNonce": 1864201206,
+			"version": 95,
+			"versionNonce": 503389935,
 			"isDeleted": false,
 			"id": "erj1ghCSmEguaDkZwlSSM",
 			"fillStyle": "hachure",
@@ -22874,7 +22874,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22895,8 +22895,8 @@ Can be seen as goals ^M2wicVdT
 		},
 		{
 			"type": "line",
-			"version": 98,
-			"versionNonce": 849112682,
+			"version": 99,
+			"versionNonce": 358075265,
 			"isDeleted": false,
 			"id": "Zu7rfZ2TtPWVHnopozupf",
 			"fillStyle": "hachure",
@@ -22918,7 +22918,7 @@ Can be seen as goals ^M2wicVdT
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698264484622,
+			"updated": 1698652425687,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22953,10 +22953,10 @@ Can be seen as goals ^M2wicVdT
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 9330.57999455624,
-		"scrollY": 1704.4158989208927,
+		"scrollX": 5287.357772334018,
+		"scrollY": 7043.655978285973,
 		"zoom": {
-			"value": 0.25
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
