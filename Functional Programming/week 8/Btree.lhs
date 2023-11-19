@@ -10,41 +10,27 @@
 > tips (Tip x) = [x]
 > tips (Bin as bs) = tips as ++ tips bs
 
-To prove: map f (tips t) = tips (mapBtree f t) for all f,t
-map f (tips t) = tips (mapBtree f t) 
+To prove:   map f (tips t) = tips (mapBtree f t), for all f,t
 
-base case: if t = Tip a
+Base case:  t is an arbitrary tip (Tip a)
+            So it needs to be proven that: map f (tips (Tip a)) = tips (mapBtree f (Tip a)), for all f
 
-    map f ([a]) = tips (Tip f a) (Induction hypothesis)
-    map f ([a]) = tips (Tip b)
-    map f ([a]) = [b]
-        [f . a] = [b]
-            [b] = [b]
+        map f (tips (Tip a)) =
+        map f [a] =
+        [f a] =
+        tips (Tip (f a)) =
+        tips (mapBtree f (Tip a))
 
+k case:     t is an arbitrary bin (Bin (Btree a) (Btree a))
+            In the rest of the proof (Bin (Btree a) (Btree a)) will be denoted as BBB, this will save a lot of room
+            This would make our induction hypotheses (IH): map f (tips BBB) = tips (mapBtree f BBB), for all f
 
-induction step: if t = Bin t1 t2
+k+1 case:   t is an arbitrary bin made out of arbitrary bins (Bin BBB BBB)
+            So it needs to be proven that: map f (tips (Bin BBB BBB)) = tips (mapBtree f (Bin BBB BBB))
 
-                    map f (tips (Bin t1 t2)) = tips (Bin (mapBtree f t1) (mapBtree f t2)) 
-                  map f (tips t1 ++ tips t2) = tips (Bin (mapBtree f t1) (mapBtree f t2)) 
-          map f (tips t1) ++ map f (tips t2) = tips (Bin (mapBtree f t1) (mapBtree f t2))
-tips (mapBtree f t1) ++ tips (mapBtree f t2) = tips (Bin (mapBtree f t1) (mapBtree f t2))
-  tips (Bin (mapBtree f t1) (mapBtree f t2)) = tips (Bin (mapBtree f t1) (mapBtree f t2))
-  
-with induction hypothesis and k and k + 1
-
-To prove: map f (tips t) = tips (mapBtree f t) for all f,t
-
-base case: if t = Tip a
-
-    map f ([a]) = tips (Tip f a) (Induction hypothesis)
-    map f ([a]) = tips (Tip b)
-    map f ([a]) = [b]
-        [f . a] = [b]
-            [b] = [b]
-
-map f (tips (Bin t1 t2)) = tips (Bin (mapBtree f t1) (mapBtree f t2)) //k -> induction hypothesis
-where t1 = Bin t3 t4 and t2 = Bin t5 t6 //k + 1
-where t3, t4, t5, t6 = Tip a
-map f (tips (Bin (Bin (Tip a) (Tip a)) (Bin (Tip a) (Tip a)))) = tips (Bin (mapBtree f t1) (mapBtree f t2)) 
-
-            
+        map f (tips (Bin BBB BBB)) =
+        map f (tips BBB ++ tips BBB) =
+        map f (tips BBB) ++ map f (tips BBB) =
+    IH  tips (mapBtree f BBB) ++ tips (mapBtree f BBB) =
+        tips (Bin (mapBtree f BBB) (mapBtree f BBB)) =
+        tips (mapBtree f (Bin BBB BBB))           
