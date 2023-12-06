@@ -11,16 +11,6 @@
             "id": "1634a44a6b981292",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Functional Programming/week 9/exercises9.pdf"
-              }
-            }
-          },
-          {
-            "id": "e271f738428c8d47",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "notes.md",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/week 9/exercises9.pdf",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/week 9/exercises9.pdf",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/week 9/exercises9.pdf"
+                "file": "notes.md"
               }
             }
           },
@@ -188,30 +178,22 @@
   },
   "active": "1634a44a6b981292",
   "lastOpenFiles": [
+    "datamining/Project proposal notes.md",
     "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
-    "datamining/assignment4/assignment_4/toolbox/__pycache__/clusterVal.cpython-311.pyc",
-    "datamining/Project_proposal_Datamining.pdf",
+    "Organisatie Ontwerp/samenvatting-organisatieontwerp-het-nieuwe-organiseren.pdf",
+    "Organisatie Ontwerp/Unconfirmed 993312.crdownload",
+    "Functional Programming/week 10/exercises10.pdf",
     "notes.md",
-    "datamining/exam prep/DataMiningSummary2022.pdf",
-    "Functional Programming/week 9/exercises9.pdf",
-    "Functional Programming/week 9/tut.hs",
-    "Functional Programming/week 9/tut.sh",
-    "Functional Programming/week 9/Stream.hs",
-    "Functional Programming/week 9/ShortCircuit.hs",
-    "Functional Programming/week 9/PolyTypes.hs",
-    "Functional Programming/week 9/Ouroboros.hs",
+    "Functional Programming/week 10/cats",
+    "Functional Programming/week 10/cats.o",
+    "Functional Programming/week 10/cats.o.tmp",
+    "Functional Programming/week 10/cats.hi",
+    "Functional Programming/week 10/cats.hs",
+    "Functional Programming/week 10/square",
+    "Functional Programming/week 10/square.o",
+    "Functional Programming/week 10/tutorial notes.md",
     "Algorithms and Data Structures/week 8/assingment 8.md",
-    "Algorithms and Data Structures/week 8/examplemidterm_with_answers.pdf",
-    "Functional Programming/week 8/exercises8.pdf",
-    "Functional Programming/week 8/assingment8.zip",
-    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
     "Intervention Methodology/exam prep/exam notes.md",
-    "datamining/assignment3/assignment_3/papers/signtest.pdf",
-    "datamining/assignment3/assignment_3/papers/ROC101.pdf",
-    "datamining/assignment3/assignment_3/data/wine.mat",
-    "datamining/assignment3/assignment_3/data/classprobs.xls",
-    "datamining/assignment3/assignment_3/papers",
-    "datamining/assignment3/assignment_3/data",
     "Organisatie Ontwerp/course info/course guide.md",
     "Organisatie Ontwerp/Week 1.md",
     "Intervention Methodology/exam prep/Availibility bais.md",
@@ -233,21 +215,8 @@
     "Intervention Methodology/exam prep/Intevention methods listed.md",
     "Intervention Methodology/exam prep/Sunk-Cost bais.md",
     "Intervention Methodology/exam prep/Proself vs Prosocial.md",
-    "Intervention Methodology/exam prep/Representative bias.md",
-    "Intervention Methodology/exam prep/Social Motivation.md",
-    "legacy/exam.md",
-    "Intervention Methodology/Project proposal notes.md",
-    "Intervention Methodology/lecture 2/frame.md",
-    "Intervention Methodology/lecture 1/lecture 1 notes.md",
-    "Intervention Methodology/lecture 2/notes.md",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
-    "why.md",
     "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
-    "datamining/exam prep/datamining_prep.excalidraw.md",
-    "Algorithms and Data Structures/week 7/Assignment 7.md",
     "Pasted Image 20231023181606_547.png",
-    "datamining/exam prep/exam midterm.md",
-    "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
     "Pasted Image 20231023153228_781.png",
     "Pasted Image 20231023153154_762.png",
     "Pasted Image 20231023150844_314.png",
@@ -255,9 +224,6 @@
     "Pasted Image 20231023144047_034.png",
     "Pasted Image 20231023143814_001.png",
     "Pasted Image 20231023130620_118.png",
-    "Pasted Image 20231023125901_067.png",
-    "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
-    "Algorithms and Data Structures/week 7/Assignment 7.md",
     "Untitled.canvas"
   ]
 }
