@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6111a655efe9af",
+        "id": "0c6f229bc2a2d692",
         "type": "tabs",
         "children": [
           {
-            "id": "1634a44a6b981292",
+            "id": "4987a091e8cd5790",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Functional Programming/week 8/exercises8.pdf"
+                "file": "datamining/datamining.book.pdf.pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/week 8/exercises8.pdf",
+                "file": "datamining/datamining.book.pdf.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/week 8/exercises8.pdf",
+                "file": "datamining/datamining.book.pdf.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/week 8/exercises8.pdf"
+                "file": "datamining/datamining.book.pdf.pdf"
               }
             }
           },
@@ -173,20 +173,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1634a44a6b981292",
+  "active": "4987a091e8cd5790",
   "lastOpenFiles": [
+    "Algorithms and Data Structures/week 13/assignment 13.md",
+    "Functional Programming/week12/Problemsession12.pdf",
+    "Pasted image 20231218201448.png",
+    "Algorithms and Data Structures/week 12/assignment 12.md",
+    "Functional Programming/week 13/Trivia.hs",
+    "Functional Programming/week 13/Person.hs",
+    "Functional Programming/week 13/ParserErr.hs",
+    "Functional Programming/week 13/Parser.hs",
+    "Functional Programming/week 13/ListParse.hs",
+    "Functional Programming/week 13/LiftM.hs",
+    "Functional Programming/week 13/DiceParse.hs",
+    "Functional Programming/week 13/exercises11-templates.zip",
+    "Functional Programming/week 13/Unconfirmed 840152.crdownload",
+    "Pasted image 20231211204807.png",
+    "Pasted image 20231211204803.png",
+    "Pasted image 20231211204710.png",
+    "Pasted image 20231211204604.png",
+    "Pasted image 20231211203819.png",
+    "Pasted image 20231211203808.png",
+    "2023-12-11.md",
+    "Untitled.md",
+    "Algorithms and Data Structures/week 9/assignment9.md",
+    "Algorithms and Data Structures/week 11.md",
+    "Excalidraw/Drawing 2023-12-07 10.39.53.excalidraw.md",
+    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "as;dlkfj;sdal.md",
     "Algorithms and Data Structures/week 8/assingment 8.md",
-    "Algorithms and Data Structures/week 8/examplemidterm_with_answers.pdf",
-    "Functional Programming/week 8/exercises8.pdf",
-    "Functional Programming/week 8/assingment8.zip",
-    "Intervention Methodology/HANDBOOK 2023-2024.pdf",
     "Intervention Methodology/exam prep/exam notes.md",
-    "datamining/assignment3/assignment_3/papers/signtest.pdf",
-    "datamining/assignment3/assignment_3/papers/ROC101.pdf",
-    "datamining/assignment3/assignment_3/data/wine.mat",
-    "datamining/assignment3/assignment_3/data/classprobs.xls",
-    "datamining/assignment3/assignment_3/papers",
-    "datamining/assignment3/assignment_3/data",
     "Organisatie Ontwerp/course info/course guide.md",
     "Organisatie Ontwerp/Week 1.md",
     "Intervention Methodology/exam prep/Availibility bais.md",
@@ -201,25 +217,9 @@
     "Intervention Methodology/exam prep/Social Motivation.md",
     "legacy/exam.md",
     "Intervention Methodology/Project proposal notes.md",
-    "Intervention Methodology/lecture 2/frame.md",
-    "Intervention Methodology/lecture 1/lecture 1 notes.md",
-    "Intervention Methodology/lecture 2/notes.md",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
-    "why.md",
     "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
-    "datamining/exam prep/datamining_prep.excalidraw.md",
-    "Algorithms and Data Structures/week 7/Assignment 7.md",
     "Pasted Image 20231023181606_547.png",
-    "datamining/exam prep/exam midterm.md",
-    "Excalidraw/Drawing 2023-10-23 16.35.00.excalidraw.md",
     "Pasted Image 20231023153228_781.png",
-    "Pasted Image 20231023153154_762.png",
-    "Pasted Image 20231023150844_314.png",
-    "Pasted Image 20231023144641_111.png",
-    "Pasted Image 20231023144047_034.png",
-    "Pasted Image 20231023143814_001.png",
-    "Pasted Image 20231023130620_118.png",
-    "Pasted Image 20231023125901_067.png",
     "Untitled.canvas"
   ]
 }

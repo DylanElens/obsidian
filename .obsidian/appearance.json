@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "textFontFamily": "BerkeleyMono Nerd Font"
+  "textFontFamily": "Inter",
+  "cssTheme": "Catppuccin",
+  "monospaceFontFamily": "BerkeleyMono Nerd Font",
+  "baseFontSize": 21
 }
