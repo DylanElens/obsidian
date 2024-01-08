@@ -4,16 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6f229bc2a2d692",
+        "id": "a3d7c9f61787141e",
         "type": "tabs",
+        "dimension": 41.13672496025437,
         "children": [
           {
-            "id": "4987a091e8cd5790",
+            "id": "059ea235fe5027bb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "datamining/datamining.book.pdf.pdf"
+                "file": "Organisatie Ontwerp/Exam Prep/2223-OO-Voorbeeld-220111-OO-Tt-Compleet-Voorblad+Opgaven-Final.pdf"
+              }
+            }
+          },
+          {
+            "id": "8b15b87d437575c9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Organisatie Ontwerp/slides/23-OO-Hc11-LV-JD2.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1a99662d310fc83",
+        "type": "tabs",
+        "dimension": 58.86327503974563,
+        "children": [
+          {
+            "id": "2200fdbe3d730b2c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Organisatie Ontwerp/slides/LEAN deel 1 11-12-2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "2c0f7f7256ec4f69",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Organisatie Ontwerp/Samenvatting boek/Stuvia-394542-het-nieuwe-organiseren-kuipers-van-amelsvoort-kramer-samenvatting.pdf"
+              }
+            }
+          },
+          {
+            "id": "79f7bf40ceaeb59e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Organisatie Ontwerp/slides/LEAN deel 2 13-12-2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "8c7536f9b271afe8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 19.10.45.excalidraw.md"
               }
             }
           }
@@ -75,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dc31b20112cb9f3",
@@ -91,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datamining/datamining.book.pdf.pdf",
+                "file": "Organisatie Ontwerp/Exam Prep/2223-OO-Voorbeeld-220111-OO-Tt-Compleet-Voorblad+Opgaven-Final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datamining/datamining.book.pdf.pdf",
+                "file": "Organisatie Ontwerp/Exam Prep/2223-OO-Voorbeeld-220111-OO-Tt-Compleet-Voorblad+Opgaven-Final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datamining/datamining.book.pdf.pdf"
+                "file": "Organisatie Ontwerp/Exam Prep/2223-OO-Voorbeeld-220111-OO-Tt-Compleet-Voorblad+Opgaven-Final.pdf"
               }
             }
           },
@@ -149,7 +208,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -173,53 +234,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4987a091e8cd5790",
+  "active": "059ea235fe5027bb",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/week 13/assignment 13.md",
-    "Functional Programming/week12/Problemsession12.pdf",
-    "Pasted image 20231218201448.png",
-    "Algorithms and Data Structures/week 12/assignment 12.md",
-    "Functional Programming/week 13/Trivia.hs",
-    "Functional Programming/week 13/Person.hs",
-    "Functional Programming/week 13/ParserErr.hs",
-    "Functional Programming/week 13/Parser.hs",
-    "Functional Programming/week 13/ListParse.hs",
-    "Functional Programming/week 13/LiftM.hs",
-    "Functional Programming/week 13/DiceParse.hs",
-    "Functional Programming/week 13/exercises11-templates.zip",
-    "Functional Programming/week 13/Unconfirmed 840152.crdownload",
-    "Pasted image 20231211204807.png",
-    "Pasted image 20231211204803.png",
-    "Pasted image 20231211204710.png",
-    "Pasted image 20231211204604.png",
-    "Pasted image 20231211203819.png",
-    "Pasted image 20231211203808.png",
+    "Organisatie Ontwerp/slides/LEAN deel 1 11-12-2023.pdf",
+    "Organisatie Ontwerp/slides/LEAN deel 2 13-12-2023.pdf",
+    "Organisatie Ontwerp/Exam Prep/2223-OO-Voorbeeld-220111-OO-Tt-Compleet-Voorblad+Opgaven-Final.pdf",
+    "Excalidraw/Drawing 2024-01-08 19.10.45.excalidraw.md",
+    "Organisatie Ontwerp/Samenvatting boek/Stuvia-394542-het-nieuwe-organiseren-kuipers-van-amelsvoort-kramer-samenvatting.pdf",
+    "Organisatie Ontwerp/slides/23-OO-Hc15-Sys-Vgl+IS+Why-OO-LJL-Bs.pdf",
+    "Organisatie Ontwerp/slides/23-OO-Hc15-Sys-Vgl+IS+Why-OO-LJL-Bs1.pdf",
+    "Organisatie Ontwerp/slides/23-OO-Hc11-LV-JD2.pdf",
+    "Organisatie Ontwerp/slides/23-OO-Hc10-LV-JD1.pdf",
+    "Organisatie Ontwerp/Exam Prep/2324-OO-LJL's-afko's-v231030.pdf",
+    "Organisatie Ontwerp/Samenvatting-OO.md",
+    "Organisatie Ontwerp/slides/23-OO-Hc3-LJL-Modelleren-Bs.pdf",
+    "Pasted Image 20240108213724_280.png",
+    "Excalidraw/Drawing 2024-01-08 19.12.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-06 22.01.35.excalidraw.md",
+    "Functional Programming/examprep/Drawing 2024-01-05 11.08.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-18 08.58.14.excalidraw.md",
+    "Pasted image 20240104172105.png",
+    "System Theory/Course information.md",
+    "Pasted image 20240104175824.png",
+    "Pasted image 20240104173246.png",
+    "Pasted image 20240104172812.png",
+    "Pasted image 20240104172307.png",
+    "Pasted image 20240104171810.png",
+    "Pasted image 20240104170804.png",
+    "Pasted image 20240104170618.png",
+    "Pasted image 20240104170600.png",
+    "Untitled 1.md",
     "2023-12-11.md",
-    "Untitled.md",
-    "Algorithms and Data Structures/week 9/assignment9.md",
-    "Algorithms and Data Structures/week 11.md",
-    "Excalidraw/Drawing 2023-12-07 10.39.53.excalidraw.md",
     "System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
-    "as;dlkfj;sdal.md",
-    "Algorithms and Data Structures/week 8/assingment 8.md",
-    "Intervention Methodology/exam prep/exam notes.md",
+    "System Theory/week 4/workgroup-notes.excalidraw.md",
+    "System Theory/week 4/workgroup notes.md",
+    "System Theory/week 3/lecture notes.md",
+    "System Theory/week 3/lecture drawing.md",
+    "System Theory/week 2/Lecture notes.md",
+    "System Theory/week 1/lecture notes.md",
+    "Organisatie Ontwerp/System Theory/week 4/workgroup-notes.excalidraw.md",
+    "Organisatie Ontwerp/System Theory/week 4/workgroup notes.md",
+    "Organisatie Ontwerp/System Theory/week 3/lecture notes.md",
+    "Organisatie Ontwerp/System Theory/week 3/lecture drawing.md",
+    "Organisatie Ontwerp/System Theory/week 2/Lecture notes.md",
+    "Organisatie Ontwerp/System Theory/week 1/lecture notes.md",
+    "Organisatie Ontwerp/System Theory/exam prep/system_theory_exam_prep.excalidraw.md",
+    "Organisatie Ontwerp/System Theory/Course information.md",
     "Organisatie Ontwerp/course info/course guide.md",
-    "Organisatie Ontwerp/Week 1.md",
-    "Intervention Methodology/exam prep/Availibility bais.md",
-    "Intervention Methodology/exam prep/Confirmation bais.md",
-    "Intervention Methodology/exam prep/Cognitive motivation.md",
-    "Intervention Methodology/exam prep/Anchoring bias.md",
-    "Intervention Methodology/exam prep/frame.md",
-    "Intervention Methodology/exam prep/Intevention methods listed.md",
-    "Intervention Methodology/exam prep/Sunk-Cost bais.md",
-    "Intervention Methodology/exam prep/Proself vs Prosocial.md",
-    "Intervention Methodology/exam prep/Representative bias.md",
-    "Intervention Methodology/exam prep/Social Motivation.md",
-    "legacy/exam.md",
-    "Intervention Methodology/Project proposal notes.md",
-    "System Theory/exam prep/system_theory_exam_prep.excalidraw.png",
-    "Pasted Image 20231023181606_547.png",
-    "Pasted Image 20231023153228_781.png",
     "Untitled.canvas"
   ]
 }
